@@ -1,0 +1,26 @@
+# Time-pressure cues (§1.2 "urgency cues such as 'claim now'"). Substring match on normalized text.
+claim now
+act now
+act fast
+hurry
+last chance
+ends soon
+ending soon
+before midnight
+limited time
+limited spots
+only a few hours
+only hours left
+first come first served
+first 100
+first 500
+don't miss
+dont miss
+expires in
+expires today
+today only
+while supplies last
+before it's gone
+before its gone
+ending in
+last call

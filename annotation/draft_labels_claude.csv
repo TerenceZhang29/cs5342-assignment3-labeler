@@ -1,0 +1,169 @@
+id,draft_label,draft_rationale,labeler_prediction_v1.1
+r001,none,"Informational posts about real airdrops (Linea, ZKsync, Jupiter); no link or solicitation.",unverified-airdrop
+r005,none,Gas-price bot with an airdrop warning.,none
+r007,unverified-airdrop,"'Solana airdrop' account sending users to register at sol-drop.icu (unofficial, cheap TLD). Could be S - discuss.",unverified-airdrop
+r012,unverified-airdrop,Promotes 'RWA airdrop' claim on own unverified site.,unverified-airdrop
+r013,none,"News-style post about a real project's claim deadline linking to a blog, not a claim site (low confidence: could be U).",unverified-airdrop
+r018,unverified-airdrop,Promotes 'RWA airdrop' claim on own unverified site.,none
+r020,none,Satire about paying gas for small airdrops.,none
+r023,none,Gas-price bot with an airdrop warning.,none
+r025,none,Self-disclosed referral link to a real exchange (toobit.com).,unverified-airdrop
+r026,none,Gas-price bot with an airdrop warning.,none
+r029,none,Gas-price bot with an airdrop warning.,none
+r035,none,Satire about paying gas for small airdrops.,crypto-scam
+r043,unverified-airdrop,"Telegram airdrop with urgency ('hurry', 'I will delete this post').",unverified-airdrop
+r046,unverified-airdrop,"Paid NFT mint required to be eligible for token airdrop, with deadline - pay-to-qualify promotion needs review.",unverified-airdrop
+r051,unverified-airdrop,'ETH airdrop eligibility check live' written with Cyrillic homoglyphs - deliberate filter evasion; no visible link (could be S - discuss).,none
+r053,none,"Informational posts about real airdrops (Linea, ZKsync, Jupiter); no link or solicitation.",unverified-airdrop
+r054,none,Exchange/campaign news; no solicitation beyond official channels.,unverified-airdrop
+r058,none,Apple AirDrop (not crypto).,none
+r059,unverified-airdrop,"$FRUTI airdrop is live, Telegram join link, participant cap.",unverified-airdrop
+r069,unverified-airdrop,"Paid NFT mint required to be eligible for token airdrop, with deadline - pay-to-qualify promotion needs review.",unverified-airdrop
+r070,unverified-airdrop,Promotes 'RWA airdrop' claim on own unverified site.,unverified-airdrop
+r071,unverified-airdrop,"Paid NFT mint required to be eligible for token airdrop, with deadline - pay-to-qualify promotion needs review.",unverified-airdrop
+r076,unverified-airdrop,Promotes airdrop accessible only via Discord server.,none
+r080,unverified-airdrop,Airdrop/testnet farming guide: connect wallet + shortened da.gd link to unverified project.,unverified-airdrop
+r081,unverified-airdrop,"Airdrop giveaway with urgency ('limited time, limited spots') and shortened link.",unverified-airdrop
+r083,unverified-airdrop,"Claim page via shortened link; connect wallet; small claim fee (~$0.30 SOL) looks like network fee - review, not proven scam.",unverified-airdrop
+r086,none,Airdrop information/listing pages; no claim solicitation.,none
+r088,none,Airdrop information/listing pages; no claim solicitation.,none
+r093,none,Airdrop information/listing pages; no claim solicitation.,none
+r109,none,Educational guide/article about airdrops or fees.,unverified-airdrop
+r113,unverified-airdrop,Promotes airdrop accessible only via Discord server.,none
+r116,unverified-airdrop,"Telegram airdrop with urgency ('hurry', 'I will delete this post').",unverified-airdrop
+r123,unverified-airdrop,Identical '$GIDO free mining' referral promo from several accounts.,none
+r124,unverified-airdrop,Identical '$GIDO free mining' referral promo from several accounts.,none
+r125,unverified-airdrop,Identical '$GIDO free mining' referral promo from several accounts.,none
+r126,none,Product/NFT sale announcement; no deceptive claim.,unverified-airdrop
+r127,none,Airdrop information/listing pages; no claim solicitation.,none
+r130,none,'Spot the scam' educational series quoting scam text.,unverified-airdrop
+r131,none,'Spot the scam' educational series quoting scam text.,none
+r139,none,Zero-width-character-obfuscated 'WATCH' link to onemusk.org about Musk/Tesla - suspicious (likely deepfake funnel) but no giveaway visible; discuss.,none
+r141,none,"Security news, warnings or education.",none
+r142,none,News/commentary about deepfake Elon 'double your crypto' scams.,unverified-airdrop
+r150,none,Non-crypto spam ('Stripchat tokens'); out of policy scope.,unverified-airdrop
+r151,none,Non-crypto spam ('Stripchat tokens'); out of policy scope.,unverified-airdrop
+r155,none,News/commentary about deepfake Elon 'double your crypto' scams.,none
+r159,none,News/commentary about deepfake Elon 'double your crypto' scams.,none
+r161,none,News/commentary about deepfake Elon 'double your crypto' scams.,none
+r167,none,"Security news, warnings or education.",none
+r174,crypto-scam,"Fake testimonial for a '2x crypto giveaway' (money-flip) linking to tsocial.click, a Truth Social look-alike on a cheap TLD.",unverified-airdrop
+r177,none,"Engagement giveaway (follow/like/tag); no wallet, claim link or payment request. Handle 'binancearmy' is borderline impersonation - discuss.",unverified-airdrop
+r186,none,Unrelated or ordinary crypto/tech content.,none
+r188,none,"Security news, warnings or education.",none
+r189,unverified-airdrop,"'Little Pepe Mega Giveaway' + wn.nr shortener, posted repeatedly.",none
+r194,unverified-airdrop,"'Little Pepe Mega Giveaway' + wn.nr shortener, posted repeatedly.",none
+r195,unverified-airdrop,"'Little Pepe Mega Giveaway' + wn.nr shortener, posted repeatedly.",none
+r200,unverified-airdrop,"'Little Pepe Mega Giveaway' + wn.nr shortener, posted repeatedly.",none
+r206,none,"Small guess-the-price contest; no payment, wallet connect or link.",none
+r210,none,"Crypto casino promotion; gambling ad, not an airdrop scam (out of policy scope).",unverified-airdrop
+r213,none,"Crypto casino promotion; gambling ad, not an airdrop scam (out of policy scope).",unverified-airdrop
+r214,none,"Crypto casino promotion; gambling ad, not an airdrop scam (out of policy scope).",unverified-airdrop
+r215,crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,none
+r216,crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,none
+r217,crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,none
+r218,crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,none
+r219,crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,none
+r220,crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,none
+r221,crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,none
+r222,crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,none
+r223,crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,none
+r224,crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,none
+r225,crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,none
+r226,crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,none
+r227,crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,none
+r234,none,Unrelated or ordinary crypto/tech content.,none
+r236,none,Unrelated or ordinary crypto/tech content.,none
+r247,none,Unrelated or ordinary crypto/tech content.,none
+r250,none,"Testnet faucet tutorial; 'Send me ETH' is a button on the official Alchemy faucet, not a send-to-receive promise.",crypto-scam
+r251,none,"Testnet faucet tutorial; 'Send me ETH' is a button on the official Alchemy faucet, not a send-to-receive promise.",none
+r252,none,"Testnet faucet tutorial; 'Send me ETH' is a button on the official Alchemy faucet, not a send-to-receive promise.",crypto-scam
+r253,none,"Testnet faucet tutorial; 'Send me ETH' is a button on the official Alchemy faucet, not a send-to-receive promise.",crypto-scam
+r255,none,"Testnet faucet tutorial; 'Send me ETH' is a button on the official Alchemy faucet, not a send-to-receive promise.",crypto-scam
+r256,none,"Testnet faucet tutorial; 'Send me ETH' is a button on the official Alchemy faucet, not a send-to-receive promise.",none
+r257,none,"Testnet faucet tutorial; 'Send me ETH' is a button on the official Alchemy faucet, not a send-to-receive promise.",crypto-scam
+r258,none,"Testnet faucet tutorial; 'Send me ETH' is a button on the official Alchemy faucet, not a send-to-receive promise.",crypto-scam
+r259,none,"Testnet faucet tutorial; 'Send me ETH' is a button on the official Alchemy faucet, not a send-to-receive promise.",unverified-airdrop
+r262,none,Unrelated or ordinary crypto/tech content.,none
+r271,none,Game 'free crypto coins' blog spam; not a crypto giveaway solicitation.,unverified-airdrop
+r273,none,News/commentary about deepfake Elon 'double your crypto' scams.,crypto-scam
+r274,none,News/commentary about deepfake Elon 'double your crypto' scams.,crypto-scam
+r277,none,Unrelated or ordinary crypto/tech content.,none
+r278,crypto-scam,'Double your deposit? Easy. Contact t.me/...' - money-flip solicitation with guaranteed-profit framing.,crypto-scam
+r286,none,Unrelated or ordinary crypto/tech content.,none
+r289,none,Unrelated or ordinary crypto/tech content.,none
+r290,none,Unrelated or ordinary crypto/tech content.,none
+r292,none,Unrelated or ordinary crypto/tech content.,none
+r301,none,"Security news, warnings or education.",none
+r307,none,"Project warning: only official site, never share seed phrase.",none
+r311,none,Unrelated use of 'tokens'/'seed phrase' (product description).,crypto-scam
+r314,none,"Security news, warnings or education.",none
+r315,none,"Security news, warnings or education.",none
+r316,none,'Spot the scam' educational series quoting scam text.,none
+r329,none,"Security news, warnings or education.",none
+r340,none,"Project warning: only official site, never share seed phrase.",unverified-airdrop
+r343,none,"Security news, warnings or education.",none
+r352,none,Unrelated or ordinary crypto/tech content.,none
+r359,none,"Security news, warnings or education.",none
+r365,none,"Security news, warnings or education.",none
+r368,none,Unrelated or ordinary crypto/tech content.,none
+r386,none,Unrelated or ordinary crypto/tech content.,none
+r388,none,"Security news, warnings or education.",none
+r391,none,'Spot the scam' educational series quoting scam text.,none
+r392,none,Product/NFT sale announcement; no deceptive claim.,none
+r397,unverified-airdrop,Airdrop/testnet farming guide: connect wallet + shortened da.gd link to unverified project.,unverified-airdrop
+r398,none,Testnet guide on the project's own domains; explicitly says test tokens have zero value and not to send real funds.,unverified-airdrop
+r399,none,Testnet steps (claim testnet tokens) with no reward promise or link.,none
+r400,unverified-airdrop,Testnet/airdrop farming with connect-wallet steps on an unverified site.,none
+r401,unverified-airdrop,Airdrop/testnet farming guide: connect wallet + shortened da.gd link to unverified project.,none
+r402,unverified-airdrop,Airdrop/testnet farming guide: connect wallet + shortened da.gd link to unverified project.,unverified-airdrop
+r405,unverified-airdrop,"ITLG rewards: hold 10,000 tokens + KYC + connect wallet before cutoff.",none
+r407,crypto-scam,Handle impersonates BONK; free $BONK airdrop on unofficial domain dropsol.solstudio.cc + connect wallet & claim (drainer pattern).,crypto-scam
+r411,unverified-airdrop,Testnet/airdrop farming with connect-wallet steps on an unverified site.,unverified-airdrop
+r412,unverified-airdrop,Testnet/airdrop farming with connect-wallet steps on an unverified site.,unverified-airdrop
+r413,unverified-airdrop,Testnet/airdrop farming with connect-wallet steps on an unverified site.,unverified-airdrop
+r415,unverified-airdrop,Airdrop/testnet farming guide: connect wallet + shortened da.gd link to unverified project.,unverified-airdrop
+r418,none,"Informational posts about real airdrops (Linea, ZKsync, Jupiter); no link or solicitation.",unverified-airdrop
+r420,none,Unrelated or ordinary crypto/tech content.,none
+r422,none,Unrelated or ordinary crypto/tech content.,none
+r437,none,Bare referral link to a KYC page (interlinklabs); no claim text - low confidence.,none
+r439,none,Unrelated or ordinary crypto/tech content.,none
+r442,none,Unrelated use of 'tokens'/'seed phrase' (product description).,unverified-airdrop
+r446,none,Educational guide/article about airdrops or fees.,unverified-airdrop
+r449,none,Unrelated or ordinary crypto/tech content.,none
+r450,none,Referral code for an AI app ('tokens' = AI credits).,unverified-airdrop
+r453,none,Unrelated or ordinary crypto/tech content.,none
+r454,none,Referral code for an AI app ('tokens' = AI credits).,unverified-airdrop
+r467,none,Unrelated or ordinary crypto/tech content.,none
+r484,none,Unrelated or ordinary crypto/tech content.,none
+r485,none,Unrelated or ordinary crypto/tech content.,none
+r486,none,Unrelated or ordinary crypto/tech content.,none
+r489,none,Unrelated or ordinary crypto/tech content.,none
+r499,unverified-airdrop,Shortened 'airdrop link' (tinyurl) despite a generic scam disclaimer.,none
+r500,none,Unrelated or ordinary crypto/tech content.,none
+r501,none,Unrelated or ordinary crypto/tech content.,none
+r504,none,Educational guide/article about airdrops or fees.,none
+r505,none,Educational guide/article about airdrops or fees.,unverified-airdrop
+r506,none,Unrelated or ordinary crypto/tech content.,none
+r509,none,Unrelated or ordinary crypto/tech content.,none
+r510,none,Unrelated or ordinary crypto/tech content.,none
+r512,none,Product/NFT sale announcement; no deceptive claim.,unverified-airdrop
+r514,none,Referral challenge with published rules and no purchase.,none
+r516,unverified-airdrop,'KuCoin X YOM' giveaway behind a wn.nr shortener; KuCoin affiliation unverifiable; repeated.,unverified-airdrop
+r517,unverified-airdrop,'KuCoin X YOM' giveaway behind a wn.nr shortener; KuCoin affiliation unverifiable; repeated.,unverified-airdrop
+r519,unverified-airdrop,Unverified airdrop/giveaway campaign behind wn.nr shortener.,none
+r520,none,Exchange/campaign news; no solicitation beyond official channels.,unverified-airdrop
+r524,none,Exchange/campaign news; no solicitation beyond official channels.,none
+r526,unverified-airdrop,Unverified airdrop/giveaway campaign behind wn.nr shortener.,none
+r530,unverified-airdrop,Unverified airdrop/giveaway campaign behind wn.nr shortener.,none
+r538,none,Exchange/campaign news; no solicitation beyond official channels.,none
+r539,none,Exchange/campaign news; no solicitation beyond official channels.,unverified-airdrop
+r546,none,Unrelated or ordinary crypto/tech content.,none
+r547,none,Artist/free NFT mint announcement (gas only); no deception.,none
+r551,none,Artist/free NFT mint announcement (gas only); no deception.,none
+r555,none,Artist/free NFT mint announcement (gas only); no deception.,none
+r556,none,Product/NFT sale announcement; no deceptive claim.,unverified-airdrop
+r558,none,Product/NFT sale announcement; no deceptive claim.,unverified-airdrop
+r561,none,Product/NFT sale announcement; no deceptive claim.,unverified-airdrop
+r578,unverified-airdrop,Free NFT mint with urgency ('hurry to grab your chance') via third-party referral link dappcrypto.org/r/...,none
+r581,none,Unrelated or ordinary crypto/tech content.,none

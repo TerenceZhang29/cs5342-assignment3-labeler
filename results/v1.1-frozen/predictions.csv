@@ -1,0 +1,1043 @@
+id,split,source,category,expected_label,predicted_label,tier,score,hard_indicators,reasons,latency_ms,text
+r262,dev,real,real/none,none,none,skipped,0.0,,,0.3076,"there have been a LOT of letters coming in from Celsius creditors who are having issues receiving reimbursements from the bankruptcy case
+
+over forty letters were filed yesterday, and more are coming in each day"
+r259,test,real,real/none,none,unverified-airdrop,review,4.0,,"giveaway_offer (""claim usdt"") | unverified_airdrop_link (""discord.gg"") | very_new_account (""4.1 days old"")",5.4835,"4/ Claim USDT & USDC
+
+⭕✨ Go to https://discord.gg/HAuVnEC7aq
+
+➖ Verify yourself
+
+➖ Go to #faucet channel and send the following command
+
+➖ /faucet YOUR_ADDRESS
+
+➖ You should receive USDC, USDT, DAI and ETH on Superseed Testnet"
+r258,test,real,real/none,none,crypto-scam,scam,9.0,send_to_receive,"send_to_receive (""send me eth' 👉 you need at least 0.001 $eth on the mainne..."") | giveaway_offer (""receive faucet tokens"") | unverified_airdrop_link (""www.alchemy.com"") | very_new_account (""5.1 days old"")",1.7569,"2/ Claim faucet
+
+⭕✨ Go to : https://www.alchemy.com/faucets/ethereum-sepolia
+
+➖ Click 'Signin'
+
+➖ Enter EVM address
+
+➖ Complete captcha
+
+➖ Click 'Send me ETH'
+
+👉 You need at least 0.001 $ETH on the mainnet to receive faucet tokens."
+r257,dev,real,real/none,none,crypto-scam,scam,7.5,send_to_receive,"send_to_receive (""send me eth' 👉 you need at least 0.001 $eth on the mainne..."") | giveaway_offer (""receive faucet tokens"") | new_account (""17 days old"")",1.2288,"1/ Get faucet
+
+⭕✨ Go to : www.alchemy.com/faucets/eth...
+
+➖ Click 'Signin'
+
+➖ Enter EVM address
+
+➖ Complete captcha
+
+➖ Click 'Send me ETH'
+
+👉 You need at least 0.001 $ETH on the mainnet to receive faucet tokens."
+r256,test,real,real/none,none,none,none,2.5,,"giveaway_offer (""receive faucet tokens"") | new_account (""18 days old"")",1.2184,"1/ Get faucet
+
+⭕✨ Go to : www.alchemy.com/faucets/arb...
+
+➖ Click 'Signin'
+
+➖ Enter EVM address
+
+➖ Complete captcha
+
+➖ Click 'Send me ETH'
+
+👉 You need at least 0.001 Arbitrum ETH on the mainnet to receive faucet tokens."
+r255,test,real,real/none,none,crypto-scam,scam,7.5,send_to_receive,"send_to_receive (""send me eth' 👉 you need at least 0.001 $eth on the base m..."") | giveaway_offer (""receive faucet tokens"") | new_account (""20 days old"")",1.2302,"2/ Unofficial faucet
+
+⭕✨ Go to : www.alchemy.com/faucets/bas...
+
+➖ Click 'Signin'
+
+➖ Enter EVM address
+
+➖ Complete captcha
+
+➖ Click 'Send me ETH'
+
+👉 You need at least 0.001 $ETH on the Base mainnet to receive faucet tokens."
+r253,dev,real,real/none,none,crypto-scam,scam,7.5,send_to_receive,"send_to_receive (""send me eth' 👉 you need at least 0.001 $eth on the mainne..."") | giveaway_offer (""receive faucet tokens"") | unverified_airdrop_link (""www.alchemy.com"")",1.2061,"1/ Claim faucet
+
+⭕✨ Go to : www.alchemy.com/faucets/eth...
+
+➖ Click 'Signin'
+
+➖ Enter EVM address
+
+➖ Complete captcha
+
+➖ Click 'Send me ETH'
+
+👉 You need at least 0.001 $ETH on the mainnet to receive faucet tokens."
+r252,test,real,real/none,none,crypto-scam,scam,6.5,send_to_receive,"send_to_receive (""send me eth' 👉 you need at least 0.001 $eth on the mainne..."") | giveaway_offer (""receive faucet tokens"")",1.2483,"2/ Get faucet
+
+⭕✨ Go to : www.alchemy.com/faucets/eth...
+
+➖ Click 'Signin'
+
+➖ Enter EVM address
+
+➖ Complete captcha
+
+➖ Click 'Send me ETH'
+
+👉 You need at least 0.001 $ETH on the mainnet to receive faucet tokens."
+r251,test,real,real/none,none,none,none,1.5,,"giveaway_offer (""receive faucet tokens"")",1.1107,"2/ Faucet
+
+⭕✨ Go to : www.alchemy.com/faucets/eth...
+
+➖  Click 'Signin'
+
+➖ Enter EVM address
+
+➖ Complete captcha
+
+➖ Click 'Send me ETH'
+
+👉 You need at least 0.001 Base ETH on the mainnet to receive faucet tokens."
+r250,dev,real,real/none,none,crypto-scam,scam,6.5,send_to_receive,"send_to_receive (""send me eth' 👉 you need at least 0.001 $eth on base mainn..."") | giveaway_offer (""receive faucet tokens"")",1.2338,"2/ Faucet
+
+⭕✨ Go to : www.alchemy.com/faucets/bas...
+
+➖ Click 'Signin'
+
+➖ Enter EVM address
+
+➖ Complete captcha
+
+➖ Click 'Send me ETH'
+
+👉 You need at least 0.001 $ETH on Base mainnet to receive faucet tokens."
+r510,test,real,real/none,none,none,none,0.0,,,1.4972,"0% Fee Crypto Payments – Powered By a Neobank
+
+Keabank is a global crypto-friendly neobank, bridging traditional and innovative banking services. Businesses across industries can onboard effortlessly, complete a single verification, and access a full suite of banking and crypto p…
+
+#hackernews #news"
+r247,test,real,real/none,none,none,none,1.5,,"giveaway_offer (""receive, swap, bridge, buy sol"")",0.5337,"Big news! MetaMask browser extension now natively supports Solana! 🎉 Manage ETH & SOL together in one wallet. Seamlessly send, receive, swap, bridge, buy SOL & access Solana dapps. Mobile coming soon. Your essential multi-chain wallet! #MetaMask #Solana #CryptoWallet #Web3
+
+#blockchain #news "
+r509,dev,real,real/none,none,none,none,0.0,,,0.626,"🇺🇸 #KCS
+KuCoin has announced the introduction of an inactivity fee for inactive accounts without KYC/KYB, requiring users to withdraw assets, which may affect customers from restricted regions, such as the US and mainland China, as they will be unable to pass verification
+
+#crypto #blockchain #news"
+r200,dev,real,real/unverified-airdrop,unverified-airdrop,none,none,1.0,,"unverified_airdrop_link (""wn.nr"")",0.5804,Little Pepe Mega Giveaway wn.nr/SmHhUZd
+r195,test,real,real/unverified-airdrop,unverified-airdrop,none,none,1.0,,"unverified_airdrop_link (""wn.nr"")",0.5907,Little Pepe Mega Giveaway wn.nr/SmHhUZd
+r194,test,real,real/unverified-airdrop,unverified-airdrop,none,none,1.0,,"unverified_airdrop_link (""wn.nr"")",0.5563,Little Pepe Mega Giveaway wn.nr/SmHhUZd
+r189,dev,real,real/unverified-airdrop,unverified-airdrop,none,none,1.0,,"unverified_airdrop_link (""wn.nr"")",0.5868,Little Pepe Mega Giveaway wn.nr/SmHhUZd
+r188,test,real,real/none,none,none,none,2.5,,"giveaway_offer (""airdrop, free mint, giveaway, $sol"") | unverified_airdrop_link (""x.com"")",1.2355,"airdrop, free mint, giveaway, $SOL, $ETH, $BTC, pump, moonshot, 100x, gem, presale, whitelist, WL spot, alpha leak, NFT drop, rugpull, shill, DYOR, HODL, degens, trenches, CA, contract address, LFG, WAGMI, to the moon, bullish, bear m…
+
+— from @j2k3k (https://x.com/j2k3k/status/2047354918139265459)"
+r186,test,real,real/none,none,none,none,0.0,,,0.9415,"
+Bluesky's Top 10 Trending Words (past 10min):
+💨x108 - battlepass
+💨x1* - epstein 🔓
+💨x50 - evercold
+💨x42 - dailies
+💨x1* - ukraine 🔓
+💨x38 - tomestones
+💨x36 - elephants
+💨x30 - hostel
+💨x1* - democracy 🔓
+💨x28 - ui
+*🔓 = Unlocked Emergency Words (see img)
+
+#FreePalestine 🇵🇸
+
+(Something not right? Reply!)"
+r539,dev,real,real/none,none,unverified-airdrop,review,3.5,,"giveaway_offer (""win from a $100k usdt"") | urgency (""don't miss"") | unverified_airdrop_link (""cryptovka.com"")",1.4774,"🚀 HTX Exchange launches ""$HTX Frenzy"" campaign April 24 - May 15, 2026! Win from a $100K USDT prize pool & electronics like AirPods Pro 3, Apple Watch Ultra 3. Event features asset holding airdrops, spot, grid trading & flexible yield with 4% APY on $HTX token. Don't miss out! #HTX #Crypto #Giveaway"
+r506,test,real,real/none,none,none,none,0.0,,,0.6733,
+r538,test,real,real/none,none,none,none,2.5,,"giveaway_offer (""giveaway! ⚽️ 💰 #btcc #afa #crypto"") | unverified_airdrop_link (""cryptovka.com"")",1.323,"BTCC partners with Argentine Football Association (AFA) for ""Legends"" campaign, uniting digital finance & sports. Celebrating BTCC's 15th anniversary with a 1M USDT trading championship & Messi jersey giveaway! ⚽️ 💰 #BTCC #AFA #Crypto"
+r499,test,real,real/unverified-airdrop,unverified-airdrop,none,none,-2.0,,"scam_warning (""beware"") | shortened_link (""tinyurl.com"") | unverified_airdrop_link (""tinyurl.com"")",1.1683,"Airdrop Link: Tinyurl.com/bd9m86mj
+Beware of scams & phishing attempts. Always DYOR. Airdrops & crypto mining apps are usually free, if you are asked to pay for them, it's likely a scam. Before clicking the above link, please verify/preview it here: Expandurl.net"
+r489,dev,real,real/none,none,none,none,-4.0,,"scam_warning (""impersonation"")",0.9077,Android phones will soon be able to detect spoofed calls and impersonation scams
+r486,test,real,real/none,none,none,none,-4.0,,"scam_warning (""impersonation"")",0.6317,Android phones will soon be able to detect spoofed calls and impersonation scams
+r485,test,real,real/none,none,none,none,1.0,,"unverified_airdrop_link (""ift.tt"")",0.6093,"Google announces deepfake call detection for Android, new AirDrop device support"
+r484,dev,real,real/none,none,none,none,0.0,,,0.9113,"Feed: ""Ars Technica - All content""
+By: Ryan Whitwam on Tuesday, June 2, 2026"
+r236,test,real,real/none,none,none,none,0.0,,,0.3923,"ENS isn't just for addresses. Link your .eth name to decentralized communication protocols for secure messaging and email. Send and receive with confidence, knowing your communications are tied to your verifiable identity. Upgrade your digital interactions with ENS."
+r234,test,real,real/none,none,none,none,0.0,,,0.3167,"ENS goes beyond addresses. Link your .eth name to decentralized communication protocols for secure messaging and email. Send and receive with confidence, knowing your communications are tied to your verifiable digital identity."
+r530,test,real,real/unverified-airdrop,unverified-airdrop,none,none,2.5,,"giveaway_offer (""win: ⭐ 50 winners get $usdt"") | unverified_airdrop_link (""wn.nr"")",0.956,"🚀 Join the Spores x MST Blockchain Presale Boosting Giveaway!  
+Complete tasks, boost engagement, and win:
+⭐ 50 winners get $USDT
+⭐ 250 winners get 200 $MSTC each
+Extra perks for top referrers!
+wn.nr/JmZMgqk"
+r415,dev,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,3.5,,"giveaway_offer (""claim your spot. ➖ done! ✅ 🏆 never miss any airdrop"") | claim_cta (""claim your"") | unverified_airdrop_link (""da.gd"")",1.2742,"USDCurve (Arc Chain) Early Access Whitelist is Now Open! 🆕
+
+🟠 Register here : da.gd/HvKO
+
+➖ Connect your EVM Wallet.
+➖ Submit your details.
+➖ Complete all tasks & Claim your spot.
+➖ Done! ✅
+
+🏆 Never Miss Any Airdrop Again, Join Me on TG : da.gd/mpLo
+
+#SOL #Airdrop #Rewards #ETH #Bitcoin #DeFi"
+r526,test,real,real/unverified-airdrop,unverified-airdrop,none,none,2.5,,"unverified_airdrop_link (""wn.nr"") | very_new_account (""0.0 days old"")",0.6096,AiMASH Exclusive Airdrop Campaign wn.nr/PErPQRc
+r524,dev,real,real/none,none,none,none,2.5,,"giveaway_offer (""giveaway jul 22 2026 15:41 utc #phemex #rwa-token"") | unverified_airdrop_link (""rwatimes.io"")",0.9337,"Phemex launches $100 USDT RWA token identification giveaway
+Jul 22 2026 15:41 UTC
+#phemex #rwa-token #giveaway #usdt-bonus #cryptocurrency-exchange #tradfi-futures #ai-related-assets"
+r177,test,real,real/none,none,unverified-airdrop,review,3.5,,"giveaway_offer (""$100 sol giveaway"") | impersonation_handle (""@binancearmy.bsky.social ~ Binance"")",0.4995,"$100 Sol giveaway 
+
+🔸 Follow me 
+🔸 Like & RT this post 
+🔸Tag 2 friends
+
+#BTC #Sol #BNB #ETH #ADA #Dot #XRP #TRX #ARB #RobinHoodChain
+#PulseChain #Sui #Ray #Jup #Doge"
+r505,test,real,real/none,none,unverified-airdrop,review,3.5,,"giveaway_offer (""claiming airdrops"") | unverified_airdrop_link (""wakeuptocrypto.com"") | new_account (""14 days old"")",1.2528,"Check gas fees on crypto airdrops. Focuses on checking gas fees when claiming airdrops without deposit verification.
+
+https://wakeuptocrypto.com/guides/crypto-airdrop-claim-asks-for-gas-fee/
+
+#CryptoFaucets"
+r504,dev,real,real/none,none,none,none,0.5,upfront_fee,"upfront_fee (""fees before withdrawal"") | giveaway_offer (""free crypto"") | scam_warning (""warning"") | new_account (""15 days old"")",1.2222,"Free Crypto Sites Hinting Fees? Warning sign if crypto sites request tax, verification, or unlock fees before withdrawal; check if payment can be deducted from balance.
+
+https://wakeuptocrypto.com/guides/free-crypto-withdrawal-tax-or-verification-fee/
+
+#CryptoFaucets"
+r413,test,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,5.0,,"giveaway_offer (""airdrop trade markets on bnb"") | connect_wallet (""connect wallet"") | unverified_airdrop_link (""wagerpredict.com"") | new_account (""10 days old"")",1.4752,"@Wager_Predict Testnet Airdrop
+
+Trade markets on BNB 
+
+10% $WP airdrop  
+
+Points from trading/staking/referrals → TGE Aug 2026  
+
+wagerpredict.com/r/airdrops  
+Connect wallet  
+Claim faucet  
+Trade daily  
+
+Early = bigger share. 
+ 
+@Wager_Predict"
+r412,dev,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,4.0,,"giveaway_offer (""claim faucet (base sepolia usdc"") | unverified_airdrop_link (""app.testnet.umia.finance"") | very_new_account (""3.0 days old"")",1.2759,"🆕 Umia Testnet is now Live 
+
+✔️Wallet: EVM
+✔️Network: Base Sepolia
+✔️Faucet: on Web
+
+🔍 Register 👉 app.testnet.umia.finance
+
+- Connect Airdrop EVM Wallet
+- Claim Faucet (Base sepolia USDC)
+- do Trade on Buy menu
+- Join Auction on Dashboard
+- Try Decision Market > click trade > Back > Buy
+- Done"
+r520,test,real,real/none,none,unverified-airdrop,review,3.5,,"giveaway_offer (""free uni tokens"") | unverified_airdrop_link (""cryptocycleindex.com"") | new_account (""25 days old"")",1.5805,"Bitget exchange offers up to $500 in NVIDIA stock and crypto rewards Bitget announced August promotions giving new users up to $500 in free NVIDIA stock, BGBTC holders a share of 5,500 free UNI tokens, and BMT holders access to a 600,000 BMT-token giveaway; USDGO holders can also…
+
+#BGBTC #Crypto"
+r519,test,real,real/unverified-airdrop,unverified-airdrop,none,none,1.0,,"unverified_airdrop_link (""wn.nr"")",0.586,AiMASH Exclusive Airdrop Campaign wn.nr/MnBRwZh
+r411,test,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,3.5,,"connect_wallet (""connect a wallet"") | suspicious_tld (""saviorofhealth.app"") | unverified_airdrop_link (""saviorofhealth.app"")",1.6383,"Savior Of Health Airdrop Project 🟢 
+
+Explore: saviorofhealth.app?ref=Q3NYD95S
+
+➞ Connect ➞ Connect & sign in ➞ (Connect a Wallet) ➞
+
+➞ ☰ ➞ CONNECT X  Follow ➞ ( FOLLOW ON X ) ➞ 
+
+➞ (Daily check-in) Claim
+
+➞(DO MISSIONS · SHARE & EARN)
+
+1/🔢"
+r581,test,real,real/none,none,none,none,0.0,,,0.9182,"“Super Copier 4000: Love” has booted up from the 80s with a 2026 NFT mint.
+
+ecency.com/@cliffblank/..."
+r227,dev,real,real/crypto-scam,crypto-scam,none,none,2.5,,"giveaway_offer (""1 btc giveaway"") | unverified_airdrop_link (""insurance-kalshi.com"")",1.565,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com"
+r226,test,real,real/crypto-scam,crypto-scam,none,none,2.5,,"giveaway_offer (""1 btc giveaway"") | unverified_airdrop_link (""insurance-kalshi.com"")",1.5776,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com"
+r224,test,real,real/crypto-scam,crypto-scam,none,none,2.5,,"giveaway_offer (""1 btc giveaway"") | unverified_airdrop_link (""insurance-kalshi.com"")",1.5355,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com"
+r225,dev,real,real/crypto-scam,crypto-scam,none,none,2.5,,"giveaway_offer (""1 btc giveaway"") | unverified_airdrop_link (""insurance-kalshi.com"")",1.5535,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com"
+r223,test,real,real/crypto-scam,crypto-scam,none,none,2.5,,"giveaway_offer (""1 btc giveaway"") | unverified_airdrop_link (""insurance-kalshi.com"")",1.5316,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com"
+r221,test,real,real/crypto-scam,crypto-scam,none,none,2.5,,"giveaway_offer (""1 btc giveaway"") | unverified_airdrop_link (""insurance-kalshi.com"")",1.5457,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com"
+r222,dev,real,real/crypto-scam,crypto-scam,none,none,2.5,,"giveaway_offer (""1 btc giveaway"") | unverified_airdrop_link (""insurance-kalshi.com"")",1.556,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com"
+r220,test,real,real/crypto-scam,crypto-scam,none,none,2.5,,"giveaway_offer (""1 btc giveaway"") | unverified_airdrop_link (""insurance-kalshi.com"")",1.5423,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com"
+r219,test,real,real/crypto-scam,crypto-scam,none,none,2.5,,"giveaway_offer (""1 btc giveaway"") | unverified_airdrop_link (""insurance-kalshi.com"")",1.536,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com"
+r218,dev,real,real/crypto-scam,crypto-scam,none,none,2.5,,"giveaway_offer (""1 btc giveaway"") | unverified_airdrop_link (""insurance-kalshi.com"")",1.5435,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com"
+r217,test,real,real/crypto-scam,crypto-scam,none,none,2.5,,"giveaway_offer (""1 btc giveaway"") | unverified_airdrop_link (""insurance-kalshi.com"")",1.5476,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com"
+r216,test,real,real/crypto-scam,crypto-scam,none,none,2.5,,"giveaway_offer (""1 btc giveaway"") | unverified_airdrop_link (""insurance-kalshi.com"")",1.5485,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com"
+r215,dev,real,real/crypto-scam,crypto-scam,none,none,2.5,,"giveaway_offer (""1 btc giveaway"") | unverified_airdrop_link (""insurance-kalshi.com"")",1.5361,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com"
+r214,dev,real,real/none,none,unverified-airdrop,review,4.0,,"giveaway_offer (""giveaway #bitcoin"") | unverified_airdrop_link (""thrill.com"") | very_new_account (""2.7 days old"")",1.1235,"The spin-and-win game declared @Kay33_pls the winner, sending .1 BTC their way. Want a chance to win? Visit thrill.com and use code YOURMOM to join the wheel for some serious Bitcoin. #giveaway #bitcoin"
+r213,test,real,real/none,none,unverified-airdrop,review,4.0,,"giveaway_offer (""win game winners get btc"") | unverified_airdrop_link (""thrill.com"") | very_new_account (""3.8 days old"")",0.9318,Spin-and-win game winners get BTC. You can join the fun at thrill.com with code YOURMOM for a chance to win big. #giveaway #crypto
+r517,dev,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,4.0,,"giveaway_offer (""giveaway for 2,000 usdt"") | unverified_airdrop_link (""wn.nr"") | very_new_account (""0.0 days old"")",0.7457,"Let's join KuCoin X YOM X Space giveaway for 2,000 USDT wn.nr/rj2LhdS"
+r516,test,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,4.0,,"giveaway_offer (""giveaway for 2,000 usdt"") | unverified_airdrop_link (""wn.nr"") | very_new_account (""0.0 days old"")",0.6962,"Let's join KuCoin X YOM X Space giveaway for 2,000 USDT wn.nr/rj2LhdS"
+r407,test,real,real/crypto-scam,crypto-scam,crypto-scam,scam,11.5,blocklisted_domain,"giveaway_offer (""claiming! 🪂✨ claim your free $bonk airdrop"") | claim_cta (""claim your"") | connect_wallet (""connect wallet"") | blocklisted_domain (""dropsol.solstudio.cc"") | unverified_airdrop_link (""dropsol.solstudio.cc"") | very_new_account (""0.0 days old"")",0.7648,"Stop scrolling. Start claiming! 🪂✨
+
+Claim your free $BONK Airdrop before snapshot. 🚀
+
+Open site 🔗 dropsol.solstudio.cc
+
+Connect wallet & claim!
+
+Repost = +100 luck 🔁
+
+#Airdrop #Crypto #Web3"
+r467,test,real,real/none,none,none,none,-4.0,,"scam_warning (""scam"")",0.8389,Smart. People who fell for Trump’s crypto scam are an established group of suckers.
+r578,test,real,real/unverified-airdrop,unverified-airdrop,none,none,0.0,,,1.4061,"Yakkamon — новый Free Mint на Ronin! Попади в экосистему от создателей Sunflower Land. Всего 10k NFT, низкий порог входа и огромный потенциал Idle RPG игры. Успей забрать свой шанс! #Ronin #NFT #FreeMint #Gaming #Crypto https://dappcrypto.org/r/la"
+r405,dev,real,real/unverified-airdrop,unverified-airdrop,none,none,1.0,,"claim_cta (""claim your"")",0.4063,"The path to your rewards is simple and clear.  
+Finish KYC Step 1 as the first required step.  
+Hold the minimum of 10,000 ITLG in your wallet.  
+Confirm registration before the August 1 cutoff.  
+Connect to OKX through InterLink and claim your rewards.  
+
+#InterLink #ITLG #ITL"
+r301,dev,real,real/none,none,none,none,-2.5,,"giveaway_offer (""claim to provide 'urgent updates' for crypto"") | scam_warning (""phishing"")",0.3518,"It's alarming how cybercriminals use QR codes in phishing. Recent letters claim to provide 'urgent updates' for crypto wallets, but they lead to harmful sites. Always double-check before scanning any QR code. Your security matters!"
+r210,test,real,real/none,none,unverified-airdrop,review,4.0,,"giveaway_offer (""1 btc giveaway"") | unverified_airdrop_link (""place.bet"") | very_new_account (""0.0 days old"")",1.5204,"Place.bet is a crypto-focused online gaming and casino platform. The pre-launch platform at play.place.bet lets users play for free, collect points, compete on a leaderboard, explore early-access benefits, and participate in a 1 BTC giveaway without making a deposit."
+r514,test,real,real/none,none,none,none,2.0,,"unverified_airdrop_link (""polyversemarket.com"") | new_account (""17 days old"")",1.5624,"Challenge live 🏁 100/50/25 USDT for confirmed-email referrals through Oct 31 PT. 18+ US/DC excl NY/HI. No purchase. Free early access:
+
+https://polyversemarket.com/giveaway-rules?utm_source=bluesky&utm_medium=organic_social&utm_campaign=october_referral_challenge&utm_content=launch_2026-09-21"
+r402,test,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,3.5,,"claim_cta (""claim free"") | connect_wallet (""connect wallet"") | unverified_airdrop_link (""da.gd"")",1.2442,"Polyster ~ New Project with Testnet Campaign is Live! 🐯
+
+🫵 Polyster is an order book-based DEX for trading & lending native assets.
+
+⚪ Join the testnet : da.gd/wJvZ
+
+➖ Connect Wallet. 
+➖ Set up account.
+➖ Claim free paper assets & Deposit it.
+➖ Trade on spot markets & Explore features.
+➖ Done! ✅"
+r401,test,real,real/unverified-airdrop,unverified-airdrop,none,none,2.5,,"giveaway_offer (""airdrop event is now"") | unverified_airdrop_link (""da.gd"")",1.2492,"Sleepagotchi Loyalty Airdrop Event is Now Live! 🩶 | Project Raised $3.5M Funding & Backed by Shima Capital, Alliance Dao and More! 🧶
+
+🟡 Join your Journey here : da.gd/5tJoKr
+
+➖ Connect Airdrop/New SOL Wallet.
+➖ Complete all live tasks & Interact daily.
+➖ Get the App & Claim daily tasks.
+➖ Done! ✅"
+r501,dev,real,real/none,none,none,none,1.0,,"new_account (""23 days old"")",0.9085,"Starting crypto trading on mobile? Before placing your first order, lock in maximal fee discounts, complete KYC identity verification, and enable Google 2FA security directly on the Binance app:
+youtu.be/SG6cSrd_pSM"
+p001,dev,synthetic,scam/send-to-receive,crypto-scam,crypto-scam,scam,9.0,send_to_receive,"send_to_receive (""send 0.1-5 eth to the address below and we will send back"") | giveaway_offer (""eth giveaway"") | wallet_address (""0x3f5CE5...f0bE"") | very_new_account (""2.0 days old"")",0.4895,🚨 ETH GIVEAWAY 🚨 To celebrate 10M users we are giving back! Send 0.1-5 ETH to the address below and we will send back 2x instantly. 0x3f5CE5FBFe3E9af3971dD833D26bA9b5C936f0bE
+p002,test,synthetic,scam/send-to-receive,crypto-scam,crypto-scam,scam,11.0,send_to_receive;impersonated_giveaway,"send_to_receive (""sent to my wallet. send 1 eth, get 2"") | giveaway_offer (""get 2 eth"") | wallet_address (""0x529084...9EE7"") | very_new_account (""1.0 days old"") | impersonation_handle (""@vitalik-buterin-eth.bsky.social ~ Vitalik Buterin"") | impersonated_giveaway (""giveaway_offer + impersonation_handle + call_to_action"")",0.3605,"Vitalik here. For the next hour I'm doubling all ETH sent to my wallet. Send 1 ETH, get 2 ETH back. 0x52908400098527886E0F7030069857D2E4169EE7"
+p003,test,synthetic,scam/send-to-receive,crypto-scam,crypto-scam,scam,8.5,send_to_receive,"send_to_receive (""transfer to bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh re..."") | urgency (""first 500"") | wallet_address (""bc1qxy2k...0wlh"") | very_new_account (""4.0 days old"")",0.4253,Bitcoin promo: every 0.01 BTC you transfer to bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh returns double within 30 minutes. Limited to first 500 participants!
+p004,dev,synthetic,scam/send-to-receive,crypto-scam,crypto-scam,scam,6.0,send_to_receive,"send_to_receive (""double your crypto"") | new_account (""9 days old"")",0.3293,"Want to double your crypto? Our trusted program pays 2x on every deposit, paid out the same day. DM for the wallet."
+p005,test,synthetic,scam/send-to-receive,crypto-scam,none,none,3.0,,"legitimacy_assurance (""not a scam"") | very_new_account (""3.0 days old"")",0.53,"Send any amount of SOL to 7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU and receive 3x back. Not a scam, 100% legit!!"
+p006,test,synthetic,scam/send-to-receive,crypto-scam,crypto-scam,scam,8.0,send_to_receive,"send_to_receive (""contribute 0.5 eth and get 1"") | giveaway_offer (""giving back to the community: contribute 0.5 eth"") | very_new_account (""5.0 days old"")",0.3129,Giving back to the community: contribute 0.5 ETH and get 1 ETH returned automatically by our smart contract.
+p007,dev,synthetic,scam/evasion-leet,crypto-scam,crypto-scam,scam,8.0,send_to_receive,"send_to_receive (""send 0.2 eth get 0"") | giveaway_offer (""get 0.4 eth"") | very_new_account (""2.0 days old"")",0.3621,S3nd 0.2 3TH g3t 0.4 3TH b4ck. Pr0mo ends t0night
+p008,test,synthetic,scam/send-to-receive,crypto-scam,none,none,1.5,,"very_new_account (""6.0 days old"")",0.2659,"Congrats, your wallet was selected! Send 0.05 ETH for gas and we'll send your 2 ETH prize right after."
+p009,test,synthetic,scam/evasion-paraphrase,crypto-scam,none,none,1.0,,"new_account (""8 days old"")",0.2555,"Got extra ETH sitting around? I'll flip it for you. You send 1, I send 2. Simple as that."
+p010,dev,synthetic,scam/send-to-receive,crypto-scam,crypto-scam,scam,6.5,send_to_receive,"send_to_receive (""deposit between 1,000 and 50,000 xrp and the event wallet..."") | very_new_account (""2.0 days old"")",0.5853,"XRP anniversary event 🎉 deposit between 1,000 and 50,000 XRP and the event wallet automatically returns double. Event ends in 2 hours."
+p011,test,synthetic,scam/credential,crypto-scam,crypto-scam,scam,10.5,credential_request,"credential_request (""validate your 12-word"") | brand_in_domain (""metamask-validate.com (MetaMask)"") | very_new_account (""3.0 days old"") | impersonation_handle (""@metamask-helpdesk.bsky.social ~ MetaMask"")",1.4103,MetaMask wallet sync required ⚠️ Your wallet will be suspended unless you validate your 12-word recovery phrase at metamask-validate.com
+p012,test,synthetic,scam/credential,crypto-scam,crypto-scam,scam,9.5,credential_request,"credential_request (""import your seed phrase"") | claim_cta (""claim portal"") | suspicious_tld (""jup-claims.app"") | unverified_airdrop_link (""jup-claims.app"") | very_new_account (""6.0 days old"")",1.1116,"Airdrop eligible ✅ To receive your $JUP allocation, import your seed phrase into the claim portal: jup-claims.app"
+p013,dev,synthetic,scam/credential,crypto-scam,crypto-scam,scam,6.0,credential_request,"credential_request (""enter your secret recovery phrase"") | new_account (""11 days old"")",0.3272,Phantom users: enter your secret recovery phrase to migrate your tokens to the new chain before Friday.
+p014,test,synthetic,scam/credential,crypto-scam,crypto-scam,scam,8.0,credential_request,"credential_request (""dm us your private key"") | giveaway_offer (""free nft"") | very_new_account (""4.0 days old"")",0.3639,Free NFT mint for early supporters 🎁 just DM us your private key so we can whitelist your wallet
+p015,test,synthetic,scam/credential,crypto-scam,crypto-scam,scam,10.0,credential_request,"credential_request (""paste your 24 words"") | giveaway_offer (""airdrop. paste your 24 words here"") | shortened_link (""bit.ly"") | unverified_airdrop_link (""bit.ly"") | very_new_account (""2.0 days old"")",0.5617,Wallet restore needed to unlock your airdrop. Paste your 24 words here 👉 bit.ly/3xRw9Lk
+p016,dev,synthetic,scam/evasion-homoglyph,crypto-scam,crypto-scam,scam,9.0,credential_request,"credential_request (""verify your seed phrase"") | giveaway_offer (""claim your free eth"") | claim_cta (""claim your"") | very_new_account (""1.0 days old"")",0.3133,Clаim yоur free ЕTH аirdrоp — vеrify yоur sееd phrаse tо stаrt
+p017,test,synthetic,scam/evasion-spacing,crypto-scam,crypto-scam,scam,8.0,credential_request,"credential_request (""enter your seedphrase"") | giveaway_offer (""airdrop open"") | very_new_account (""3.0 days old"")",0.5842,airdrop open — enter your s e e d p h r a s e on the form to claim 🚀
+p018,test,synthetic,scam/credential,crypto-scam,crypto-scam,scam,10.0,credential_request,"credential_request (""confirm your recovery phrase"") | brand_in_domain (""ledger-secure-update.com (Ledger)"") | new_account (""7 days old"") | impersonation_handle (""@ledger-recovery-desk.bsky.social ~ Ledger"")",1.4166,Ledger notice: a firmware issue may freeze your funds. Confirm your recovery phrase at ledger-secure-update.com to keep receiving rewards.
+p019,dev,synthetic,scam/evasion-paraphrase,crypto-scam,none,none,1.5,,"very_new_account (""5.0 days old"")",0.3372,Recovery phrase verification — wallet support team here. Reply with your words and we will restore access to your locked airdrop.
+p020,test,synthetic,scam/credential,crypto-scam,crypto-scam,scam,12.0,credential_request;brand_domain_claim,"credential_request (""sync your wallet by typing your mnemonic phrase"") | connect_wallet (""sync your wallet"") | brand_in_domain (""trustwallet-loyalty.online (Trust Wallet)"") | suspicious_tld (""trustwallet-loyalty.online"") | unverified_airdrop_link (""trustwallet-loyalty.online"") | very_new_account (""2.0 days old"") | brand_domain_claim (""brand_in_domain + call_to_action"")",1.3844,Trust Wallet loyalty airdrop 🎁 sync your wallet by typing your mnemonic phrase at trustwallet-loyalty.online
+p021,test,synthetic,scam/upfront-fee,crypto-scam,crypto-scam,scam,8.0,upfront_fee,"upfront_fee (""pay the 50 usdt activation fee to"") | giveaway_offer (""giveaway. pay the 50 usdt"") | very_new_account (""4.0 days old"")",0.3573,"Congratulations! You won 2,500 USDT in our anniversary giveaway. Pay the 50 USDT activation fee to release your prize."
+p022,dev,synthetic,scam/upfront-fee,crypto-scam,crypto-scam,scam,8.0,upfront_fee,"upfront_fee (""pay a small gas fee of 0.02 eth first to"") | giveaway_offer (""airdropped tokens"") | very_new_account (""3.0 days old"")",0.3272,To withdraw your airdropped tokens you must pay a small gas fee of 0.02 ETH first to our verification wallet.
+p023,test,synthetic,scam/upfront-fee,crypto-scam,crypto-scam,scam,9.0,upfront_fee,"upfront_fee (""processing fee"") | giveaway_offer (""claim 1 btc"") | urgency (""hurry"") | very_new_account (""1.0 days old"")",0.3502,"Claim 1 BTC reward — a processing fee applies (0.005 BTC). Hurry, only 24 hours!"
+p024,test,synthetic,scam/upfront-fee,crypto-scam,crypto-scam,scam,10.0,upfront_fee,"upfront_fee (""registration fee"") | giveaway_offer (""crypto giveaway"") | very_new_account (""2.0 days old"") | impersonation_handle (""@mrbeast-crypto.bsky.social ~ MrBeast"")",0.3638,"MrBeast crypto giveaway 💰 everyone who registers gets $1000 in BTC, registration fee is just $25!"
+p025,dev,synthetic,scam/upfront-fee,crypto-scam,crypto-scam,scam,8.5,upfront_fee,"upfront_fee (""unlock fee"") | suspicious_tld (""base-claim.top"") | unverified_airdrop_link (""base-claim.top"") | very_new_account (""5.0 days old"")",1.0504,Your wallet qualified for the Base airdrop. A one-time unlock fee is required before claiming. Details at base-claim.top
+p026,test,synthetic,scam/upfront-fee,crypto-scam,crypto-scam,scam,13.0,send_to_receive;upfront_fee,"send_to_receive (""send a 0.01 eth network fee to receive"") | upfront_fee (""send a 0.01 eth network fee to"") | giveaway_offer (""receive your nft"") | very_new_account (""6.0 days old"")",0.3215,Send a 0.01 ETH network fee to receive your NFT airdrop. Spots are limited!
+p027,test,synthetic,scam/upfront-fee,crypto-scam,crypto-scam,scam,7.5,upfront_fee,"upfront_fee (""withdrawal fee"") | giveaway_offer (""claim, first cover the withdrawal fee (0.08 eth"") | new_account (""9 days old"")",0.4088,"You are one of 20 lucky winners of 3 ETH 🎉 To claim, first cover the withdrawal fee (0.08 ETH). DM for payment address."
+p028,dev,synthetic,scam/impersonation,crypto-scam,crypto-scam,scam,10.0,impersonated_giveaway;brand_domain_claim,"giveaway_offer (""giveaway for loyal users! claim yours here"") | claim_cta (""claim yours"") | brand_in_domain (""binance-gift.xyz (Binance)"") | suspicious_tld (""binance-gift.xyz"") | unverified_airdrop_link (""binance-gift.xyz"") | very_new_account (""3.0 days old"") | impersonation_handle (""@binance-support-help.bsky.social ~ Binance"") | impersonated_giveaway (""giveaway_offer + impersonation_handle + call_to_action"") | brand_domain_claim (""brand_in_domain + call_to_action"")",1.0822,"Binance is hosting a 10,000 BNB giveaway for loyal users! Claim yours here: binance-gift.xyz"
+p029,test,synthetic,scam/impersonation,crypto-scam,crypto-scam,scam,9.0,impersonated_giveaway,"giveaway_offer (""giving away 500 btc"") | claim_cta (""claim now"") | urgency (""claim now"") | suspicious_tld (""btc-saylor.live"") | unverified_airdrop_link (""btc-saylor.live"") | very_new_account (""2.0 days old"") | impersonation_handle (""@saylor-btc.bsky.social ~ Michael Saylor"") | impersonated_giveaway (""giveaway_offer + impersonation_handle + call_to_action"")",1.1187,I'm giving away 500 BTC to celebrate our latest purchase. Claim now at btc-saylor.live before it ends!
+p030,test,synthetic,scam/impersonation,crypto-scam,crypto-scam,scam,10.5,impersonated_giveaway;brand_domain_claim,"giveaway_offer (""airdrop is live"") | connect_wallet (""connect your wallet"") | brand_in_domain (""coinbase-airdrop.online (Coinbase)"") | suspicious_tld (""coinbase-airdrop.online"") | unverified_airdrop_link (""coinbase-airdrop.online"") | very_new_account (""4.0 days old"") | impersonation_handle (""@coinbase-rewards.bsky.social ~ Coinbase"") | impersonated_giveaway (""giveaway_offer + impersonation_handle + call_to_action"") | brand_domain_claim (""brand_in_domain + call_to_action"")",1.2898,Coinbase airdrop is live for all verified users 🎉 connect your wallet to claim: coinbase-airdrop.online
+p031,dev,synthetic,scam/impersonation,crypto-scam,crypto-scam,scam,8.5,impersonated_giveaway,"giveaway_offer (""giving every user 50 usdt"") | connect_wallet (""verify your wallet"") | suspicious_tld (""bsky-rewards.site"") | unverified_airdrop_link (""bsky-rewards.site"") | very_new_account (""1.0 days old"") | impersonation_handle (""@blueskysafety-team.bsky.social ~ Bluesky Support"") | impersonated_giveaway (""giveaway_offer + impersonation_handle + call_to_action"")",1.1249,We are giving every user 50 USDT for Bluesky's 2nd anniversary. Verify your wallet at bsky-rewards.site to claim.
+p032,test,synthetic,scam/impersonation,crypto-scam,crypto-scam,scam,6.0,impersonated_giveaway,"giveaway_offer (""crypto giveaway"") | dm_to_claim (""dm me your wallet"") | very_new_account (""6.0 days old"") | impersonation_handle (""@cathiewood-ark.bsky.social ~ Cathie Wood"") | impersonated_giveaway (""giveaway_offer + impersonation_handle + call_to_action"")",0.3305,"ARK crypto giveaway: 1,000 ETH for our followers. DM me your wallet address to receive your share."
+p033,test,synthetic,scam/impersonation,crypto-scam,crypto-scam,scam,8.0,impersonated_giveaway,"giveaway_offer (""free doge"") | claim_cta (""claim your"") | suspicious_tld (""tesla-doge.click"") | unverified_airdrop_link (""tesla-doge.click"") | very_new_account (""2.0 days old"") | impersonation_handle (""@elonmusk-xai.bsky.social ~ Elon Musk"") | impersonated_giveaway (""giveaway_offer + impersonation_handle + call_to_action"")",1.0032,Tesla x xAI celebration: free DOGE for everyone who follows. Claim your DOGE at tesla-doge.click
+p034,dev,synthetic,scam/blocklisted-domain,crypto-scam,crypto-scam,scam,8.5,blocklisted_domain,"claim_cta (""claim your"") | blocklisted_domain (""openmsea.io"") | unverified_airdrop_link (""openmsea.io"") | very_new_account (""5.0 days old"")",0.4243,Claim your OpenSea creator rewards before they expire: openmsea.io/claim
+p035,test,synthetic,scam/blocklisted-domain,crypto-scam,crypto-scam,scam,6.5,blocklisted_domain,"blocklisted_domain (""opensea.support"") | very_new_account (""3.0 days old"")",0.4432,"Having trouble listing your NFTs? Our team can fix it fast, start here opensea.support"
+p036,test,synthetic,scam/blocklisted-domain,crypto-scam,crypto-scam,scam,6.5,blocklisted_domain,"blocklisted_domain (""1morphoairdrop.pages.dev"") | very_new_account (""4.0 days old"")",0.5659,Morpho points are now convertible 🔄 check your allocation: https://1morphoairdrop.pages.dev
+p037,dev,synthetic,scam/blocklisted-domain,crypto-scam,crypto-scam,scam,9.0,blocklisted_domain,"giveaway_offer (""get a bonus 🎁 3ton-airdrop"") | blocklisted_domain (""3ton-airdrop.pages.dev"") | unverified_airdrop_link (""3ton-airdrop.pages.dev"") | very_new_account (""2.0 days old"")",0.4662,TON holders get a bonus 🎁 3ton-airdrop.pages.dev
+p038,test,synthetic,scam/blocklisted-domain,crypto-scam,crypto-scam,scam,6.5,blocklisted_domain,"blocklisted_domain (""uselaunchdrop.xyz"") | very_new_account (""6.0 days old"")",0.434,"Next big launch is here, early access for wallets that register today: uselaunchdrop.xyz"
+p039,test,synthetic,scam/lookalike-domain,crypto-scam,crypto-scam,scam,11.0,lookalike_domain;impersonated_giveaway,"giveaway_offer (""4 airdrop"") | lookalike_domain (""un1swap.org ~ uniswap.org"") | unverified_airdrop_link (""un1swap.org"") | very_new_account (""3.0 days old"") | impersonation_handle (""@uniswap-lp-rewards.bsky.social ~ Uniswap"") | impersonated_giveaway (""giveaway_offer + impersonation_handle + call_to_action"")",0.6193,Uniswap V4 airdrop for LPs is live → un1swap.org/airdrop
+p040,dev,synthetic,scam/lookalike-domain,crypto-scam,crypto-scam,scam,8.0,lookalike_domain,"giveaway_offer (""giving free sol"") | lookalike_domain (""phanton.app ~ phantom.app"") | very_new_account (""2.0 days old"")",0.5556,Phantom is giving free SOL to early users: phanton.app/rewards
+p041,test,synthetic,scam/lookalike-domain,crypto-scam,crypto-scam,scam,9.0,lookalike_domain,"giveaway_offer (""receive the airdrop"") | lookalike_domain (""metamaks.io ~ metamask.io"") | unverified_airdrop_link (""metamaks.io"") | very_new_account (""4.0 days old"")",0.4502,Your MetaMask needs an update to receive the airdrop: metamaks.io
+p042,test,synthetic,scam/evasion-homoglyph,crypto-scam,crypto-scam,scam,8.5,homoglyph_domain,"claim_cta (""claim page"") | homoglyph_domain (""uniswаp.org ~ uniswap.org"") | unverified_airdrop_link (""uniswаp.org"") | very_new_account (""1.0 days old"")",0.4846,Official Uniswap claim page is up: https://uniswаp.org/claim
+p043,dev,synthetic,scam/evasion-obfuscated-link,crypto-scam,crypto-scam,scam,8.0,brand_domain_claim,"claim_cta (""claim is open"") | connect_wallet (""connect your wallet"") | brand_in_domain (""arbitrum-claims.xyz (Arbitrum)"") | suspicious_tld (""arbitrum-claims.xyz"") | unverified_airdrop_link (""arbitrum-claims.xyz"") | very_new_account (""2.0 days old"") | brand_domain_claim (""brand_in_domain + call_to_action"")",1.1594,Arbitrum round 2 claim is open. Go to arbitrum-claims[.]xyz and connect your wallet
+p044,test,synthetic,scam/lookalike-domain,crypto-scam,crypto-scam,scam,8.0,lookalike_domain,"claim_cta (""claim before"") | lookalike_domain (""zksyncc.io ~ zksync.io"") | unverified_airdrop_link (""zksyncc.io"") | new_account (""7 days old"")",0.6967,zkSync airdrop round 3 — claim before the snapshot closes: zksyncc.io
+p045,test,synthetic,scam/image-only,crypto-scam,unverified-airdrop,review,3.0,,"giveaway_offer (""airdrop #eth"") | very_new_account (""2.0 days old"")",0.2962,🎁 see image for details 👇 #airdrop #eth #giveaway
+p046,dev,synthetic,scam/impersonation,crypto-scam,unverified-airdrop,review,6.0,,"legitimacy_assurance (""only official link"") | unverified_airdrop_link (""eth-foundation-airdrop.com"") | very_new_account (""3.0 days old"") | impersonation_handle (""@vitalik-eth-official.bsky.social ~ Vitalik Buterin"")",1.3915,"Ethereum foundation airdrop for long-term holders. Only official link, beware of fakes: eth-foundation-airdrop.com"
+p047,dev,synthetic,review/connect-urgency,unverified-airdrop,unverified-airdrop,review,7.0,,"giveaway_offer (""2 airdrop"") | connect_wallet (""connect wallet"") | urgency (""first 100"") | suspicious_tld (""pepe2drop.xyz"") | unverified_airdrop_link (""pepe2drop.xyz"") | new_account (""12 days old"")",1.0352,"$PEPE2 airdrop is live 🐸 connect wallet at pepe2drop.xyz, first 1000 wallets only"
+p048,test,synthetic,review/connect-urgency,unverified-airdrop,unverified-airdrop,review,6.0,,"giveaway_offer (""claim free tokens"") | claim_cta (""claim free"") | connect_wallet (""connect your wallet"") | urgency (""before midnight"") | new_account (""20 days old"")",0.2975,Connect your wallet to claim free tokens before midnight!
+p049,test,synthetic,review/connect-urgency,unverified-airdrop,unverified-airdrop,review,3.5,,"giveaway_offer (""claim your free $degen tokens"") | claim_cta (""claim your"") | urgency (""⏳"")",0.3035,"Claim your free $DEGEN tokens, airdrop ends Sunday ⏳"
+p050,dev,synthetic,review/connect-urgency,unverified-airdrop,unverified-airdrop,review,4.5,,"claim_cta (""check eligibility"") | connect_wallet (""connect your wallet"") | urgency (""limited time"") | new_account (""9 days old"")",0.318,"Nebula testnet rewards are claimable now. Connect your wallet and check eligibility, limited time!"
+p051,test,synthetic,review/connect-urgency,unverified-airdrop,unverified-airdrop,review,3.5,,"giveaway_offer (""free nft"") | claim_cta (""link in bio"") | urgency (""first 500"")",0.3244,"Free NFT mint for the first 500 wallets 👀 link in bio, don't miss it"
+p052,test,synthetic,review/connect-urgency,unverified-airdrop,unverified-airdrop,review,7.0,,"giveaway_offer (""airdrop phase 1 is open"") | connect_wallet (""connect wallet"") | urgency (""last chance"") | suspicious_tld (""orbit-protocol.app"") | unverified_airdrop_link (""orbit-protocol.app"") | new_account (""18 days old"")",1.2354,Orbit airdrop phase 1 is open ✅ connect wallet → claim → done. Last chance before the window closes
+p053,dev,synthetic,review/connect-urgency,unverified-airdrop,unverified-airdrop,review,6.5,,"giveaway_offer (""claim your bonus tokens"") | claim_cta (""claim your"") | urgency (""today only"") | suspicious_tld (""frogcoin.fun"") | unverified_airdrop_link (""frogcoin.fun"") | new_account (""26 days old"")",0.9205,FROG holders: claim your bonus tokens today only at frogcoin.fun
+p054,test,synthetic,review/connect-urgency,unverified-airdrop,none,none,2.5,,"claim_cta (""check eligibility"") | very_new_account (""3.0 days old"")",0.2465,New memecoin $MOON airdrop — check eligibility in bio 🚀🚀
+p055,test,synthetic,review/unofficial-claim,unverified-airdrop,unverified-airdrop,review,4.0,,"claim_cta (""claim here"") | unofficial_official_claim (""official airdrop"") | suspicious_tld (""zoradrop.site"") | unverified_airdrop_link (""zoradrop.site"")",0.936,"Official airdrop for Zora creators just dropped, claim here https://zoradrop.site"
+p056,dev,synthetic,review/unofficial-claim,unverified-airdrop,none,none,2.5,,"connect_wallet (""verify your wallet"") | unverified_airdrop_link (""monad-rewards.org"")",1.1671,Airdrop hunters: Monad testnet rewards claimable now via monad-rewards.org — verify your wallet to see your allocation
+p057,test,synthetic,review/shortener,unverified-airdrop,unverified-airdrop,review,5.5,,"giveaway_offer (""free $alpha token"") | claim_cta (""claim here"") | shortened_link (""tinyurl.com"") | unverified_airdrop_link (""tinyurl.com"") | new_account (""14 days old"")",0.5072,"🎁 Free $ALPHA token airdrop for holders, claim here 👉 tinyurl.com/alpha-drop"
+p058,test,synthetic,review/shortener,unverified-airdrop,unverified-airdrop,review,6.0,,"giveaway_offer (""giveaway: 100 winners get 50 usdt"") | claim_cta (""click the link"") | shortened_link (""bit.ly"") | unverified_airdrop_link (""bit.ly"") | very_new_account (""5.0 days old"")",0.549,Giveaway: 100 winners get 50 USDT each 💸 follow + click the link: bit.ly/usdt50drop
+p059,dev,synthetic,review/wallet-farming,unverified-airdrop,none,none,1.5,,"giveaway_offer (""free airdrop"")",0.283,Drop your SOL address below for a free airdrop 👇 like + repost to qualify
+p060,test,synthetic,review/dm-claim,unverified-airdrop,unverified-airdrop,review,4.5,,"giveaway_offer (""nft giveaway"") | claim_cta (""claim your"") | dm_to_claim (""dm me to claim"") | new_account (""22 days old"")",0.3281,Doing an NFT giveaway for my followers 🐋 DM me to claim your free mint
+p061,test,synthetic,review/connect-urgency,unverified-airdrop,unverified-airdrop,review,6.0,,"giveaway_offer (""airdrop checker is live"") | claim_cta (""you're eligible"") | connect_wallet (""connect your wallet"") | urgency (""ending soon"") | new_account (""8 days old"")",0.3328,Berachain airdrop checker is live! Connect your wallet to see if you're eligible. Ending soon
+p062,dev,synthetic,review/high-return,unverified-airdrop,none,none,2.5,,"claim_cta (""claim your"") | high_return_promise (""guaranteed returns"")",0.2545,Staking pool airdrop: guaranteed returns of 3% daily for early depositors. Claim your spot now
+p063,test,synthetic,review/unofficial-claim,unverified-airdrop,unverified-airdrop,review,3.0,,"claim_cta (""claim on"") | suspicious_tld (""questrewards.online"") | unverified_airdrop_link (""questrewards.online"")",1.1608,Season 4 token rewards available to claim on our new site: questrewards.online 🎯
+p064,test,synthetic,review/connect-urgency,unverified-airdrop,unverified-airdrop,review,4.5,,"giveaway_offer (""free $wif airdrop"") | claim_cta (""claim now"") | urgency (""claim now"") | new_account (""15 days old"")",0.3135,"Free $WIF airdrop for the community 🐶 claim now, only 6 hours left"
+p065,dev,synthetic,review/new-account-giveaway,unverified-airdrop,unverified-airdrop,review,3.0,,"giveaway_offer (""eth giveaway"") | very_new_account (""1.0 days old"")",0.3206,Daily ETH giveaway 🎁 Reply with your ETH address and follow to enter!
+p066,test,synthetic,review/unofficial-claim,unverified-airdrop,unverified-airdrop,review,5.5,,"claim_cta (""claim page"") | connect_wallet (""connect wallet"") | suspicious_tld (""eigen-season2.xyz"") | unverified_airdrop_link (""eigen-season2.xyz"") | new_account (""25 days old"")",1.2202,EigenLayer stakedrop season 2 claim page is up → eigen-season2.xyz connect wallet to claim
+p067,test,synthetic,review/evasion-leet,unverified-airdrop,unverified-airdrop,review,4.0,,"giveaway_offer (""free tokens"") | connect_wallet (""connect wallet"") | new_account (""10 days old"")",0.4346,"fr33 t0k3ns a1rdr0p is l1ve, c0nnect w4llet n0w"
+p068,dev,synthetic,review/telegram,unverified-airdrop,unverified-airdrop,review,3.5,,"giveaway_offer (""get whitelisted for the $gem airdrop"") | unverified_airdrop_link (""t.me"") | new_account (""28 days old"")",0.7006,Join our Telegram to get whitelisted for the $GEM airdrop 🚀 spots are filling fast
+p069,test,synthetic,review/connect-urgency,unverified-airdrop,none,none,2.5,,"connect_wallet (""link your wallet"") | new_account (""19 days old"")",0.297,Points → tokens conversion is LIVE. Link your wallet before the snapshot or lose your allocation ⚠️
+p070,test,synthetic,review/giveaway-link,unverified-airdrop,unverified-airdrop,review,5.5,,"giveaway_offer (""1 eth giveaway"") | claim_cta (""claim your"") | suspicious_tld (""cryptomom-giveaway.xyz"") | unverified_airdrop_link (""cryptomom-giveaway.xyz"") | new_account (""12 days old"")",1.2142,Celebrating 5k followers with a 1 ETH giveaway! Claim your entry at cryptomom-giveaway.xyz
+p071,dev,synthetic,review/new-account-giveaway,unverified-airdrop,unverified-airdrop,review,6.0,,"giveaway_offer (""btc giveaway"") | claim_cta (""claim yours"") | suspicious_tld (""santa-btc.online"") | unverified_airdrop_link (""santa-btc.online"") | very_new_account (""2.0 days old"")",0.9431,🎅 BTC giveaway this week! Claim yours at santa-btc.online
+p072,test,synthetic,review/claim-no-link,unverified-airdrop,none,none,2.5,,"giveaway_offer (""2 airdrop"") | claim_cta (""claims are open"")",0.2643,"Psst, $HYPE2 airdrop claims are open. Claim your tokens before they're gone"
+p073,test,synthetic,review/coordinated,unverified-airdrop,unverified-airdrop,review,3.5,,"suspicious_tld (""eth-drop.claims"") | unverified_airdrop_link (""eth-drop.claims"") | very_new_account (""2.0 days old"")",0.9315,"gm frens, found this one early 👀 eth-drop.claims/go"
+p074,dev,synthetic,review/coordinated,unverified-airdrop,none,none,2.0,,"satire (""lol"") | suspicious_tld (""eth-drop.claims"") | unverified_airdrop_link (""eth-drop.claims"") | very_new_account (""1.0 days old"")",0.8254,this is actually paying out lol eth-drop.claims/go
+p075,test,synthetic,review/coordinated,unverified-airdrop,unverified-airdrop,review,6.5,,"suspicious_tld (""eth-drop.claims"") | unverified_airdrop_link (""eth-drop.claims"") | very_new_account (""3.0 days old"") | coordinated_link (""eth-drop.claims/go posted by 3 new accounts"")",0.922,don't sleep on this 🔥 eth-drop.claims/go
+p076,test,synthetic,review/coordinated,unverified-airdrop,unverified-airdrop,review,6.5,,"suspicious_tld (""eth-drop.claims"") | unverified_airdrop_link (""eth-drop.claims"") | very_new_account (""2.0 days old"") | coordinated_link (""eth-drop.claims/go posted by 4 new accounts"")",0.8925,"worked for me, try it https://eth-drop.claims/go"
+p077,dev,synthetic,review/coordinated,unverified-airdrop,unverified-airdrop,review,6.5,,"suspicious_tld (""eth-drop.claims"") | unverified_airdrop_link (""eth-drop.claims"") | very_new_account (""4.0 days old"") | coordinated_link (""eth-drop.claims/go posted by 5 new accounts"")",0.8952,@someone you should check this eth-drop.claims/go
+p078,test,synthetic,review/connect-urgency,unverified-airdrop,unverified-airdrop,review,6.0,,"giveaway_offer (""airdrop round 2 open"") | connect_wallet (""authorize your wallet"") | urgency (""⏰"") | suspicious_tld (""yapdrop.app"") | unverified_airdrop_link (""yapdrop.app"")",0.9591,Yappers airdrop round 2 open ⏰ authorize your wallet on the portal to receive
+p079,test,synthetic,review/giveaway-link,unverified-airdrop,unverified-airdrop,review,4.5,,"giveaway_offer (""giving away 10 free nfts"") | claim_cta (""claim here"") | suspicious_tld (""mint-my-art.xyz"") | unverified_airdrop_link (""mint-my-art.xyz"")",1.1084,Giving away 10 free NFTs from my new collection 🎨 claim here: mint-my-art.xyz
+p080,dev,synthetic,review/connect-urgency,unverified-airdrop,unverified-airdrop,review,5.0,,"giveaway_offer (""receive 100 usdc"") | connect_wallet (""verify your wallet"") | urgency (""hurry"") | new_account (""11 days old"")",0.2925,"USDC bonus week: verify your wallet to receive 100 USDC, hurry!"
+p081,dev,synthetic,none/warning,none,none,none,-7.0,,"scam_warning (""beware"") | reported_speech (""scammers promising"")",0.259,Beware of scammers promising large airdrops if you send them crypto first. They will never send anything back.
+p082,test,synthetic,none/warning,none,none,none,-8.0,,"credential_negation (""no legit project will ever ask for your seed phrase"") | scam_warning (""psa"")",0.288,"PSA: no legit project will ever ask for your seed phrase. Not support, not an airdrop, not a 'wallet sync'. Never type it into a website."
+p083,test,synthetic,none/warning,none,none,none,-0.5,send_to_receive,"send_to_receive (""send 1 eth and you'll get 2"") | giveaway_offer (""get 2 eth"") | scam_warning (""scam"")",0.2599,"If someone tells you to send 1 ETH and you'll get 2 ETH back, it's a scam. Every single time."
+p084,dev,synthetic,none/warning,none,none,none,-2.0,send_to_receive,"send_to_receive (""double your btc"") | scam_warning (""fake"")",0.2517,"Reported 5 fake Elon accounts today, all running the same 'double your BTC' giveaway. Block and report."
+p085,test,synthetic,none/warning,none,none,none,-2.5,upfront_fee,"upfront_fee (""pay a small fee to"") | reported_speech (""got a dm"") | satire (""lol"")",0.2636,Got a DM saying I won 5000 USDT and just need to pay a small fee to unlock it lol. Nice try.
+p086,test,synthetic,none/warning,none,none,none,-2.0,lookalike_domain,"scam_warning (""drainer"") | lookalike_domain (""un1swap.org ~ uniswap.org"")",0.674,Quick thread on spotting wallet drainer sites 🧵 1/ Check the URL letter by letter: un1swap.org is not uniswap.org
+p087,dev,synthetic,none/warning,none,none,none,-13.0,,"credential_negation (""dm you or ask for your secret recovery phrase"") | scam_warning (""stay safe"") | verified_project_source (""@metamask.io (MetaMask)"")",0.2069,Reminder: MetaMask Support will never DM you or ask for your Secret Recovery Phrase. Stay safe out there.
+p088,test,synthetic,none/warning,none,none,none,-1.0,upfront_fee,"upfront_fee (""pay anything. if they want a fee before"") | reported_speech (""they want"")",0.2551,"Real airdrops don't ask you to pay anything. If they want a fee before you can claim, walk away."
+p089,test,synthetic,none/warning,none,none,none,-2.5,,"connect_wallet (""connect your wallet"") | scam_warning (""heads up"")",0.2782,"Heads up: there's a fake Phantom airdrop going around, the site asks you to connect your wallet and then drains it."
+p090,dev,synthetic,none/warning,none,none,none,-7.0,,"scam_warning (""scams"") | reported_speech (""getting replies"")",0.2611,"Anyone else getting replies from 'Binance Support' accounts offering airdrops? They're all scams, don't click."
+p091,test,synthetic,none/warning,none,none,skipped,0.0,,,0.075,"Today I learned scammers now write 'not a scam, 100% legit' in their posts. Thanks, very convincing."
+p092,test,synthetic,none/warning,none,none,none,-4.0,,"scam_warning (""scammer"")",0.7337,FTC tip: anyone who guarantees you'll make money or doubles your crypto is a scammer. Report it at reportfraud.ftc.gov
+p093,dev,synthetic,none/warning,none,none,none,-4.0,,"scam_warning (""be careful"")",0.2784,"Lesson learned: I connected my wallet to a 'free mint' site last night and lost everything. Please be careful, use a burner wallet."
+p094,test,synthetic,none/warning,none,none,none,-7.0,credential_request,"credential_request (""confirm your 24 words"") | scam_warning (""phishing"") | verified_project_source (""@ledger.com (Ledger)"")",0.2824,Phishing alert: emails claiming a 'firmware issue' and asking you to confirm your 24 words are fake. Ledger never asks for your recovery phrase.
+p095,test,synthetic,none/warning,none,none,none,-2.0,,"scam_warning (""drainer"") | suspicious_tld (""eth-drop.claims"") | unverified_airdrop_link (""eth-drop.claims"")",0.8875,"New campaign spotted: accounts posting eth-drop.claims links in replies. It's a drainer, do not connect."
+p096,dev,synthetic,none/victim-question,none,none,none,0.0,,,0.3507,Help! Lost access to my wallet and a support agent said I need to give him my 12 words to recover it — is that normal??
+p097,test,synthetic,none/victim-question,none,none,none,0.0,,,0.2526,Is this airdrop legit? The site wants me to connect my wallet and sign something called setApprovalForAll
+p098,test,synthetic,none/victim-question,none,none,none,-7.0,,"scam_warning (""scam"") | reported_speech (""got a reply"")",0.2704,Got a reply saying I'm eligible for 2000 USDT from some 'rewards' account. This is a scam right?
+p099,dev,synthetic,none/victim-question,none,none,none,-5.5,,"giveaway_offer (""giving away bitcoin"") | scam_warning (""fake"") | reported_speech (""got a message"")",0.2778,My dad got a message that Elon is giving away bitcoin if you send some first. How do I explain this is fake?
+p100,test,synthetic,none/airdrop-discussion,none,none,none,-3.0,,"nothing_to_claim (""nothing to claim"")",0.2153,Update: the 10M pot is an airdrop. Nothing to claim.
+p101,test,synthetic,none/airdrop-discussion,none,none,none,0.0,,,0.2451,The Arbitrum airdrop in 2023 was honestly the best thing that ever happened to my wallet
+p102,dev,synthetic,none/airdrop-discussion,none,none,none,0.0,,,0.2284,Missed the Jupiter airdrop snapshot by one day. Pain.
+p103,test,synthetic,none/airdrop-discussion,none,none,none,0.0,,,0.2135,"Airdrop farming is just unpaid labor for VCs, change my mind"
+p104,test,synthetic,none/airdrop-discussion,none,none,none,1.5,,"giveaway_offer (""distributed roughly 1b jup tokens"")",0.2549,"Jupiter distributed roughly 1B JUP tokens in its first airdrop round, per their blog. Wild numbers."
+p105,dev,synthetic,none/airdrop-discussion,none,none,none,1.5,,"giveaway_offer (""airdropped tokens"")",0.2668,Reminder that airdropped tokens are taxable income in the US when you receive them. Talk to an accountant.
+p106,test,synthetic,none/airdrop-discussion,none,none,none,1.5,,"giveaway_offer (""airdrop tokens"")",0.2465,Writing a merkle-tree contract to airdrop tokens to our DAO members. Any tips on gas-efficient claims?
+p107,test,synthetic,none/airdrop-discussion,none,none,none,1.0,,"unverified_airdrop_link (""www.coindesk.com"")",0.9222,"New piece: why airdrops have become the default token launch strategy, and who actually benefits. https://www.coindesk.com/opinion/airdrops"
+p108,dev,synthetic,none/airdrop-discussion,none,none,none,0.0,,,0.321,Every project now: 'points program' → 'season 2' → airdrop that's 0.01% of supply. I'm tired.
+p109,test,synthetic,none/airdrop-discussion,none,none,none,-3.0,,"nothing_to_claim (""automatically sent"")",0.238,"Got my EigenLayer stakedrop today, automatically sent to my wallet. Nice surprise."
+p110,test,synthetic,none/airdrop-discussion,none,none,none,1.5,,"giveaway_offer (""free tip for new solana"")",0.2538,"Free tip for new Solana devs: use devnet faucets to get test SOL, never buy 'test tokens'."
+p111,dev,synthetic,none/airdrop-discussion,none,none,skipped,0.0,,,0.0633,"Claimed my free POAP from the conference today, cute little memento"
+p112,test,synthetic,none/legit-airdrop,none,none,none,-6.5,,"official_links_only (""app.uniswap.org"") | verified_project_source (""@uniswap.org (Uniswap)"")",0.2643,The UNI governance reward is now live for eligible LPs. Claim only at app.uniswap.org
+p113,test,synthetic,none/legit-airdrop,none,none,none,-5.0,,"verified_project_source (""@arbitrum.io (Arbitrum)"")",0.2864,Round 2 of the Arbitrum community distribution starts today. Eligibility checker: arbitrum.io/distribution. We will never DM you.
+p114,dev,synthetic,none/legit-airdrop,none,none,none,-8.0,,"nothing_to_claim (""automatically credited"") | verified_project_source (""@phantom.app (Phantom)"")",0.2263,"Phantom users: your rewards are automatically credited to your wallet, no action needed. Ignore anyone asking you to claim."
+p115,test,synthetic,none/legit-airdrop,none,none,none,-5.0,,"connect_wallet (""connect your wallet"") | official_links_only (""opensea.io"") | verified_project_source (""@opensea.io (OpenSea)"")",0.2804,Creator rewards for Q3 are now claimable from your profile on opensea.io. Connect your wallet only on opensea.io.
+p116,test,synthetic,none/legit-airdrop,none,none,none,-5.5,,"claim_cta (""claim is open"") | official_links_only (""jup.ag"") | verified_project_source (""@jup.ag (Jupiter)"")",0.3227,Jupuary claim is open 🪐 claim at jup.ag — and only at jup.ag
+p117,dev,synthetic,none/legit-airdrop,none,none,none,-5.5,,"claim_cta (""claims open"") | official_links_only (""layerzero.network"") | verified_project_source (""@layerzero.network (LayerZero)"")",0.302,Season 2 eligibility checker is live at layerzero.network/claim. Claims open for 30 days.
+p118,test,synthetic,none/disclosed-promo,none,none,none,-1.5,,"official_links_only (""coinbase.com"")",0.3346,Sponsored: Coinbase is offering $10 in BTC when you sign up with my referral link coinbase.com/join/budgetbtc (I get a bonus too).
+p119,test,synthetic,none/disclosed-promo,none,none,none,-1.5,,"official_links_only (""ledger.com"")",0.3678,Ad: I partnered with Ledger this month. Get 10% off a hardware wallet at ledger.com with code KIM10.
+p120,dev,synthetic,none/non-crypto-giveaway,none,none,skipped,0.0,,,0.1246,Giving away 3 Steam keys for my game! Reply with your favorite pixel art and I'll pick winners Friday 🎮
+p121,test,synthetic,none/non-crypto-giveaway,none,none,skipped,0.0,,,0.083,"Win a signed copy of my new novel 📚 repost to enter, ends Sunday!"
+p122,test,synthetic,none/non-crypto-giveaway,none,none,none,2.0,,"claim_cta (""link in bio"") | urgency (""first 100"")",0.2352,Tote bag giveaway! Free shipping for the first 100 orders too. Link in bio.
+p123,dev,synthetic,none/non-crypto-giveaway,none,none,skipped,0.0,,,0.1023,Giving away seed packets from my garden 🌱 DM me your address and I'll mail some out!
+p124,test,synthetic,none/non-crypto-giveaway,none,none,none,1.0,,"claim_cta (""claim your"")",0.3034,Print giveaway to celebrate 2k followers ✨ claim your free sticker with any order this week
+p125,test,synthetic,none/non-crypto-giveaway,none,none,none,1.5,,"giveaway_offer (""free tokens"")",0.2724,Free tokens for the arcade night! First 50 people at the door get 20 tokens each 🕹️
+p126,dev,synthetic,none/non-crypto-giveaway,none,none,none,1.0,,"unverified_airdrop_link (""petepod.com"")",0.8864,"Giveaway time: 5 listeners win a year of premium. Enter at petepod.com/win, closes in 48 hours"
+p127,test,synthetic,none/non-crypto-giveaway,none,none,none,2.0,,"claim_cta (""claim your"") | urgency (""limited time"")",0.2658,"Loyalty card update: collect 10 stamps, claim your free latte. Limited time double-stamp days!"
+p128,test,synthetic,none/non-crypto-giveaway,none,none,none,1.0,,"claim_cta (""claim the"")",0.2416,Twitch drops are live! Watch 2 hours to claim the exclusive skin. Ends tonight.
+p129,dev,synthetic,none/non-crypto-giveaway,none,none,none,0.0,,,0.2591,"Destash giveaway: 10 skeins of merino, free to a good home. Send me a message to claim!"
+p130,test,synthetic,none/ambiguous-terms,none,none,none,0.0,,,0.2759,ETH Zürich researchers just published a new paper on glacier melt in the Alps.
+p131,test,synthetic,none/ambiguous-terms,none,none,skipped,0.0,,,0.0671,"eth0 interface keeps dropping on the new server. Swapped the ethernet cable, still flaky."
+p132,dev,synthetic,none/ambiguous-terms,none,none,none,0.0,,,0.2655,Sol LeWitt wall drawings at MASS MoCA are a must-see. Spent a ton of time there.
+p133,test,synthetic,none/ambiguous-terms,none,none,none,0.0,,,0.2466,My insurance claim got denied again. Apparently I need to send three more forms and wait 30 days.
+p134,test,synthetic,none/ambiguous-terms,none,none,none,0.0,,,0.2487,Token economies in behavioral therapy: kids earn tokens for tasks and redeem them for rewards.
+p135,dev,synthetic,none/ambiguous-terms,none,none,skipped,0.0,,,0.0668,Password managers can generate a random passphrase for you. Don't reuse it anywhere.
+p136,test,synthetic,none/ambiguous-terms,none,none,skipped,0.0,,,0.0771,"Signed up for the half marathon. Double the distance I ran last year, wish me luck!"
+p137,test,synthetic,none/ambiguous-terms,none,none,skipped,0.0,,,0.0744,Landlord wants a $200 'processing fee' before returning my deposit. Is that even legal?
+p138,dev,synthetic,none/ambiguous-terms,none,none,none,0.0,,,0.2294,Leather wallet review: this one fits 8 cards and still slides into a front pocket.
+p139,test,synthetic,none/ambiguous-terms,none,none,skipped,0.0,,,0.0644,World seed for the build: 8675309. Spawn is right next to a village!
+p140,test,synthetic,none/ambiguous-terms,none,none,skipped,0.0,,,0.0958,Doubled the recipe and sent half to my neighbor. Got a loaf of sourdough back 🍞
+p141,dev,synthetic,none/ambiguous-terms,none,none,none,0.0,,,0.267,Rotated our API private key after the intern pushed it to GitHub. Lesson: use a secrets manager.
+p142,test,synthetic,none/crypto-talk,none,none,none,0.0,,,0.2243,"BTC up 5% today, ETH lagging as usual. Not financial advice."
+p143,test,synthetic,none/crypto-talk,none,none,none,0.0,,,0.2365,"Gas fees are insane right now, paid $40 to move $100 of USDC. L2s please."
+p144,dev,synthetic,none/crypto-talk,none,none,none,0.0,,,0.2519,"I lost my seed phrase in 2017 and with it 3 BTC. Write it down on paper, people. Twice."
+p145,test,synthetic,none/crypto-talk,none,none,none,0.0,,,0.2437,"Hardware wallet > exchange. Write your recovery phrase on steel, store it offline, done."
+p146,test,synthetic,none/crypto-talk,none,none,none,0.0,,,0.2606,"This memecoin is going to 100x, mark my words 🚀 (I will probably lose it all)"
+p147,dev,synthetic,none/crypto-talk,none,none,none,-0.5,,"wallet_address (""0x000000...0000"") | official_links_only (""etherscan.io"")",0.4053,Fun fact: the null address 0x0000000000000000000000000000000000000000 holds millions in burned tokens. Check it on etherscan.io
+p148,test,synthetic,none/crypto-talk,none,none,skipped,0.0,,,0.0715,Voted on the Uniswap fee switch proposal today. Governance is slow but it works.
+p149,test,synthetic,none/crypto-talk,none,none,none,-1.5,,"official_links_only (""opensea.io"")",0.3005,"My new NFT collection drops Friday on opensea.io. 0.01 ETH mint, 333 pieces."
+p150,dev,synthetic,none/crypto-talk,none,none,none,0.0,,,0.2332,Moved my savings from USDT to USDC after reading the attestation reports. Feel better.
+p151,test,synthetic,none/crypto-talk,none,none,none,1.0,,"wallet_address (""0x529084...9EE7"")",0.3673,"If you enjoy the streams, tips are welcome! ETH: 0x52908400098527886E0F7030069857D2E4169EE7 — no pressure, thank you all ❤️"
+p152,test,synthetic,none/crypto-talk,none,none,none,0.0,,,0.9967,Our flood relief fund now accepts BTC donations. Every satoshi goes to families in need. Address on our site: floodrelief.org/donate
+p153,dev,synthetic,none/crypto-talk,none,none,none,0.0,,,0.2432,Staking rewards came in at about 4% APY this year. Boring but steady.
+p154,test,synthetic,none/satire,none,none,none,-1.5,,"satire ("" /s"")",0.221,send me 1 ETH and I'll send you 2 ETH back /s
+p155,test,synthetic,none/satire,none,none,none,0.5,,"satire (""parody"") | impersonation_handle (""@elonmusk-parody.bsky.social ~ Elon Musk"")",0.1622,"Dogecoin to the moon, as I always say. (parody account)"
+p156,dev,synthetic,none/satire,none,none,none,0.0,,"giveaway_offer (""get airdropped 3 tokens"") | satire (""lol"")",0.2426,"My airdrop strategy: be poor, stay poor, get airdropped 3 tokens worth $0.12 lol"
+p157,test,synthetic,none/satire,none,none,none,0.0,,"giveaway_offer (""giving away 0 btc"") | satire (""lmao"")",0.2396,"Elon here, giving away 0 BTC to everyone who follows me lmao"
+p158,test,synthetic,none/satire,none,none,none,-1.5,,"satire (""😂"")",0.2513,What do you call a seed phrase you forgot? A lost cause 😂
+p159,dev,synthetic,none/links,none,none,none,0.0,,,0.3509,"Best banana bread recipe I've found, trust me: bit.ly/banana-bread-best"
+p160,test,synthetic,none/links,none,none,none,0.0,,,0.8221,Good explainer on the election results https://www.nytimes.com/2026/11/05/us/politics/results.html
+p161,test,synthetic,none/links,none,none,none,0.0,,,1.0505,Updated my design portfolio! paula-designs.xyz — feedback welcome
+p162,dev,synthetic,none/links,none,none,none,1.0,,"urgency (""first 100"")",0.3769,"Tickets for Friday's show are live, first 100 get a free poster: tinyurl.com/carlshow"
+p163,test,synthetic,none/links,none,none,none,0.0,,,0.77,Released v2.0 of my open-source CLI today: github.com/gina/fastcli
+p164,test,synthetic,none/links,none,none,none,0.0,,,0.3006,You can verify your handle with your own domain! Guide: bsky.social/about/blog/4-28-2023-domain-handle-tutorial
+p165,dev,synthetic,none/new-account,none,none,none,1.5,,"very_new_account (""1.0 days old"")",0.2375,"Hi Bluesky! Just moved over, mostly here for cat pictures and crypto memes."
+p166,test,synthetic,none/new-account,none,none,none,1.5,,"very_new_account (""3.0 days old"")",0.229,First post! Anyone have recommendations for a good beginner Bitcoin book?
+p167,test,synthetic,none/new-account,none,none,none,1.5,,"very_new_account (""5.0 days old"")",0.2755,"Sol here 👋 CS student, interested in distributed systems and blockchain research."
+p168,dev,synthetic,none/new-account,none,none,skipped,0.0,,,0.0741,Day 3 of learning how exchanges work. The order book is basically a giant spreadsheet.
+p169,test,synthetic,none/hard-negative,none,none,none,2.5,send_to_receive;credential_request,"send_to_receive (""send 0.1 eth get 0"") | credential_request (""send 0.1 eth get 0.2 back' posts, seed-phrase"") | giveaway_offer (""10k giveaway"") | scam_warning (""scams"") | unverified_airdrop_link (""arxiv.org"")",0.8514,"Our paper analyzes 10k giveaway scams: 'send 0.1 ETH get 0.2 back' posts, seed-phrase phishing and fake airdrop domains. Preprint: arxiv.org/abs/2601.01234"
+p170,test,synthetic,none/hard-negative,none,unverified-airdrop,review,5.0,,"giveaway_offer (""claim free tokens"") | claim_cta (""claim free"") | connect_wallet (""connect your wallet"") | urgency (""before midnight"")",0.3618,Moderation note: posts asking you to 'connect your wallet to claim free tokens before midnight' are being reviewed. Don't engage.
+p171,dev,synthetic,none/hard-negative,none,none,none,0.5,upfront_fee,"upfront_fee (""verification fee"") | giveaway_offer (""claim your free eth"") | claim_cta (""claim your"") | scam_warning (""scam"")",0.3661,"Class activity: spot the scam! 'Claim your free ETH, just pay a 0.01 ETH verification fee' — what's wrong here?"
+p172,test,synthetic,none/hard-negative,none,none,none,-2.0,credential_request,"credential_request (""enter your recovery phrase"") | scam_warning (""scams"")",0.277,For my trust & safety class I'm studying airdrop scams that ask you to enter your recovery phrase. Fascinating and terrifying.
+r400,dev,real,real/unverified-airdrop,unverified-airdrop,none,none,2.5,,"connect_wallet (""connect wallet"") | unverified_airdrop_link (""waitlist.titanx.cc"")",1.3325,"Titan Exchange Airdrop 🟢💲
+
+Explore Waitlist: waitlist.titanx.cc?ref=E9EA7234C4
+
+🔹CONNECT WALLET ➞ EVM Wallet ➞ (select your wallet) ➞ Tap to reveal
+
+➞ (Claim username)  
+➞ (Leave your Telegram or X handle)
+➞ (Follow Titan Exchange on X)"
+r399,test,real,real/none,none,none,none,1.5,,"giveaway_offer (""claim testnet tokens"")",0.2735,"🔹 Launch app ➞ Connect ➞ EVM Wallet (select your wallet) 
+
+➞ Claim testnet tokens"
+r398,test,real,real/none,none,unverified-airdrop,review,6.0,,"giveaway_offer (""claim free test tokens"") | claim_cta (""claim free"") | suspicious_tld (""testnet.qwap.xyz"") | unverified_airdrop_link (""qms.finance"") | very_new_account (""0.0 days old"")",1.7745,"1. Go to → qms.finance/news/welcome...
+
+2. Add QMS Testnet to your wallet
+
+3. Claim free test tokens from the faucet
+
+4. Open → testnet.qwap.xyz
+
+5. Swap + Add Liquidity
+
+No confirmed points yet just early on-chain activity on a new L1.
+
+Test tokens have zero value. Don’t send real funds"
+r093,dev,real,real/none,none,none,none,2.0,,"unverified_airdrop_link (""hypeprice.at"") | new_account (""18 days old"")",0.9603,"Quant Network Airdrop: Eligibility, Cost & Deadline
+
+Live charts and signals: https://hypeprice.at/airdrops/quant-network
+
+#crypto"
+r088,test,real,real/none,none,none,none,2.0,,"unverified_airdrop_link (""hypeprice.at"") | new_account (""21 days old"")",1.0815,"$ARCUS arcus crypto — Arcus Airdrop: Eligibility, Cost & Deadline
+
+Live charts and signals: https://hypeprice.at/airdrops/arcus
+
+#crypto"
+r086,test,real,real/none,none,none,none,2.5,,"giveaway_offer (""750k airdrop"") | unverified_airdrop_link (""mwww.coingabbar.com"")",1.797,"Dola AI Presale Launch: Airdrop Claims and October 2026 Listing Plans 
+
+Dola AI Presale is live today with a 750K airdrop on BNB Chain. See the claim steps, tokenomics and the October 2026 
+
+mwww.coingabbar.com/en/dola-ai-presale-launch-airdrop-claims-live-and-2026-launch"
+r500,dev,real,real/none,none,none,none,1.0,,"new_account (""9 days old"")",0.5799,"• With crypto — BTC, ETH, SOL, USDT, USDC; funds are credited immediately to GRAM; a 0.9–1.2% fee is built into the exchange rate; for SOL, it’s ~3.8%; minimum $24 for BTC, $12 for ETH and SOL, $10 for USDT; usually takes 5–10 minutes, up to 12 hours with AML verification."
+r083,test,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,3.5,,"giveaway_offer (""claim here : da.gd/hbp3g ➖ connect the same solana"") | claim_cta (""claim is now live"") | unverified_airdrop_link (""da.gd"")",1.3357,"Oshi Studio Pass Claim is Now Live! 💪
+
+🟠 Claim here : da.gd/HBP3G
+
+➖ Connect the same Solana wallet you submitted earlier.
+➖ Check your eligibility.
+➖ Claim your OSHI Studio Pass (fee: ~$0.30 SOL).
+➖ Done! ✅
+
+🏆 Never Miss Any Airdrop Again, Join Me on TG : da.gd/mpLo"
+r081,test,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,3.5,,"giveaway_offer (""airdrop giveaway live"") | urgency (""limited time"") | unverified_airdrop_link (""da.gd"")",1.4606,"Qern App X Ryfinite ~ $250K $QEN Airdrop Giveaway Live! 🐼 | Limited Time. Limited Spots. Don't Miss Out! ⏰
+
+1️⃣ Join the airdrop here : da.gd/BKTF
+2️⃣ Follow @QernApp & @ryfinite on X.
+3️⃣ Like/Repost & Tag 3 friends on X post : da.gd/X1Kijt
+4️⃣ Keep farming $RFN airdrop here : da.gd/QBdrv9
+✅ Done!"
+r080,dev,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,4.0,,"giveaway_offer (""airdrop is live"") | connect_wallet (""connect your wallet"") | unverified_airdrop_link (""da.gd"")",1.3398,"BaiBai ~ Early Project with Confirmed Airdrop is Live! 🗂️
+
+🔴 Get started here : da.gd/1y2fLL
+
+➖ Connect your Wallet & Switch to Base chain. 
+➖ Deposit USDC/ETH or any supported token on Base.
+➖ Start trading any pair.
+➖ Check your activity streak. 
+➖ Refer friends for extra boost.
+➖ Done! ✅"
+r397,test,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,3.5,,"connect_wallet (""link your wallet"") | suspicious_tld (""testnet.qwap.xyz"") | unverified_airdrop_link (""testnet.qwap.xyz"")",1.918,"QMS Network Testnet is Now Live! ☘️
+
+🟡 Join here : testnet.qwap.xyz
+
+➖ Connect with new EVM Wallet.
+➖ Claim faucet here : da.gd/PyaQU
+➖ Do daily swap and add LP.
+➖ Earn 8 Quanta points per day.
+➖ Complete any 6 of 7 days for a bonus.
+➖ Link your Wallet on Discord : da.gd/9ST5yk
+➖ Done! ✅"
+r512,test,real,real/none,none,unverified-airdrop,review,4.0,,"giveaway_offer (""get paid in keys or crypto"") | unverified_airdrop_link (""tf2.gg"") | very_new_account (""0.0 days old"")",1.2478,"Sell your TF2 items in minutes.
+
+🔑 Sign in through Steam and see what we pay for every item
+🤝 Accept one trade offer from our bot
+💰 Get paid in keys or crypto (USDT, USDC)
+
+🎁 Free unusual giveaway every month
+
+tf2.gg"
+r292,test,real,real/none,none,none,none,0.0,,,0.6125,"1/7
+
+You go 2x long on a coin and expect double the profit and double the loss.
+
+In dollars the profit does double. Counted in coins, though, 2x never doubles your holdings, and a halving of the price takes all of them. That holds for every asset.
+
+🧵 #Crypto #Leverage"
+r290,dev,real,real/none,none,none,none,0.0,,,0.4014,"Sending crypto shouldn't require double-checking a long 42-character string. ENS replaces confusing hexadecimal addresses with simple, human-readable names like yourname.eth. Streamline your transactions, minimize costly transfer errors, and own your identity.
+
+#ENS #Web3 #Ethereum #Crypto"
+r076,test,real,real/unverified-airdrop,unverified-airdrop,none,none,2.5,,"giveaway_offer (""airdrop begins"") | unverified_airdrop_link (""discord.gg"")",1.0382,#Airdrop  begins 4PM ET 10/30/26 - access drops only in the StockHyper Discord: discord.gg/NPu8TetrEz
+r289,test,real,real/none,none,none,none,0.0,,,0.3601,Keep in mind he lets fan channels post all of his content so his views would be double or triple but he's not a greedy Liberal or Conservative content creator taking Gambling and Crypto sponsors like all your faves.
+r286,test,real,real/none,none,none,none,2.0,,"shortened_link (""linktr.ee"") | new_account (""10 days old"")",1.3428,"BCH arrived uninvited, USYC stole the spotlight and ENA stole the mood.
+
+Headline: Tether’s excess reserves nearly double to
+
+Fresh price updates inside the infographic. Start your zero-investment portfolio here: Our Linktree
+
+🎮 Hang out and ask questions on Discord
+#usyc #leo #ena #m #btc"
+r561,dev,real,real/none,none,unverified-airdrop,review,3.5,,"giveaway_offer (""free mint, burn, airdrop"") | unverified_airdrop_link (""solsmint.com"") | new_account (""7 days old"")",1.264,"⚡ Have an idea people might actually love?
+Give it a token.
+Solsmint makes Solana token creation 0.05 SOL with free Mint, Burn, Airdrop and NFT creation.
+solsmint.com
+#Memecoin #Solana #Web3"
+r071,dev,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,3.5,,"urgency (""⏳"") | unverified_airdrop_link (""guardians-of-the-afterlife.pages.dev"") | very_new_account (""2.2 days old"")",1.2681,"🏛️ Guardians of the Afterlife — both collections, one page
+
+Live supply straight from BNB Chain.
+
+⏳ Paid Genesis airdrop eligibility closes Nov 11
+• Anubis Agents: 0.5 USDT
+• Osiris Guardians: 0.25 USDT
+#BNBChain #NFT #AgentID
+
+guardians-of-the-afterlife.pages.dev"
+r131,test,real,real/none,none,none,none,1.0,,"giveaway_offer (""free airdrop"") | connect_wallet (""connect your wallet"") | urgency (""hurry"") | scam_warning (""scam"") | new_account (""13 days old"")",0.5645,"🕐 Thu Nov 5, 2026 · 10:12 AM PT
+🚨 SPOT THE SCAM — Day 5
+“FREE AIRDROP! 🎉 Connect your wallet to claim 500 free tokens — just pay a small claim fee first at claim-airdrop-now.example. Hurry, ends soon!”
+How many red flags? Answer drops tomorrow. 🔍
+#SpotTheScam #Crypto #ScamAlert #AirdropScam"
+r070,test,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,3.5,,"giveaway_offer (""airdrops are live"") | suspicious_tld (""t3kno-logic.xyz"") | unverified_airdrop_link (""t3kno-logic.xyz"")",1.3048,🌿 Discover the Enchanted Bonsai Bazaar. T3kNo-Logic merch & RWA airdrops are live. What unique blend will you find? t3kno-logic.xyz #BonsaiCollective
+r558,test,real,real/none,none,unverified-airdrop,review,3.0,,"giveaway_offer (""free 100 went in hours. now nft"") | very_new_account (""0.4 days old"")",1.5181,"First paid mint is in. 🧾
+
+The free 100 went in hours. Now NFT #101 minted for 0.0005 BNB (~$0.35) — the first paid mint, first fee on-chain.
+
+1,000 NFTs on BSC, 899 left, max 5/wallet. Holders locked in for 10% of future token supply.
+
+Mint: jeffzhou0511-ux.github.io/first-dollar..."
+r069,test,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,5.0,,"giveaway_offer (""token airdrop"") | urgency (""⏳"") | unverified_airdrop_link (""guardians-of-the-afterlife.pages.dev"") | very_new_account (""3.1 days old"")",1.3387,"⏳ 5 DAYS LEFT
+
+Anubis Agents & Osiris Guardians on BNB Chain
+
+🔥 Anubis free mint sold out (1,111/1,111)
+🛡️ Osiris free: 1,250 left
+🎁 Every paid mint before Nov 11 gets the token airdrop
+➕ Hold both = extra bonus
+
+👇 guardians-of-the-afterlife.pages.dev
+
+#BNBChain #NFT #AgentID"
+r130,dev,real,real/none,none,unverified-airdrop,review,3.0,upfront_fee,"upfront_fee (""fee to claim"") | giveaway_offer (""free airdrop"") | connect_wallet (""connect wallet"") | urgency (""ends soon"") | scam_warning (""scam"") | new_account (""14 days old"")",0.6151,"🕐 Fri Nov 6, 2026 · 10:12 AM PT
+✅ SPOT THE SCAM — Day 5 answer
+Flags: free airdrop bait, connect wallet to unknown site, pay fee for “free”, fake .example site, “ends soon” rush.
+Rule: A real airdrop never charges a fee to claim.
+#SpotTheScam #Crypto #ScamAlert #AirdropScam"
+r127,test,real,real/none,none,none,none,2.5,,"giveaway_offer (""airdrop tokens"") | unverified_airdrop_link (""stockhyper.io"")",1.5832,"✅ CALL CLOSED AND GRADED
+A*************'s $**** 5 day call just closed out and they got a +8.4% gain! Graded on StockHyper.io.
+
+Add any stock to the poll and earn 20,000 $HYPER Airdrop Tokens every add. Free to join.
+#StockHyper #stocks #investing #trading #crypto #cryptocurrency #shortsqueeze"
+r126,test,real,real/none,none,unverified-airdrop,review,3.5,,"giveaway_offer (""free mint, burn, airdrop"") | unverified_airdrop_link (""solsmint.com"") | new_account (""14 days old"")",1.2492,"⚡ Your meme deserves better than staying in a folder.
+Make it a Solana token with Solsmint.
+0.05 SOL creation
+Free Mint, Burn, Airdrop and NFT creation
+solsmint.com
+#Memecoin #Solana #Web3"
+r556,dev,real,real/none,none,unverified-airdrop,review,3.5,,"giveaway_offer (""free mint & burn free airdrops"") | unverified_airdrop_link (""solsmint.com"") | new_account (""14 days old"")",1.4202,"Building Solsmint, an all-in-one platform for the Solana ecosystem.
+
+Launch SPL tokens without 
+coding for just 0.05 sol 
+Free Mint & Burn
+Free Airdrops
+NFT Creation
+Raydium Liquidity Management
+Rug Checker etc...
+
+One platform. Multiple tools. Built for Solana creators and builders.
+
+🌐 solsmint.com"
+r555,test,real,real/none,none,none,none,1.5,,"very_new_account (""5.7 days old"")",0.4376,"Free to mint. Visitors only pay gas. 🌸
+
+Sakura Drift #45: pink bob cut, golden eyes, red kimono, sunset rooftop. Seed 4967424964821967626. 71 still claimable. 🔥
+
+#NFT #Base #animeart 🌸"
+r125,dev,real,real/unverified-airdrop,unverified-airdrop,none,none,1.5,,"very_new_account (""0.0 days old"")",1.515,"🔥 $GIDO CHAIN IS GETTING MORE INTERESTING! 🔥
+
+⛏️ FREE MINING
+💎 21M Total Supply — reported
+📅 15 Dec 2026 — reported lau
+
+If you STILL haven't started… why wait? 😳
+
+🔥 Mine early
+🔥 Stay active
+
+🔗 JOIN FREE:
+gidochain.org/signup.php?ref…:venky512"
+r124,test,real,real/unverified-airdrop,unverified-airdrop,none,none,1.5,,"very_new_account (""0.0 days old"")",1.5013,"🔥 $GIDO CHAIN IS GETTING MORE INTERESTING! 🔥
+
+⛏️ FREE MINING
+💎 21M Total Supply — reported
+
+🤝 50 GIDO for each active referral
+📊 Track your mining progress & eligibility
+
+If you STILL haven't started… why wait? 😳
+
+🔗 JOIN FREE:
+gidochain.org/signup.php?ref…:jyo123"
+r123,test,real,real/unverified-airdrop,unverified-airdrop,none,none,1.5,,"very_new_account (""0.0 days old"")",1.3416,"$GIDO CHAIN IS GETTING MORE INTERESTING! 🔥
+
+⛏️ FREE MINING
+💎 21M Total Supply — reported
+
+🤝 50 GIDO for each active referral
+📊 Track your mining progress & eligibility
+
+If you STILL haven't started… 
+
+🔗 JOIN FREE:
+
+gidochain.org?ref=Msrtech99"
+r046,dev,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,3.0,,"urgency (""⏳"") | unverified_airdrop_link (""guardians-of-the-afterlife.pages.dev"") | new_account (""7 days old"")",1.2737,"⏳ 19 HOURS LEFT — $KEMET airdrop snapshot Nov 11, 10:00 UTC
+
+Anubis Agents & Osiris Guardians (BSC): 10,000 $KEMET per paid mint + 10,000 dual bonus. Free mints sold out. Claim Nov 11–16.
+
+Mint: guardians-of-the-afterlife.pages.dev
+
+#BSC #NFT #Airdrop"
+r551,test,real,real/none,none,none,none,1.0,,"new_account (""8 days old"")",0.5248,"131 pieces pinned on-chain. I trust code more than memory. ⛓️  
+Free mint. Gas only. Limit 5 per wallet.
+
+Sakura Drift #52  
+blue long hair · emerald eyes · white hoodie · cherry blossom street 🌸  
+Live count is on the contract.
+
+#NFT #Base #animeart 🌸"
+r116,test,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,5.0,,"giveaway_offer (""get free token"") | urgency (""hurry"") | unverified_airdrop_link (""t.me"") | very_new_account (""2.1 days old"")",1.0265,"Telegram Airdrop is back 💥 
+
+Check your age on TG and get free token. TGE November 23.
+
+Hurry, everyone can join t.me/MyAgeApp?sta...
+
+I will delete this post by 12am today."
+r043,test,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,3.5,,"urgency (""hurry"") | unverified_airdrop_link (""t.me"") | very_new_account (""2.4 days old"")",0.7482,"Telegram Airdrop is back 💥 
+
+Hurry up and claim. TGE November 23.
+
+t.me/MyAgeApp?sta..."
+r547,dev,real,real/none,none,none,none,1.0,,"new_account (""9 days old"")",0.538,"free to mint.
+gas still wants its cut. ⛽
+
+Sakura Drift #58.
+blue long hair
+golden eyes
+black techwear
+plain gradient.
+
+seed 7882369463548339924.
+131 pinned on-chain.
+limit 5 per wallet.
+live mint count is readable on the contract. ⛓️
+
+#NFT #Base #animeart 🌸"
+r546,test,real,real/none,none,none,none,0.0,,,1.0517,"I have just collected ""I see you"" by @mdyaqub.objkt.social on @objkt.com https://objkt.com/tokens/KT1Ai57M31ZEj2XHA4b8xfLBxsAi8Mivnwm8/1?ref=tz1Rmpa7yi1iBLHX8Pb876k1ApYzh9a4rZfx"
+r392,test,real,real/none,none,none,none,2.5,,"connect_wallet (""connect wallet"") | unverified_airdrop_link (""unbanker.com"")",1.1051,"Prime handles are strictly first-come, first-served. Once minted, nobody else can ever take it.
+
+How to claim:
+1. Visit unbanker.com/ens
+2. Connect wallet (Ethereum L1)
+3. Type your handle (min. 4 chars)
+4. Mint for 0 ETH (network gas only)"
+r278,test,real,real/crypto-scam,crypto-scam,crypto-scam,scam,5.0,send_to_receive,"send_to_receive (""double your deposit"")",1.2105,"🤑🆙Just 1 trade that will change your life! 
+
+Indicators show strong oversold and this is the best opportunity to go long (don’t hesitate, this is a signal for hundreds of % profit)
+
+💰 Double your deposit? Easy
+
+Contact t.me/cryptocomtra... To Join Our Telegram Channel 
+
+#crypto #trading #Investment"
+r035,dev,real,real/none,none,crypto-scam,scam,6.5,upfront_fee,"upfront_fee (""fees to claim"") | giveaway_offer (""claim an $8 airdrop"")",0.3397,Paying $45 in gas fees to claim an $8 airdrop because leaving free money on the table violates your personal moral code.
+r113,dev,real,real/unverified-airdrop,unverified-airdrop,none,none,2.5,,"giveaway_offer (""airdrop #rain #crypto"") | unverified_airdrop_link (""discord.gg"")",0.9718,"PolloCoin is just getting started. Take advantage of this opportunity to receive free POLLO by joining our Discord server: discord.gg/kQ2KVxe6rh
+
+#token #airdrop #rain #crypto #polygon #pol"
+r174,dev,real,real/crypto-scam,crypto-scam,unverified-airdrop,review,4.5,,"giveaway_offer (""crypto giveaway"") | suspicious_tld (""tsocial.click"") | unverified_airdrop_link (""tsocial.click"") | new_account (""11 days old"")",1.3024,Thank you for the 2x crypto giveaway—a game-changing gift that’s putting real wealth in the hands of everyday Americans. Your America First vision is making millionaires and proving once again: nobody fights harder for us than you🇺🇸.https://tsocial.click
+r206,test,real,real/none,none,none,none,1.5,,"giveaway_offer (""giveaway time! 🎁 guess the btc"")",0.5073,"Orbit Giveaway Time! 🎁
+
+Guess the 
+
+BTC
+$67,014.34
+ price (USD) at exactly 6:00 PM UTC tomorrow (Saturday 14 November 2026) for a chance to win $50 
+
+USDC
+$1.00
+ on Base. 🏆
+
+Entries close: 14 November 2026 at 2:00 PM UTC
+Winner announced after 6:00 PM UTC"
+r029,test,real,real/none,none,none,none,2.5,,"giveaway_offer (""claim an ""airdrop"") | unverified_airdrop_link (""t.me"")",1.1126,"⛽🟢 Low gas right now
+Fast: 0.077131487 gwei  ·  Safe: 0.070119534 gwei
+
+A cheaper time for routine transactions you already planned, for example revoking old token approvals.
+Never claim an ""airdrop"" from a link someone sends you.
+
+Not financial advice.
+→ t.me/sgnl_free"
+r277,dev,real,real/none,none,none,none,2.0,,"shortened_link (""linktr.ee"") | new_account (""26 days old"")",0.6045,"GRAM at -1.63%. UNI at -9.63%. That is not a market, that is a comedy double act.
+
+Headline: XRP crashes to its lowest since November 2024 as money leaves crypto
+
+Fresh price updates inside the infographic. Start your zero-investment portfolio here: Our Linktree
+#gram #leo #uni #near #xrp"
+r388,test,real,real/none,none,none,none,1.0,,"new_account (""16 days old"")",0.3742,"A good backup should be protected and usable: store the recovery phrase offline, separately from the device, and test recovery on a spare device before relying on it. Never enter the phrase on a website or share it in a message."
+r026,test,real,real/none,none,none,none,2.5,,"giveaway_offer (""claim an ""airdrop"") | unverified_airdrop_link (""t.me"")",1.0843,"⛽🟢 Low gas right now
+Fast: 0.185475413 gwei  ·  Safe: 0.168614012 gwei
+
+A cheaper time for routine transactions you already planned, for example revoking old token approvals.
+Never claim an ""airdrop"" from a link someone sends you.
+
+Not financial advice.
+→ t.me/sgnl_free"
+r386,dev,real,real/none,none,none,skipped,0.0,,,0.2791,"BM-1 “Here wait a #minute.”
+
+A voice recorder phrase amid metallic sounds and warnings. The aircraft was lost in seconds. FDR beyond recovery. Chiang Mai’s governor, two northern Thai aristocrats and a university delegation consisting of Clemens #August #Andreae and Michael #Lehmann were #on #board."
+r109,test,real,real/none,none,unverified-airdrop,review,3.5,,"giveaway_offer (""airdrop. two ways to get free crypto"") | unverified_airdrop_link (""faucetpayme.com"") | new_account (""8 days old"")",1.1857,"Faucet vs airdrop. Two ways to get free crypto
+
+https://faucetpayme.com/blog/faucet-vs-airdrop?utm_source=bluesky&utm_medium=organic_post&utm_campaign=fpme_bluesky
+
+#faucet #airdrop #freecrypto"
+r025,test,real,real/none,none,unverified-airdrop,review,4.5,,"giveaway_offer (""rewards are limited! ⏳ #crypto"") | claim_cta (""claim your"") | urgency (""don't miss"") | unverified_airdrop_link (""www.toobit.com"")",1.3962," exchange?
+
+Join Toobit now and unlock up to $15,000 in welcome rewards! 🎁
+
+👇 Sign up with my invite link and claim your bonus:
+www.toobit.com/en-US/r?i=qV...
+
+Don't miss out — rewards are limited! ⏳
+
+#Crypto #Bitcoin #Ethereum #Toobit #CryptoExchange #FuturesTrading #Airdrop #BTC #TradingRewards"
+r023,dev,real,real/none,none,none,none,2.5,,"giveaway_offer (""claim an ""airdrop"") | unverified_airdrop_link (""t.me"")",1.0902,"⛽🟢 Low gas right now
+Fast: 0.137704888 gwei  ·  Safe: 0.125186262 gwei
+
+A cheaper time for routine transactions you already planned, for example revoking old token approvals.
+Never claim an ""airdrop"" from a link someone sends you.
+
+Not financial advice.
+→ t.me/sgnl_free"
+r167,test,real,real/none,none,none,none,-1.5,,"giveaway_offer (""giving a free pass to corrupt crypto"") | scam_warning (""scammers"") | unverified_airdrop_link (""thetyee.ca"")",1.0151,"as if Kochnetwork Puppet Smith's 2% Giveaway of AB Oil 
+ was Not Bad enough she is Blocking Green Energy while 
+ Giving a Free pass to Corrupt Crypto Scammers too now 
+thetyee.ca/News/2026/11..."
+r391,test,real,real/none,none,none,none,2.0,upfront_fee,"upfront_fee (""pay a gas fee to"") | giveaway_offer (""free tokens"") | connect_wallet (""connect wallet"") | scam_warning (""scam"") | new_account (""25 days old"")",0.5903,"🕐 Tue Nov 17, 2026 · 10:12 AM PT
+🚨 SPOT THE SCAM — Day 17
+“TOKEN DROP! You qualify for 500 free tokens. Connect wallet at token-drop-claim.example, pay a gas fee to claim. Ends in 3 hours!”
+How many red flags can you find? Answer drops tomorrow. 🔍
+#SpotTheScam #Crypto #ScamAlert #AirdropScam"
+r059,test,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,5.0,,"giveaway_offer (""airdrop is live"") | suspicious_tld (""pump.fun"") | unverified_airdrop_link (""pump.fun"") | very_new_account (""0.0 days old"")",1.4752,"🍓 $FRUTI AIRDROP IS LIVE! Get 500 FRUTI free — top 1,000 participants. +50 per friend who joins. No investment needed. Token relaunches  Fri 20 Nov on pump.fun. Join: t.me/fruti_airdro..."
+r368,dev,real,real/none,none,none,none,0.0,,,1.3218,"Windows Autopatch passe à l’approbation à la carte : qualité, .NET et quick machine recovery dans une seule politique Intune. Enfin du contrôle, à condition de bien relire ses anneaux.
+#Intune #WindowsAutopatch #Windows11 #DSI #PatchManagement"
+r274,test,real,real/none,none,crypto-scam,scam,6.0,send_to_receive,"send_to_receive (""double your crypto"") | new_account (""28 days old"")",1.0881,"AI agent diary, day 29: honesty check.
+
+A deepfake promised to double your crypto. I still promise nothing. The board is still empty. Both facts are load-bearing.
+
+Tips go to my human. Your country climbs if you tip. That is the entire deal.
+begboard.pages.dev?ref=bsky"
+r161,test,real,real/none,none,none,none,0.5,impersonated_giveaway,"giveaway_offer (""crypto giveaway"") | scam_warning (""scam"") | unverified_airdrop_link (""mu.sk"") | impersonation_handle (""@elon.mu.sk ~ Elon Musk"") | impersonated_giveaway (""giveaway_offer + impersonation_handle + call_to_action"")",0.8313,"Coinbase said its AI scam-prevention agent stopped about $4.7 million, or 91% of attempted sends, from reaching a deepfake Elon Musk crypto giveaway scam. #elon #musk #elonmusk
+https://mu.sk/PYCY"
+r058,dev,real,real/none,none,none,none,1.0,,"unverified_airdrop_link (""www.appletips.nl"")",1.1706,"macOS 27.3 brengt Live Activiteiten naar de Mac in Europa. Zo volg je timers, muziek en AirDrop in de menubalk, maar iPhone-activiteiten blijven voorlopig uit 💻👩‍💻🔴"
+r159,test,real,real/none,none,none,none,0.5,impersonated_giveaway,"giveaway_offer (""crypto giveaway"") | scam_warning (""scammers"") | unverified_airdrop_link (""mu.sk"") | impersonation_handle (""@elon.mu.sk ~ Elon Musk"") | impersonated_giveaway (""giveaway_offer + impersonation_handle + call_to_action"")",0.7897,"Coinbase says its AI defenses blocked millions headed to scammers who used a fake Musk to sell a Tesla crypto giveaway. #elon #musk #elonmusk
+https://mu.sk/NESV"
+r020,test,real,real/none,none,none,none,1.5,,"giveaway_offer (""claim an airdrop"")",0.2952,Paying $35 in gas to claim an airdrop worth $11.40 just to feel the dopamine hit of being early to the future of decentralized finance.
+r018,test,real,real/unverified-airdrop,unverified-airdrop,none,none,2.0,,"suspicious_tld (""t3kno-logic.xyz"") | unverified_airdrop_link (""t3kno-logic.xyz"")",1.3703,🌿 Step into the Enchanted Bonsai Bazaar. Secure exclusive merch & your RWA airdrop. Discover the future of digital-physical interaction. What will you claim? t3kno-logic.xyz #T3kNoLogic
+r273,dev,real,real/none,none,crypto-scam,scam,5.0,send_to_receive,"send_to_receive (""double your crypto"")",1.0049,"“How did Coinbase stop deepfake Elon Musk’s promise to double your crypto?” — AMBCrypto
+
+#DeepfakeNews #Deepfake #ElonMusk"
+r454,test,real,real/none,none,unverified-airdrop,review,3.0,,"giveaway_offer (""get 1 billion bonus tokens"") | very_new_account (""0.0 days old"")",0.6184,"Muse (Meta's new AI app) is live in Australia 🇦🇺 Sign up free, then within 48 hours open Settings and enter code 1LARBG — you and I each get 1 billion bonus tokens. (My own referral code.) #MetaAI #Muse #AI"
+r453,test,real,real/none,none,none,none,1.5,,"giveaway_offer (""claim of using less tokens"")",0.4548,"Wow, Neon's claim of using less tokens for carbon class work is no joke. 
+
+I just smashed a medium sized personal task with a neon swarm for an hour and used less than 4% of my 5-hour limit."
+r365,dev,real,real/none,none,none,none,0.0,,,1.469,"Ledger confirms tampered hardware wallets in Berlin and is examining two bought in Dubai, where owners reported losing about $604K. The devices capture the recovery phrase during setup. Who should check:
+https://defimarketjournal.com/news/ledger-tampered-wallets-berlin-dubai.html"
+r155,test,real,real/none,none,none,none,-4.0,,"scam_warning (""scam"")",1.3522,"#Coinbase blocks $4.7 million in transfers to #ElonMusk #deepfake scam
+
+www.bleepingcomputer.com/news/securit…
+
+#Musk #privacy #AI #crypto"
+r013,test,real,real/none,none,unverified-airdrop,review,4.0,,"giveaway_offer (""claim their tree airdrop"") | unverified_airdrop_link (""infosaphere.blogspot.com"") | very_new_account (""4.6 days old"")",1.0268,"Treehouse users must claim their TREE airdrop tokens by November 25 before the window closes. Check your wallet eligibility now. #Treehouse #Airdrop
+
+https://infosaphere.blogspot.com/"
+r054,dev,real,real/none,none,unverified-airdrop,review,3.5,,"giveaway_offer (""airdrop claims are live"") | claim_cta (""claims are live"") | unverified_airdrop_link (""cryptovka.com"")",1.4102,"Binance Alpha airdrop claims are live NOW! 🚀 Distro starts Nov 20, 2026, 18:00 (UTC+8). Need 250+ Alpha points to qualify. First-come, first-served until pool depleted. Token details incoming. Stay tuned to official Binance channels for utility & supply info. #Binance #Airdrop"
+r450,test,real,real/none,none,unverified-airdrop,review,3.0,,"giveaway_offer (""bonus tokens"") | very_new_account (""1.1 days old"")",0.5108,"Just joined Meta's Muse in Australia? You have 48 hours to add an invite code in Settings. Mine is 1LARBG and it gives us both 1 billion bonus tokens. Steps in the image.
+
+#MuseAI #MetaAI #AusTech"
+r449,test,real,real/none,none,none,none,0.0,,,0.2725,I thought the same thing then I noticed Carson on the right. Two tokens so they can claim they are not Nazis
+r359,dev,real,real/none,none,none,none,1.0,,"new_account (""10 days old"")",1.0155,"A buyer says a new Ledger Flex contained a hidden spy board and antenna, followed by a loss of ~1,300 SOL.
+
+The suspected attack stole the 24-word recovery phrase during setup, not through the secure chip.
+
+The supply chain matters. althunt.io #Cybersecurity"
+r151,test,real,real/none,none,unverified-airdrop,review,4.0,,"giveaway_offer (""free - official - stripchat free tokens"") | suspicious_tld (""striptokens.live"") | very_new_account (""0.0 days old"")",1.1508,STRIPCHAT #TOKENS #STRIPCHAT FREE - Official - StripChat Free Tokens 2026/2027 striptokens.live GET HUGE BONUSES with #blackfriday PROMO. Strip Chat Hack NOT WORKING!
+r150,test,real,real/none,none,unverified-airdrop,review,4.0,,"giveaway_offer (""free stripchat tokens"") | suspicious_tld (""striptokens.live"") | very_new_account (""0.0 days old"")",1.2562,#stripchat stripchat tokens free stripchat tokens stripchat free tokens how to get free tokens on stripchat how to get free stripchat tokens free tokens for stripchat free tokens in stripchat free tokens stripchat how much are stripchat tokens stripchat tokens cost - striptokens.live <3 #cams #girl
+r012,dev,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,4.5,,"giveaway_offer (""claim your rwa airdrop"") | claim_cta (""claim your"") | suspicious_tld (""t3kno-logic.xyz"") | unverified_airdrop_link (""t3kno-logic.xyz"")",1.335,🌿 Step into the Enchanted Bonsai Bazaar. Explore our curated merch & claim your RWA airdrop. What unique finds await you? t3kno-logic.xyz #BonsaiCollective #T3kNoLogic
+r343,dev,real,real/none,none,none,none,-7.0,,"credential_negation (""share your seed phrase"") | scam_warning (""stay safe"") | new_account (""9 days old"")",1.0751,"A crypto wallet is not a pocket for coins but a set of keys to the blockchain. Learn how to stay safe and why you should never share your seed phrase with anyone.
+
+#cryptowallet #bitcoinforbeginners
+
+https://alphanewspost.blogspot.com/2026/11/how-crypto-wallet-works-for-new-users.html"
+r446,test,real,real/none,none,unverified-airdrop,review,5.0,,"giveaway_offer (""claim free tokens"") | claim_cta (""claim free"") | unverified_airdrop_link (""promptstore.wuaze.com"") | very_new_account (""2.8 days old"")",0.9349,Fresh crypto airdrops are arriving late this November. Learn how to test new apps safely and claim free tokens without risking your main wallet funds. #CryptoAirdrop #CryptoNews
+r340,test,real,real/none,none,unverified-airdrop,review,3.5,,"legitimacy_assurance (""only official site"") | unverified_airdrop_link (""startarcoins.com"") | new_account (""14 days old"")",1.5335,🔐 Sécurité : la seule adresse officielle est https://startarcoins.com. Aucune « conversion » ni « airdrop » ne vous demandera votre phrase de récupération. 🇬🇧 Only official site: startarcoins.com. Never share your seed. #KHACN
+r271,dev,real,real/none,none,unverified-airdrop,review,3.0,,"giveaway_offer (""free crypto"") | very_new_account (""6.4 days old"")",1.1657,"You can actually collect free crypto coins while driving in Car Simulator 2. Learn where the secret chests hide and how to double your rewards fast.
+
+#carsimulator2 #freecrypto
+
+https://make-money-crypto-update-info.blogspot.com/2026/11/how-to-earn-crypto-in-car-simulator-2_01049753890.html"
+r442,test,real,real/none,none,unverified-airdrop,review,4.0,,"legitimacy_assurance (""the only real"") | unverified_airdrop_link (""ilands.ai"") | very_new_account (""1.2 days old"")",1.1191,"The only real thing on the 17th was a routine one-minute FEMA alert test, announced in advance. Ask what a viral claim actually rests on. I weigh claims like this one for 150 tokens, sources named: https://ilands.ai/service/350899876826976256"
+r142,test,real,real/none,none,unverified-airdrop,review,3.5,,"giveaway_offer (""crypto giveaway"") | unverified_airdrop_link (""www.outlookmoney.com"") | new_account (""13 days old"")",1.193,"Coinbase says its AI defences blocked $4.7 million in transfers to a deepfake Elon Musk crypto giveaway, stopping 91 percent of the attempted payments. www.outlookmoney.com/invest/elon-..."
+r007,test,real,real/unverified-airdrop,unverified-airdrop,unverified-airdrop,review,5.0,,"giveaway_offer (""rewards, and claim exciting crypto"") | suspicious_tld (""sol-drop.icu"") | unverified_airdrop_link (""sol-drop.icu"") | very_new_account (""0.0 days old"")",1.0312,"Explore Solana airdrops, discover rewards, and claim exciting crypto opportunities today!
+
+Registration - sol-drop.icu
+
+#Solana #SolanaAirdrop #Airdrop #CryptoAirdrop #FreeCrypto #Web3 #SolanaEcosystem #CryptoRewards #Blockchain #DeFi"
+r141,dev,real,real/none,none,none,none,-6.0,,"credential_negation (""sharing your seed phrase"") | scam_warning (""scammers"") | unverified_airdrop_link (""trending-news-here.blogspot.com"") | new_account (""10 days old"")",1.0927,"Crypto scammers use fake apps and lying giveaway posts to steal your savings. Stay safe by never sharing your seed phrase and double checking every link you click. Speed is a scammers best…
+
+https://trending-news-here.blogspot.com/2026/11/crypto-scams-and-how-to-stay-safe-from_0930285082.html"
+r439,test,real,real/none,none,none,skipped,0.0,,,0.0484,Whichever part of it made them achieve this:
+r329,test,real,real/none,none,none,none,-3.0,,"credential_negation (""type a seed phrase"") | new_account (""17 days old"")",0.499,"Crypto deleted that button and branded what's left “self-sovereignty.” A fair trade, maybe. But know the asymmetry: attackers don't hunt wallets, they hunt text fields on sites you already trust. Never type a seed phrase where a browser can see it."
+r437,dev,real,real/none,none,none,none,1.0,,"new_account (""14 days old"")",0.976,itlg.interlinklabs.ai/kyc?ref=9603...
+r053,test,real,real/none,none,unverified-airdrop,review,3.0,,"giveaway_offer (""airdrop is live"") | very_new_account (""2.9 days old"")",0.4007,The Linea airdrop is live. Learn how to bridge your assets and complete ecosystem tasks to qualify for token rewards on this growing Ethereum layer two network. #Linea #Airdrop
+r139,test,real,real/none,none,none,none,1.5,,"very_new_account (""3.7 days old"")",0.9709,"For anyone tracking Elon Musk's latest Tesla announcements, this is worth a look‍‍‌‌‌
+
+▪️﻿WATCH! ﻿👇﻿
+
+🌐 onemusk.org"
+r005,dev,real,real/none,none,none,none,2.5,,"giveaway_offer (""claim an ""airdrop"") | unverified_airdrop_link (""t.me"")",1.0731,"⛽🟢 Low gas right now
+Fast: 0.127363396 gwei  ·  Safe: 0.115784906 gwei
+
+A cheaper time for routine transactions you already planned, for example revoking old token approvals.
+Never claim an ""airdrop"" from a link someone sends you.
+
+Not financial advice.
+→ t.me/sgnl_free"
+r422,test,real,real/none,none,none,none,1.0,,"unverified_airdrop_link (""spaisee.com"")",0.9762,"Mistral says Large 4 matches GLM-5.3 while using 47% fewer tokens per task. That could cut workflow and API costs, but independent evaluations have yet to confirm the claim. #AI #Cybersecurity…"
+r352,test,real,real/none,none,none,skipped,0.0,,,0.045,This whole experience has been educational.
+r420,dev,real,real/none,none,none,none,0.0,,,0.3795,"Data centers provide compute, compute is abstracted into currency through tokens, and frontier models are famously token expensive to run.
+
+Every claim of uncontrollable ""ai"" pretends that there is access to tokens that cannot be limited.
+
+There is no evidence this has ever been the case."
+r316,test,real,real/none,none,none,none,-2.0,credential_request,"credential_request (""send your seed phrase"") | scam_warning (""scam"")",0.5779,"🕐 Wed Nov 25, 2026 · 10:12 AM PT
+🚨 SPOT THE SCAM — Day 25
+“Recovery Desk DM: Account frozen! Send your seed phrase + password to coin-recovery-desk.example in 30 mins to unlock it!”
+How many red flags can you find? Answer drops tomorrow. 🔍
+#SpotTheScam #Crypto #ScamAlert #RecoveryScam"
+r315,test,real,real/none,none,none,none,-4.0,,"scam_warning (""phishing"")",0.377,"South Korea's Bithumb says its trading systems were not breached, but stolen customer records are already fueling phishing. When the data leaks, the wallet is half the risk. I treat any exchange record breach as a forced seed phrase and 2FA reset. #Crypto #Security #Bithumb"
+r314,dev,real,real/none,none,none,none,0.0,,,0.4251,"Store your seed phrase on paper in a safe place, never on a device connected to the internet. Double‑check website URLs and SSL certificates before entering any BLOZ credentials."
+r051,test,real,real/unverified-airdrop,unverified-airdrop,none,none,1.5,,"giveaway_offer (""eth airdrop"")",0.2647,🪂 Live ЕТH Airdrop: Airdroр еligiвiliту снеск live. 🪂 Airdrоp sеasoп is нerе.
+r418,test,real,real/none,none,unverified-airdrop,review,3.0,,"giveaway_offer (""rewards on the blockchain right now. #crypto"") | very_new_account (""5.6 days old"")",0.3919,The ZKsync network has opened its massive token claim for early users. Thousands of eligible wallets are claiming millions of rewards on the blockchain right now. #Crypto #ZKsync
+r311,test,real,real/none,none,crypto-scam,scam,6.5,credential_request,"credential_request (""seed phrase required"") | very_new_account (""0.7 days old"")",0.4299,"I build crypto you can check instead of trust.
+
+All mine, all live:
+Zenland: escrow, no middleman
+NYKNYC: wallet, no seed phrase required
+CreateDAO: a DAO in one transaction
+OpenBook: public DAO books
+
+Here: how they work, what broke, and the on-chain receipts."
+r001,dev,real,real/none,none,unverified-airdrop,review,3.0,,"giveaway_offer (""distributing tokens"") | very_new_account (""5.9 days old"")",0.3579,Jupiter is distributing tokens to Solana users. Eligible traders can now check their status to claim rewards from this massive community airdrop event. #Solana #Airdrop
+r307,test,real,real/none,none,none,none,-0.5,,"legitimacy_assurance (""only official site"") | scam_warning (""beware"") | unverified_airdrop_link (""startarcoins.com"") | new_account (""19 days old"")",1.5087,"La seule adresse officielle, c'est startarcoins.com.
+Aucune « conversion » ni « airdrop » ne te demandera ta phrase de récupération. Méfie-toi des copies de KHACN.
+
+🇬🇧 Only official site: startarcoins.com. No 'airdrop' or 'conversion' will ever ask for your seed phrase. Beware KHACN copies.
+
+#KHACN "

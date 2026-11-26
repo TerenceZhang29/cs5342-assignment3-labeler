@@ -1,0 +1,48 @@
+# Prefilter vocabulary: a post must contain one of these (after normalization) or a link
+# to be scored at all. Matched as whole words. Lines starting with # are comments.
+airdrop
+airdrops
+giveaway
+give away
+giveaways
+crypto
+cryptocurrency
+token
+tokens
+coin
+coins
+memecoin
+nft
+nfts
+wallet
+wallets
+metamask
+phantom
+trust wallet
+ledger
+seed phrase
+recovery phrase
+secret phrase
+mnemonic
+private key
+eth
+ethereum
+btc
+bitcoin
+sol
+solana
+usdt
+usdc
+bnb
+xrp
+doge
+dogecoin
+ton
+claim
+presale
+whitelist
+defi
+web3
+blockchain
+gas fee
+staking

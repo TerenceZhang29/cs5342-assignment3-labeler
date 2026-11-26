@@ -1,0 +1,19 @@
+# URL shortener / redirector domains. Links on these hide the real destination (§3 Anticipate).
+bit.ly
+tinyurl.com
+t.co
+goo.gl
+ow.ly
+is.gd
+buff.ly
+cutt.ly
+rebrand.ly
+shorturl.at
+rb.gy
+t.ly
+tiny.cc
+s.id
+linktr.ee
+v.gd
+bl.ink
+short.io

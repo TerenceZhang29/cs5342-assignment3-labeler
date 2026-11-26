@@ -1,0 +1,22 @@
+# TLDs disproportionately used by throwaway phishing domains (cheap/free registration).
+# A weak signal on its own; only adds score in crypto context.
+xyz
+top
+click
+online
+site
+live
+icu
+buzz
+cfd
+sbs
+shop
+fun
+rest
+cyou
+claims
+gift
+lol
+mom
+pro
+app

@@ -1,0 +1,25 @@
+# name,canonical_handle,keywords
+# Public figures / projects commonly impersonated in giveaway scams. canonical_handle is the
+# real account if one exists (blank otherwise). keywords are matched inside handles/display
+# names after removing separators and digits; a match on an account that is NOT the canonical
+# handle is an impersonation signal.
+name,canonical_handle,keywords
+Elon Musk,,elonmusk
+Vitalik Buterin,,vitalik|vitalikbuterin
+Michael Saylor,,saylor|michaelsaylor
+Changpeng Zhao,,cz_binance|changpeng
+Brian Armstrong,,brianarmstrong
+Cathie Wood,,cathiewood
+MrBeast,,mrbeast
+Mark Cuban,mcuban.bsky.social,markcuban|mcuban
+Bluesky Support,support.bsky.app,blueskysupport|bskysupport|blueskysafety|bskysafety
+Bluesky,bsky.app,blueskyofficial|bskyofficial|blueskyteam
+Coinbase,,coinbase
+Binance,,binance
+MetaMask,,metamask
+Ethereum,,ethereumfoundation|ethereumofficial
+Solana,,solanaofficial|solanafoundation
+Phantom,,phantomwallet
+Uniswap,,uniswap
+OpenSea,,opensea
+Ledger,,ledgerofficial|ledgersupport

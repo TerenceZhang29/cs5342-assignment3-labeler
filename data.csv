@@ -1,0 +1,1043 @@
+id,split,source,post_url,author_handle,author_display_name,author_created_at,post_created_at,text,links,expected_label,category,rationale,annotation_status
+p001,dev,synthetic,,eth-rewards-hub.bsky.social,ETH Rewards,2026-09-29T12:07:00Z,2026-10-01T12:07:00Z,🚨 ETH GIVEAWAY 🚨 To celebrate 10M users we are giving back! Send 0.1-5 ETH to the address below and we will send back 2x instantly. 0x3f5CE5FBFe3E9af3971dD833D26bA9b5C936f0bE,[],crypto-scam,scam/send-to-receive,Classic send-to-receive with wallet address.,synthetic-by-design
+p002,test,synthetic,,vitalik-buterin-eth.bsky.social,Vitalik Buterin,2026-09-30T12:14:00Z,2026-10-01T12:14:00Z,"Vitalik here. For the next hour I'm doubling all ETH sent to my wallet. Send 1 ETH, get 2 ETH back. 0x52908400098527886E0F7030069857D2E4169EE7",[],crypto-scam,scam/send-to-receive,Impersonation + send-to-receive.,synthetic-by-design
+p003,test,synthetic,,btcpromo2026.bsky.social,BTC Promo,2026-09-27T12:21:00Z,2026-10-01T12:21:00Z,Bitcoin promo: every 0.01 BTC you transfer to bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh returns double within 30 minutes. Limited to first 500 participants!,[],crypto-scam,scam/send-to-receive,Send-to-receive with BTC address and urgency.,synthetic-by-design
+p004,dev,synthetic,,cryptoflipdesk.bsky.social,Crypto Flip Desk,2026-09-22T12:28:00Z,2026-10-01T12:28:00Z,"Want to double your crypto? Our trusted program pays 2x on every deposit, paid out the same day. DM for the wallet.",[],crypto-scam,scam/send-to-receive,'Double your crypto' money-flip.,synthetic-by-design
+p005,test,synthetic,,solana-giveback.bsky.social,Solana Giveback,2026-09-28T12:35:00Z,2026-10-01T12:35:00Z,"Send any amount of SOL to 7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU and receive 3x back. Not a scam, 100% legit!!",[],crypto-scam,scam/send-to-receive,Send-to-receive; no numeric amount and SOL address format (evasion of amount check).,synthetic-by-design
+p006,test,synthetic,,communityfund-eth.bsky.social,Community Fund,2026-09-26T12:42:00Z,2026-10-01T12:42:00Z,Giving back to the community: contribute 0.5 ETH and get 1 ETH returned automatically by our smart contract.,[],crypto-scam,scam/send-to-receive,Send-to-receive phrased as contribution.,synthetic-by-design
+p007,dev,synthetic,,pr0mo-desk.bsky.social,Promo,2026-09-29T12:49:00Z,2026-10-01T12:49:00Z,S3nd 0.2 3TH g3t 0.4 3TH b4ck. Pr0mo ends t0night,[],crypto-scam,scam/evasion-leet,Leetspeak evasion of send-to-receive.,synthetic-by-design
+p008,test,synthetic,,nft-prize-team.bsky.social,Prize Team,2026-09-25T12:56:00Z,2026-10-01T12:56:00Z,"Congrats, your wallet was selected! Send 0.05 ETH for gas and we'll send your 2 ETH prize right after.",[],crypto-scam,scam/send-to-receive,Advance-payment + send-to-receive in a reply.,synthetic-by-design
+p009,test,synthetic,,flipper-joe.bsky.social,joe,2026-09-23T13:03:00Z,2026-10-01T13:03:00Z,"Got extra ETH sitting around? I'll flip it for you. You send 1, I send 2. Simple as that.",[],crypto-scam,scam/evasion-paraphrase,Send-to-receive without the usual vocabulary (expected hard case).,synthetic-by-design
+p010,dev,synthetic,,xrp-anniversary.bsky.social,XRP Anniversary Event,2026-09-29T13:10:00Z,2026-10-01T13:10:00Z,"XRP anniversary event 🎉 deposit between 1,000 and 50,000 XRP and the event wallet automatically returns double. Event ends in 2 hours.",[],crypto-scam,scam/send-to-receive,Send-to-receive with XRP.,synthetic-by-design
+p011,test,synthetic,,metamask-helpdesk.bsky.social,MetaMask Support,2026-09-28T13:17:00Z,2026-10-01T13:17:00Z,MetaMask wallet sync required ⚠️ Your wallet will be suspended unless you validate your 12-word recovery phrase at metamask-validate.com,[],crypto-scam,scam/credential,Recovery-phrase phishing impersonating MetaMask.,synthetic-by-design
+p012,test,synthetic,,jup-season.bsky.social,JUP Season 2,2026-09-25T13:24:00Z,2026-10-01T13:24:00Z,"Airdrop eligible ✅ To receive your $JUP allocation, import your seed phrase into the claim portal: jup-claims.app",[],crypto-scam,scam/credential,Seed phrase request for airdrop.,synthetic-by-design
+p013,dev,synthetic,,phantom-migration.bsky.social,Phantom Migration,2026-09-20T13:31:00Z,2026-10-01T13:31:00Z,Phantom users: enter your secret recovery phrase to migrate your tokens to the new chain before Friday.,[],crypto-scam,scam/credential,Recovery phrase request with deadline.,synthetic-by-design
+p014,test,synthetic,,earlymint-club.bsky.social,Early Mint Club,2026-09-27T13:38:00Z,2026-10-01T13:38:00Z,Free NFT mint for early supporters 🎁 just DM us your private key so we can whitelist your wallet,[],crypto-scam,scam/credential,Private key request.,synthetic-by-design
+p015,test,synthetic,,walletrestore-help.bsky.social,Wallet Restore,2026-09-29T13:45:00Z,2026-10-01T13:45:00Z,Wallet restore needed to unlock your airdrop. Paste your 24 words here 👉 bit.ly/3xRw9Lk,"[""https://bit.ly/3xRw9Lk""]",crypto-scam,scam/credential,24-word phrase request behind shortener.,synthetic-by-design
+p016,dev,synthetic,,freeeth-drop.bsky.social,Free ETH,2026-09-30T13:52:00Z,2026-10-01T13:52:00Z,Clаim yоur free ЕTH аirdrоp — vеrify yоur sееd phrаse tо stаrt,[],crypto-scam,scam/evasion-homoglyph,Cyrillic homoglyphs used to evade keyword filters.,synthetic-by-design
+p017,test,synthetic,,claimzone-drop.bsky.social,Claim Zone,2026-09-28T13:59:00Z,2026-10-01T13:59:00Z,airdrop open — enter your s e e d p h r a s e on the form to claim 🚀,[],crypto-scam,scam/evasion-spacing,Spaced-letter evasion of 'seed phrase'.,synthetic-by-design
+p018,test,synthetic,,ledger-recovery-desk.bsky.social,Ledger Support,2026-09-24T14:06:00Z,2026-10-01T14:06:00Z,Ledger notice: a firmware issue may freeze your funds. Confirm your recovery phrase at ledger-secure-update.com to keep receiving rewards.,[],crypto-scam,scam/credential,Recovery phrase phishing impersonating Ledger.,synthetic-by-design
+p019,dev,synthetic,,walletsupport-247.bsky.social,Wallet Support 24/7,2026-09-26T14:13:00Z,2026-10-01T14:13:00Z,Recovery phrase verification — wallet support team here. Reply with your words and we will restore access to your locked airdrop.,[],crypto-scam,scam/evasion-paraphrase,Credential request phrased without a standard verb (expected hard case).,synthetic-by-design
+p020,test,synthetic,,trustwallet-rewards.bsky.social,Trust Wallet Rewards,2026-09-29T14:20:00Z,2026-10-01T14:20:00Z,Trust Wallet loyalty airdrop 🎁 sync your wallet by typing your mnemonic phrase at trustwallet-loyalty.online,[],crypto-scam,scam/credential,Mnemonic request + brand domain.,synthetic-by-design
+p021,test,synthetic,,usdt-anniversary.bsky.social,USDT Anniversary,2026-09-27T14:27:00Z,2026-10-01T14:27:00Z,"Congratulations! You won 2,500 USDT in our anniversary giveaway. Pay the 50 USDT activation fee to release your prize.",[],crypto-scam,scam/upfront-fee,Upfront activation fee.,synthetic-by-design
+p022,dev,synthetic,,tokenclaim-center.bsky.social,Token Claim Center,2026-09-28T14:34:00Z,2026-10-01T14:34:00Z,To withdraw your airdropped tokens you must pay a small gas fee of 0.02 ETH first to our verification wallet.,[],crypto-scam,scam/upfront-fee,Upfront gas fee to 'verification wallet'.,synthetic-by-design
+p023,test,synthetic,,btcreward-official.bsky.social,BTC Reward Official,2026-09-30T14:41:00Z,2026-10-01T14:41:00Z,"Claim 1 BTC reward — a processing fee applies (0.005 BTC). Hurry, only 24 hours!",[],crypto-scam,scam/upfront-fee,Processing fee for reward.,synthetic-by-design
+p024,test,synthetic,,mrbeast-crypto.bsky.social,MrBeast,2026-09-29T14:48:00Z,2026-10-01T14:48:00Z,"MrBeast crypto giveaway 💰 everyone who registers gets $1000 in BTC, registration fee is just $25!",[],crypto-scam,scam/upfront-fee,Celebrity impersonation + registration fee.,synthetic-by-design
+p025,dev,synthetic,,base-airdrop-claims.bsky.social,Base Airdrop,2026-09-26T14:55:00Z,2026-10-01T14:55:00Z,Your wallet qualified for the Base airdrop. A one-time unlock fee is required before claiming. Details at base-claim.top,[],crypto-scam,scam/upfront-fee,Unlock fee + throwaway TLD.,synthetic-by-design
+p026,test,synthetic,,nftdrop-desk.bsky.social,NFT Drop Desk,2026-09-25T15:02:00Z,2026-10-01T15:02:00Z,Send a 0.01 ETH network fee to receive your NFT airdrop. Spots are limited!,[],crypto-scam,scam/upfront-fee,Network fee to receive.,synthetic-by-design
+p027,test,synthetic,,eth-lottery-win.bsky.social,ETH Lottery,2026-09-22T15:09:00Z,2026-10-01T15:09:00Z,"You are one of 20 lucky winners of 3 ETH 🎉 To claim, first cover the withdrawal fee (0.08 ETH). DM for payment address.",[],crypto-scam,scam/upfront-fee,Withdrawal fee + DM.,synthetic-by-design
+p028,dev,synthetic,,binance-support-help.bsky.social,Binance Support,2026-09-28T15:16:00Z,2026-10-01T15:16:00Z,"Binance is hosting a 10,000 BNB giveaway for loyal users! Claim yours here: binance-gift.xyz",[],crypto-scam,scam/impersonation,Exchange impersonation + brand domain claim site.,synthetic-by-design
+p029,test,synthetic,,saylor-btc.bsky.social,Michael Saylor,2026-09-29T15:23:00Z,2026-10-01T15:23:00Z,I'm giving away 500 BTC to celebrate our latest purchase. Claim now at btc-saylor.live before it ends!,[],crypto-scam,scam/impersonation,Celebrity impersonation + giveaway + claim link.,synthetic-by-design
+p030,test,synthetic,,coinbase-rewards.bsky.social,Coinbase,2026-09-27T15:30:00Z,2026-10-01T15:30:00Z,Coinbase airdrop is live for all verified users 🎉 connect your wallet to claim: coinbase-airdrop.online,[],crypto-scam,scam/impersonation,Exchange impersonation + wallet connect on brand domain.,synthetic-by-design
+p031,dev,synthetic,,blueskysafety-team.bsky.social,Bluesky Safety,2026-09-30T15:37:00Z,2026-10-01T15:37:00Z,We are giving every user 50 USDT for Bluesky's 2nd anniversary. Verify your wallet at bsky-rewards.site to claim.,[],crypto-scam,scam/impersonation,Platform impersonation + wallet verify.,synthetic-by-design
+p032,test,synthetic,,cathiewood-ark.bsky.social,Cathie Wood,2026-09-25T15:44:00Z,2026-10-01T15:44:00Z,"ARK crypto giveaway: 1,000 ETH for our followers. DM me your wallet address to receive your share.",[],crypto-scam,scam/impersonation,Celebrity impersonation + DM to claim.,synthetic-by-design
+p033,test,synthetic,,elonmusk-xai.bsky.social,Elon Musk,2026-09-29T15:51:00Z,2026-10-01T15:51:00Z,Tesla x xAI celebration: free DOGE for everyone who follows. Claim your DOGE at tesla-doge.click,[],crypto-scam,scam/impersonation,Celebrity impersonation + claim link.,synthetic-by-design
+p034,dev,synthetic,,creator-rewards.bsky.social,Creator Rewards,2026-09-26T15:58:00Z,2026-10-01T15:58:00Z,Claim your OpenSea creator rewards before they expire: openmsea.io/claim,[],crypto-scam,scam/blocklisted-domain,Domain on MetaMask phishing list.,synthetic-by-design
+p035,test,synthetic,,osupport-desk.bsky.social,NFT Help,2026-09-28T16:05:00Z,2026-10-01T16:05:00Z,"Having trouble listing your NFTs? Our team can fix it fast, start here opensea.support",[],crypto-scam,scam/blocklisted-domain,Domain on MetaMask phishing list (support-scam framing).,synthetic-by-design
+p036,test,synthetic,,morpho-season.bsky.social,Morpho Season,2026-09-27T16:12:00Z,2026-10-01T16:12:00Z,Morpho points are now convertible 🔄 check your allocation: https://1morphoairdrop.pages.dev,"[""https://1morphoairdrop.pages.dev""]",crypto-scam,scam/blocklisted-domain,Blocklisted subdomain on free hosting.,synthetic-by-design
+p037,dev,synthetic,,ton-drops.bsky.social,TON Drops,2026-09-29T16:19:00Z,2026-10-01T16:19:00Z,TON holders get a bonus 🎁 3ton-airdrop.pages.dev,[],crypto-scam,scam/blocklisted-domain,Blocklisted subdomain written as bare domain.,synthetic-by-design
+p038,test,synthetic,,launch-pad-news.bsky.social,Launchpad News,2026-09-25T16:26:00Z,2026-10-01T16:26:00Z,"Next big launch is here, early access for wallets that register today: uselaunchdrop.xyz",[],crypto-scam,scam/blocklisted-domain,Blocklisted domain.,synthetic-by-design
+p039,test,synthetic,,uniswap-lp-rewards.bsky.social,Uniswap LP Rewards,2026-09-28T16:33:00Z,2026-10-01T16:33:00Z,Uniswap V4 airdrop for LPs is live → un1swap.org/airdrop,[],crypto-scam,scam/lookalike-domain,Typosquat of uniswap.org.,synthetic-by-design
+p040,dev,synthetic,,phantom-early.bsky.social,Phantom Early Users,2026-09-29T16:40:00Z,2026-10-01T16:40:00Z,Phantom is giving free SOL to early users: phanton.app/rewards,[],crypto-scam,scam/lookalike-domain,Typosquat of phantom.app.,synthetic-by-design
+p041,test,synthetic,,mm-update.bsky.social,MM Update,2026-09-27T16:47:00Z,2026-10-01T16:47:00Z,Your MetaMask needs an update to receive the airdrop: metamaks.io,[],crypto-scam,scam/lookalike-domain,Transposition typosquat of metamask.io.,synthetic-by-design
+p042,test,synthetic,,uni-claims.bsky.social,UNI claims,2026-09-30T16:54:00Z,2026-10-01T16:54:00Z,Official Uniswap claim page is up: https://uniswаp.org/claim,"[""https://uniswаp.org/claim""]",crypto-scam,scam/evasion-homoglyph,Homoglyph domain (Cyrillic а).,synthetic-by-design
+p043,dev,synthetic,,airdropdesk22.bsky.social,Airdrop Desk,2026-09-29T17:01:00Z,2026-10-01T17:01:00Z,Arbitrum round 2 claim is open. Go to arbitrum-claims[.]xyz and connect your wallet,[],crypto-scam,scam/evasion-obfuscated-link,Obfuscated '[.]' brand domain to avoid linkification.,synthetic-by-design
+p044,test,synthetic,,zk-airdrop-team.bsky.social,zk team,2026-09-24T17:08:00Z,2026-10-01T17:08:00Z,zkSync airdrop round 3 — claim before the snapshot closes: zksyncc.io,[],crypto-scam,scam/lookalike-domain,Typosquat of zksync.io.,synthetic-by-design
+p045,test,synthetic,,giftdrop-hub.bsky.social,Gift Drop Hub,2026-09-29T17:15:00Z,2026-10-01T17:15:00Z,🎁 see image for details 👇 #airdrop #eth #giveaway,[],crypto-scam,scam/image-only,Annotated from attached image: 'send 0.5 ETH receive 1 ETH'. Text alone carries no hard indicator (expected hard case).,synthetic-by-design
+p046,dev,synthetic,,vitalik-eth-official.bsky.social,vitalik.eth,2026-09-28T17:22:00Z,2026-10-01T17:22:00Z,"Ethereum foundation airdrop for long-term holders. Only official link, beware of fakes: eth-foundation-airdrop.com",[],crypto-scam,scam/impersonation,"Impersonation + 'only official, beware of fakes' assurance trick.",synthetic-by-design
+p047,dev,synthetic,,pepe2-drop.bsky.social,PEPE2,2026-09-19T17:29:00Z,2026-10-01T17:29:00Z,"$PEPE2 airdrop is live 🐸 connect wallet at pepe2drop.xyz, first 1000 wallets only",[],unverified-airdrop,review/connect-urgency,"Wallet connect + urgency, unknown project.",synthetic-by-design
+p048,test,synthetic,,moonshotlabs.bsky.social,Moonshot Labs,2026-09-11T17:36:00Z,2026-10-01T17:36:00Z,Connect your wallet to claim free tokens before midnight!,[],unverified-airdrop,review/connect-urgency,Policy Example 5 verbatim.,synthetic-by-design
+p049,test,synthetic,,degen-season.bsky.social,Degen Season,2026-08-17T17:43:00Z,2026-10-01T17:43:00Z,"Claim your free $DEGEN tokens, airdrop ends Sunday ⏳",[],unverified-airdrop,review/connect-urgency,Free token claim + deadline.,synthetic-by-design
+p050,dev,synthetic,,nebula-chain.bsky.social,Nebula Chain,2026-09-22T17:50:00Z,2026-10-01T17:50:00Z,"Nebula testnet rewards are claimable now. Connect your wallet and check eligibility, limited time!",[],unverified-airdrop,review/connect-urgency,Connect + eligibility + urgency.,synthetic-by-design
+p051,test,synthetic,,gm-collective.bsky.social,GM Collective,2026-05-04T17:57:00Z,2026-10-01T17:57:00Z,"Free NFT mint for the first 500 wallets 👀 link in bio, don't miss it",[],unverified-airdrop,review/connect-urgency,Free mint + urgency + link in bio.,synthetic-by-design
+p052,test,synthetic,,orbit-protocol.bsky.social,Orbit Protocol,2026-09-13T18:04:00Z,2026-10-01T18:04:00Z,Orbit airdrop phase 1 is open ✅ connect wallet → claim → done. Last chance before the window closes,"[""https://orbit-protocol.app/claim""]",unverified-airdrop,review/connect-urgency,Connect + claim + urgency.,synthetic-by-design
+p053,dev,synthetic,,frogcoin-army.bsky.social,FROG army,2026-09-05T18:11:00Z,2026-10-01T18:11:00Z,FROG holders: claim your bonus tokens today only at frogcoin.fun,[],unverified-airdrop,review/connect-urgency,Claim bonus + today only + cheap TLD.,synthetic-by-design
+p054,test,synthetic,,airdrops-daily-alpha.bsky.social,Airdrops Daily,2026-09-28T18:18:00Z,2026-10-01T18:18:00Z,New memecoin $MOON airdrop — check eligibility in bio 🚀🚀,[],unverified-airdrop,review/connect-urgency,"Eligibility check, new account.",synthetic-by-design
+p055,test,synthetic,,zora-fan-hub.bsky.social,Zora Fan Hub,2026-08-02T18:25:00Z,2026-10-01T18:25:00Z,"Official airdrop for Zora creators just dropped, claim here https://zoradrop.site","[""https://zoradrop.site""]",unverified-airdrop,review/unofficial-claim,'Official airdrop' from non-domain handle + unverified site.,synthetic-by-design
+p056,dev,synthetic,,monad-hunter.bsky.social,monad hunter,2026-09-01T18:32:00Z,2026-10-01T18:32:00Z,Airdrop hunters: Monad testnet rewards claimable now via monad-rewards.org — verify your wallet to see your allocation,[],unverified-airdrop,review/unofficial-claim,Wallet verify + unofficial domain.,synthetic-by-design
+p057,test,synthetic,,tokenalpha-calls.bsky.social,Token Alpha,2026-09-17T18:39:00Z,2026-10-01T18:39:00Z,"🎁 Free $ALPHA token airdrop for holders, claim here 👉 tinyurl.com/alpha-drop","[""https://tinyurl.com/alpha-drop""]",unverified-airdrop,review/shortener,Shortened claim link.,synthetic-by-design
+p058,test,synthetic,,drops4u.bsky.social,drops 4 u,2026-09-26T18:46:00Z,2026-10-01T18:46:00Z,Giveaway: 100 winners get 50 USDT each 💸 follow + click the link: bit.ly/usdt50drop,"[""https://bit.ly/usdt50drop""]",unverified-airdrop,review/shortener,Shortened giveaway link from new account.,synthetic-by-design
+p059,dev,synthetic,,sol-giveaway-guy.bsky.social,SOL giveaway guy,2026-08-22T18:53:00Z,2026-10-01T18:53:00Z,Drop your SOL address below for a free airdrop 👇 like + repost to qualify,[],unverified-airdrop,review/wallet-farming,Public address farming; not proven fraud.,synthetic-by-design
+p060,test,synthetic,,nftwhale-drops.bsky.social,NFT Whale,2026-09-09T19:00:00Z,2026-10-01T19:00:00Z,Doing an NFT giveaway for my followers 🐋 DM me to claim your free mint,[],unverified-airdrop,review/dm-claim,DM-to-claim giveaway.,synthetic-by-design
+p061,test,synthetic,,berachain-szn.bsky.social,Bera SZN,2026-09-23T19:07:00Z,2026-10-01T19:07:00Z,Berachain airdrop checker is live! Connect your wallet to see if you're eligible. Ending soon,[],unverified-airdrop,review/connect-urgency,Checker + connect + urgency.,synthetic-by-design
+p062,dev,synthetic,,yield-maxi.bsky.social,Yield Maxi,2026-08-29T19:14:00Z,2026-10-01T19:14:00Z,Staking pool airdrop: guaranteed returns of 3% daily for early depositors. Claim your spot now,[],unverified-airdrop,review/high-return,High-return promise + claim; no explicit send-to-receive.,synthetic-by-design
+p063,test,synthetic,,layer3-quests.bsky.social,quests,2026-07-23T19:21:00Z,2026-10-01T19:21:00Z,Season 4 token rewards available to claim on our new site: questrewards.online 🎯,[],unverified-airdrop,review/unofficial-claim,Unverified claim site.,synthetic-by-design
+p064,test,synthetic,,wif-hat-drop.bsky.social,WIF hat,2026-09-16T19:28:00Z,2026-10-01T19:28:00Z,"Free $WIF airdrop for the community 🐶 claim now, only 6 hours left",[],unverified-airdrop,review/connect-urgency,Free token + urgency.,synthetic-by-design
+p065,dev,synthetic,,ethgiftsdaily.bsky.social,ETH Gifts,2026-09-30T19:35:00Z,2026-10-01T19:35:00Z,Daily ETH giveaway 🎁 Reply with your ETH address and follow to enter!,[],unverified-airdrop,review/new-account-giveaway,Brand-new account crypto giveaway collecting addresses.,synthetic-by-design
+p066,test,synthetic,,eigen-restakers.bsky.social,Restakers,2026-09-06T19:42:00Z,2026-10-01T19:42:00Z,EigenLayer stakedrop season 2 claim page is up → eigen-season2.xyz connect wallet to claim,[],unverified-airdrop,review/unofficial-claim,Unofficial claim domain for real project (no brand-in-domain match: 'eigen' vs 'eigenlayer').,synthetic-by-design
+p067,test,synthetic,,fr33dr0ps.bsky.social,fr33 dr0ps,2026-09-21T19:49:00Z,2026-10-01T19:49:00Z,"fr33 t0k3ns a1rdr0p is l1ve, c0nnect w4llet n0w",[],unverified-airdrop,review/evasion-leet,Leetspeak airdrop + wallet connect.,synthetic-by-design
+p068,dev,synthetic,,gemhunter-calls.bsky.social,Gem Hunter,2026-09-03T19:56:00Z,2026-10-01T19:56:00Z,Join our Telegram to get whitelisted for the $GEM airdrop 🚀 spots are filling fast,"[""https://t.me/gemhuntercalls""]",unverified-airdrop,review/telegram,Off-platform funnel for unverified airdrop (expected hard case: weak text signals).,synthetic-by-design
+p069,test,synthetic,,blastoff-points.bsky.social,Blastoff,2026-09-12T20:03:00Z,2026-10-01T20:03:00Z,Points → tokens conversion is LIVE. Link your wallet before the snapshot or lose your allocation ⚠️,[],unverified-airdrop,review/connect-urgency,Wallet link + loss-framing urgency.,synthetic-by-design
+p070,test,synthetic,,cryptomom-gives.bsky.social,Crypto Mom,2026-09-19T20:10:00Z,2026-10-01T20:10:00Z,Celebrating 5k followers with a 1 ETH giveaway! Claim your entry at cryptomom-giveaway.xyz,[],unverified-airdrop,review/giveaway-link,Giveaway with unverified claim site.,synthetic-by-design
+p071,dev,synthetic,,btc-santa.bsky.social,BTC Santa,2026-09-29T20:17:00Z,2026-10-01T20:17:00Z,🎅 BTC giveaway this week! Claim yours at santa-btc.online,[],unverified-airdrop,review/new-account-giveaway,New account BTC giveaway with claim link.,synthetic-by-design
+p072,test,synthetic,,snapshot-alerts.bsky.social,Snapshot Alerts,2026-08-12T20:24:00Z,2026-10-01T20:24:00Z,"Psst, $HYPE2 airdrop claims are open. Claim your tokens before they're gone",[],unverified-airdrop,review/claim-no-link,Claim CTA + urgency without link.,synthetic-by-design
+p073,test,synthetic,,drop-alpha-01.bsky.social,alpha,2026-09-29T20:31:00Z,2026-10-01T20:31:00Z,"gm frens, found this one early 👀 eth-drop.claims/go","[""https://eth-drop.claims/go""]",unverified-airdrop,review/coordinated,"Coordinated campaign post #1 (same link, new accounts).",synthetic-by-design
+p074,dev,synthetic,,drop-alpha-02.bsky.social,alpha2,2026-09-30T20:38:00Z,2026-10-01T20:38:00Z,this is actually paying out lol eth-drop.claims/go,"[""https://eth-drop.claims/go""]",unverified-airdrop,review/coordinated,Coordinated campaign post #2.,synthetic-by-design
+p075,test,synthetic,,drop-alpha-03.bsky.social,alpha3,2026-09-28T20:45:00Z,2026-10-01T20:45:00Z,don't sleep on this 🔥 eth-drop.claims/go,"[""https://eth-drop.claims/go""]",unverified-airdrop,review/coordinated,Coordinated campaign post #3.,synthetic-by-design
+p076,test,synthetic,,drop-alpha-04.bsky.social,alpha4,2026-09-29T20:52:00Z,2026-10-01T20:52:00Z,"worked for me, try it https://eth-drop.claims/go","[""https://eth-drop.claims/go""]",unverified-airdrop,review/coordinated,Coordinated campaign post #4.,synthetic-by-design
+p077,dev,synthetic,,drop-alpha-05.bsky.social,alpha5,2026-09-27T20:59:00Z,2026-10-01T20:59:00Z,@someone you should check this eth-drop.claims/go,"[""https://eth-drop.claims/go""]",unverified-airdrop,review/coordinated,Coordinated campaign post #5 (mass-reply).,synthetic-by-design
+p078,test,synthetic,,kaito-yap-drop.bsky.social,yap drop,2026-08-27T21:06:00Z,2026-10-01T21:06:00Z,Yappers airdrop round 2 open ⏰ authorize your wallet on the portal to receive,"[""https://yapdrop.app""]",unverified-airdrop,review/connect-urgency,Wallet authorize + timer.,synthetic-by-design
+p079,test,synthetic,,nftartist-gives.bsky.social,NFT artist,2026-07-03T21:13:00Z,2026-10-01T21:13:00Z,Giving away 10 free NFTs from my new collection 🎨 claim here: mint-my-art.xyz,[],unverified-airdrop,review/giveaway-link,Free NFT claim on unverified site.,synthetic-by-design
+p080,dev,synthetic,,usdc-bonus-week.bsky.social,USDC Bonus Week,2026-09-20T21:20:00Z,2026-10-01T21:20:00Z,"USDC bonus week: verify your wallet to receive 100 USDC, hurry!",[],unverified-airdrop,review/connect-urgency,Wallet verify + reward + urgency.,synthetic-by-design
+p081,dev,synthetic,,dinosr.bsky.social,dino,2024-04-14T21:27:00Z,2026-10-01T21:27:00Z,Beware of scammers promising large airdrops if you send them crypto first. They will never send anything back.,[],none,none/warning,Policy Example 7 (paraphrase of real post).,synthetic-by-design
+p082,test,synthetic,,securityjen.bsky.social,Jen | infosec,2024-10-31T21:34:00Z,2026-10-01T21:34:00Z,"PSA: no legit project will ever ask for your seed phrase. Not support, not an airdrop, not a 'wallet sync'. Never type it into a website.",[],none,none/warning,Warning that mentions every scam keyword.,synthetic-by-design
+p083,test,synthetic,,cryptosafetytips.bsky.social,Crypto Safety Tips,2025-05-19T21:41:00Z,2026-10-01T21:41:00Z,"If someone tells you to send 1 ETH and you'll get 2 ETH back, it's a scam. Every single time.",[],none,none/warning,Quotes send-to-receive inside a warning.,synthetic-by-design
+p084,dev,synthetic,,chainanalyst.bsky.social,chain analyst,2023-06-19T21:48:00Z,2026-10-01T21:48:00Z,"Reported 5 fake Elon accounts today, all running the same 'double your BTC' giveaway. Block and report.",[],none,none/warning,Reports impersonation scams.,synthetic-by-design
+p085,test,synthetic,,kate-codes.bsky.social,Kate,2025-08-27T21:55:00Z,2026-10-01T21:55:00Z,Got a DM saying I won 5000 USDT and just need to pay a small fee to unlock it lol. Nice try.,[],none,none/warning,Victim-side reported speech about upfront fee.,synthetic-by-design
+p086,test,synthetic,,web3-security-weekly.bsky.social,Web3 Security Weekly,2025-12-05T22:02:00Z,2026-10-01T22:02:00Z,Quick thread on spotting wallet drainer sites 🧵 1/ Check the URL letter by letter: un1swap.org is not uniswap.org,[],none,none/warning,Educational thread quoting a typosquat domain.,synthetic-by-design
+p087,dev,synthetic,,metamask.io,MetaMask,2022-08-23T22:09:00Z,2026-10-01T22:09:00Z,Reminder: MetaMask Support will never DM you or ask for your Secret Recovery Phrase. Stay safe out there.,[],none,none/warning,Official project warning from domain handle.,synthetic-by-design
+p088,test,synthetic,,grandpa-hodl.bsky.social,Grandpa HODL,2024-12-20T22:16:00Z,2026-10-01T22:16:00Z,"Real airdrops don't ask you to pay anything. If they want a fee before you can claim, walk away.",[],none,none/warning,Warning describing upfront fee (no warning keywords).,synthetic-by-design
+p089,test,synthetic,,frank-on-chain.bsky.social,Frank,2024-07-23T22:23:00Z,2026-10-01T22:23:00Z,"Heads up: there's a fake Phantom airdrop going around, the site asks you to connect your wallet and then drains it.",[],none,none/warning,Warning about connect-wallet drainer.,synthetic-by-design
+p090,dev,synthetic,,bsky-moderation-fan.bsky.social,mod fan,2024-01-05T22:30:00Z,2026-10-01T22:30:00Z,"Anyone else getting replies from 'Binance Support' accounts offering airdrops? They're all scams, don't click.",[],none,none/warning,Reported speech + warning.,synthetic-by-design
+p091,test,synthetic,,ops-sam.bsky.social,Sam,2025-07-08T22:37:00Z,2026-10-01T22:37:00Z,"Today I learned scammers now write 'not a scam, 100% legit' in their posts. Thanks, very convincing.",[],none,none/warning,Quotes legitimacy-assurance phrase inside a warning (hard case).,synthetic-by-design
+p092,test,synthetic,,ftc-fan-account.bsky.social,consumer tips,2021-04-10T22:44:00Z,2026-10-01T22:44:00Z,FTC tip: anyone who guarantees you'll make money or doubles your crypto is a scammer. Report it at reportfraud.ftc.gov,"[""https://reportfraud.ftc.gov""]",none,none/warning,Warning quoting 'doubles your crypto'.,synthetic-by-design
+p093,dev,synthetic,,nina-learns-crypto.bsky.social,Nina,2025-10-16T22:51:00Z,2026-10-01T22:51:00Z,"Lesson learned: I connected my wallet to a 'free mint' site last night and lost everything. Please be careful, use a burner wallet.",[],none,none/warning,Victim story.,synthetic-by-design
+p094,test,synthetic,,ledger.com,Ledger,2023-09-27T22:58:00Z,2026-10-01T22:58:00Z,Phishing alert: emails claiming a 'firmware issue' and asking you to confirm your 24 words are fake. Ledger never asks for your recovery phrase.,[],none,none/warning,Official warning quoting credential request.,synthetic-by-design
+p095,test,synthetic,,scamwatch-daily.bsky.social,Scam Watch,2025-02-08T23:05:00Z,2026-10-01T23:05:00Z,"New campaign spotted: accounts posting eth-drop.claims links in replies. It's a drainer, do not connect.",[],none,none/warning,Warning that names the coordinated campaign link.,synthetic-by-design
+p096,dev,synthetic,,newbie-nate.bsky.social,Nate,2026-03-15T23:12:00Z,2026-10-01T23:12:00Z,Help! Lost access to my wallet and a support agent said I need to give him my 12 words to recover it — is that normal??,[],none,none/victim-question,Victim asking about a credential request.,synthetic-by-design
+p097,test,synthetic,,curious-cat-22.bsky.social,curious cat,2026-06-03T23:19:00Z,2026-10-01T23:19:00Z,Is this airdrop legit? The site wants me to connect my wallet and sign something called setApprovalForAll,[],none,none/victim-question,User asking about a suspicious airdrop.,synthetic-by-design
+p098,test,synthetic,,lena-paints.bsky.social,Lena 🎨,2026-07-03T23:26:00Z,2026-10-01T23:26:00Z,Got a reply saying I'm eligible for 2000 USDT from some 'rewards' account. This is a scam right?,[],none,none/victim-question,User asking about a scam reply.,synthetic-by-design
+p099,dev,synthetic,,techdad-mike.bsky.social,Mike,2025-08-27T23:33:00Z,2026-10-01T23:33:00Z,My dad got a message that Elon is giving away bitcoin if you send some first. How do I explain this is fake?,[],none,none/victim-question,Reported speech about send-first scam.,synthetic-by-design
+p100,test,synthetic,,bunkyseal.bsky.social,bunky,2024-04-14T23:40:00Z,2026-10-01T23:40:00Z,Update: the 10M pot is an airdrop. Nothing to claim.,[],none,none/airdrop-discussion,Policy Example 6 (real post text).,synthetic-by-design
+p101,test,synthetic,,defi-diary.bsky.social,DeFi Diary,2024-10-31T23:47:00Z,2026-10-01T23:47:00Z,The Arbitrum airdrop in 2023 was honestly the best thing that ever happened to my wallet,[],none,none/airdrop-discussion,Retrospective airdrop discussion.,synthetic-by-design
+p102,dev,synthetic,,missed-it-again.bsky.social,ugh,2025-07-08T23:54:00Z,2026-10-01T23:54:00Z,Missed the Jupiter airdrop snapshot by one day. Pain.,[],none,none/airdrop-discussion,Airdrop discussion.,synthetic-by-design
+p103,test,synthetic,,econ-hot-takes.bsky.social,econ takes,2023-03-12T00:01:00Z,2026-10-02T00:01:00Z,"Airdrop farming is just unpaid labor for VCs, change my mind",[],none,none/airdrop-discussion,Opinion about airdrops.,synthetic-by-design
+p104,test,synthetic,,theblock-reader.bsky.social,reader,2024-07-24T00:08:00Z,2026-10-02T00:08:00Z,"Jupiter distributed roughly 1B JUP tokens in its first airdrop round, per their blog. Wild numbers.",[],none,none/airdrop-discussion,News about airdrop.,synthetic-by-design
+p105,dev,synthetic,,tax-season-tom.bsky.social,Tom,2025-05-20T00:15:00Z,2026-10-02T00:15:00Z,Reminder that airdropped tokens are taxable income in the US when you receive them. Talk to an accountant.,[],none,none/airdrop-discussion,Tax advice about airdrops.,synthetic-by-design
+p106,test,synthetic,,devrel-dana.bsky.social,Dana,2025-02-09T00:22:00Z,2026-10-02T00:22:00Z,Writing a merkle-tree contract to airdrop tokens to our DAO members. Any tips on gas-efficient claims?,[],none,none/airdrop-discussion,Developer discussion.,synthetic-by-design
+p107,test,synthetic,,crypto-journalist.bsky.social,C. Journalist,2024-01-06T00:29:00Z,2026-10-02T00:29:00Z,"New piece: why airdrops have become the default token launch strategy, and who actually benefits. https://www.coindesk.com/opinion/airdrops","[""https://www.coindesk.com/opinion/airdrops""]",none,none/airdrop-discussion,Journalism link.,synthetic-by-design
+p108,dev,synthetic,,points-skeptic.bsky.social,skeptic,2025-12-06T00:36:00Z,2026-10-02T00:36:00Z,Every project now: 'points program' → 'season 2' → airdrop that's 0.01% of supply. I'm tired.,[],none,none/airdrop-discussion,Opinion.,synthetic-by-design
+p109,test,synthetic,,eth-staker.bsky.social,staker,2024-09-12T00:43:00Z,2026-10-02T00:43:00Z,"Got my EigenLayer stakedrop today, automatically sent to my wallet. Nice surprise.",[],none,none/airdrop-discussion,Discussion of a received legit airdrop.,synthetic-by-design
+p110,test,synthetic,,solana-dev-notes.bsky.social,sol dev,2024-02-25T00:50:00Z,2026-10-02T00:50:00Z,"Free tip for new Solana devs: use devnet faucets to get test SOL, never buy 'test tokens'.",[],none,none/airdrop-discussion,Developer tip.,synthetic-by-design
+p111,dev,synthetic,,nft-collector-ana.bsky.social,Ana,2025-08-28T00:57:00Z,2026-10-02T00:57:00Z,"Claimed my free POAP from the conference today, cute little memento",[],none,none/airdrop-discussion,Legit free claim mention.,synthetic-by-design
+p112,test,synthetic,,uniswap.org,Uniswap Labs,2023-06-20T01:04:00Z,2026-10-02T01:04:00Z,The UNI governance reward is now live for eligible LPs. Claim only at app.uniswap.org,"[""https://app.uniswap.org""]",none,none/legit-airdrop,Official announcement from domain handle to official domain.,synthetic-by-design
+p113,test,synthetic,,arbitrum.io,Arbitrum,2024-04-15T01:11:00Z,2026-10-02T01:11:00Z,Round 2 of the Arbitrum community distribution starts today. Eligibility checker: arbitrum.io/distribution. We will never DM you.,[],none,none/legit-airdrop,Official announcement.,synthetic-by-design
+p114,dev,synthetic,,phantom.app,Phantom,2024-07-24T01:18:00Z,2026-10-02T01:18:00Z,"Phantom users: your rewards are automatically credited to your wallet, no action needed. Ignore anyone asking you to claim.",[],none,none/legit-airdrop,"Official, explicitly no claim.",synthetic-by-design
+p115,test,synthetic,,opensea.io,OpenSea,2024-01-06T01:25:00Z,2026-10-02T01:25:00Z,Creator rewards for Q3 are now claimable from your profile on opensea.io. Connect your wallet only on opensea.io.,[],none,none/legit-airdrop,Official claim instructions from domain handle.,synthetic-by-design
+p116,test,synthetic,,jup.ag,Jupiter,2024-11-01T01:32:00Z,2026-10-02T01:32:00Z,Jupuary claim is open 🪐 claim at jup.ag — and only at jup.ag,"[""https://jup.ag""]",none,none/legit-airdrop,Official claim from domain handle (short brand).,synthetic-by-design
+p117,dev,synthetic,,layerzero.network,LayerZero,2025-02-09T01:39:00Z,2026-10-02T01:39:00Z,Season 2 eligibility checker is live at layerzero.network/claim. Claims open for 30 days.,[],none,none/legit-airdrop,Official claim with deadline.,synthetic-by-design
+p118,test,synthetic,,budget-btc-blog.bsky.social,Budget BTC,2025-05-20T01:46:00Z,2026-10-02T01:46:00Z,Sponsored: Coinbase is offering $10 in BTC when you sign up with my referral link coinbase.com/join/budgetbtc (I get a bonus too).,[],none,none/disclosed-promo,Disclosed referral to official domain.,synthetic-by-design
+p119,test,synthetic,,creator-kim.bsky.social,Kim,2025-12-06T01:53:00Z,2026-10-02T01:53:00Z,Ad: I partnered with Ledger this month. Get 10% off a hardware wallet at ledger.com with code KIM10.,[],none,none/disclosed-promo,"Disclosed ad, official domain.",synthetic-by-design
+p120,dev,synthetic,,indie-dev-luis.bsky.social,Luis makes games,2024-07-24T02:00:00Z,2026-10-02T02:00:00Z,Giving away 3 Steam keys for my game! Reply with your favorite pixel art and I'll pick winners Friday 🎮,[],none,none/non-crypto-giveaway,Non-crypto giveaway.,synthetic-by-design
+p121,test,synthetic,,author-mae.bsky.social,Mae Writes,2023-09-28T02:07:00Z,2026-10-02T02:07:00Z,"Win a signed copy of my new novel 📚 repost to enter, ends Sunday!",[],none,none/non-crypto-giveaway,Book giveaway with urgency.,synthetic-by-design
+p122,test,synthetic,,tote-shop.bsky.social,Tote Shop,2025-08-28T02:14:00Z,2026-10-02T02:14:00Z,Tote bag giveaway! Free shipping for the first 100 orders too. Link in bio.,[],none,none/non-crypto-giveaway,Merch giveaway with 'first 100' and link in bio.,synthetic-by-design
+p123,dev,synthetic,,plant-mom.bsky.social,plant mom,2025-02-09T02:21:00Z,2026-10-02T02:21:00Z,Giving away seed packets from my garden 🌱 DM me your address and I'll mail some out!,[],none,none/non-crypto-giveaway,'Seed' + 'DM me your address' (non-crypto).,synthetic-by-design
+p124,test,synthetic,,artprints-ellie.bsky.social,Ellie,2024-02-25T02:28:00Z,2026-10-02T02:28:00Z,Print giveaway to celebrate 2k followers ✨ claim your free sticker with any order this week,[],none,none/non-crypto-giveaway,'Claim your free' non-crypto.,synthetic-by-design
+p125,test,synthetic,,bookclub-bea.bsky.social,Bea,2025-12-06T02:35:00Z,2026-10-02T02:35:00Z,Free tokens for the arcade night! First 50 people at the door get 20 tokens each 🕹️,[],none,none/non-crypto-giveaway,Arcade 'free tokens' (literal tokens).,synthetic-by-design
+p126,dev,synthetic,,podcast-pete.bsky.social,Pete's Pod,2023-03-12T02:42:00Z,2026-10-02T02:42:00Z,"Giveaway time: 5 listeners win a year of premium. Enter at petepod.com/win, closes in 48 hours","[""https://petepod.com/win""]",none,none/non-crypto-giveaway,Giveaway with link + deadline.,synthetic-by-design
+p127,test,synthetic,,coffee-corner.bsky.social,Coffee Corner,2024-11-01T02:49:00Z,2026-10-02T02:49:00Z,"Loyalty card update: collect 10 stamps, claim your free latte. Limited time double-stamp days!",[],none,none/non-crypto-giveaway,Coffee rewards.,synthetic-by-design
+p128,test,synthetic,,gamer-gwen.bsky.social,Gwen,2026-01-25T02:56:00Z,2026-10-02T02:56:00Z,Twitch drops are live! Watch 2 hours to claim the exclusive skin. Ends tonight.,[],none,none/non-crypto-giveaway,Gaming drops with claim + urgency.,synthetic-by-design
+p129,dev,synthetic,,yarn-swap.bsky.social,Yarn Swap,2025-05-20T03:03:00Z,2026-10-02T03:03:00Z,"Destash giveaway: 10 skeins of merino, free to a good home. Send me a message to claim!",[],none,none/non-crypto-giveaway,Send + claim non-crypto.,synthetic-by-design
+p130,test,synthetic,,eth-zurich-news.bsky.social,ETH Zürich,2022-08-24T03:10:00Z,2026-10-02T03:10:00Z,ETH Zürich researchers just published a new paper on glacier melt in the Alps.,[],none,none/ambiguous-terms,ETH = university.,synthetic-by-design
+p131,test,synthetic,,sysadmin-raj.bsky.social,raj,2024-04-15T03:17:00Z,2026-10-02T03:17:00Z,"eth0 interface keeps dropping on the new server. Swapped the ethernet cable, still flaky.",[],none,none/ambiguous-terms,eth0 network interface.,synthetic-by-design
+p132,dev,synthetic,,museum-lover.bsky.social,museum lover,2025-02-09T03:24:00Z,2026-10-02T03:24:00Z,Sol LeWitt wall drawings at MASS MoCA are a must-see. Spent a ton of time there.,[],none,none/ambiguous-terms,Sol / ton as ordinary words.,synthetic-by-design
+p133,test,synthetic,,insurance-rant.bsky.social,annoyed,2024-07-24T03:31:00Z,2026-10-02T03:31:00Z,My insurance claim got denied again. Apparently I need to send three more forms and wait 30 days.,[],none,none/ambiguous-terms,'Claim' + 'send' in insurance context.,synthetic-by-design
+p134,test,synthetic,,psych-prof.bsky.social,Psych Prof,2025-08-28T03:38:00Z,2026-10-02T03:38:00Z,Token economies in behavioral therapy: kids earn tokens for tasks and redeem them for rewards.,[],none,none/ambiguous-terms,Token economy (psychology).,synthetic-by-design
+p135,dev,synthetic,,bank-security.bsky.social,security notes,2024-01-06T03:45:00Z,2026-10-02T03:45:00Z,Password managers can generate a random passphrase for you. Don't reuse it anywhere.,[],none,none/ambiguous-terms,Passphrase outside crypto.,synthetic-by-design
+p136,test,synthetic,,running-rick.bsky.social,Rick,2024-11-01T03:52:00Z,2026-10-02T03:52:00Z,"Signed up for the half marathon. Double the distance I ran last year, wish me luck!",[],none,none/ambiguous-terms,'Double' non-crypto.,synthetic-by-design
+p137,test,synthetic,,landlord-woes.bsky.social,tenant,2024-04-15T03:59:00Z,2026-10-02T03:59:00Z,Landlord wants a $200 'processing fee' before returning my deposit. Is that even legal?,[],none,none/ambiguous-terms,Processing fee + deposit outside crypto.,synthetic-by-design
+p138,dev,synthetic,,wallet-review.bsky.social,EDC reviews,2025-12-06T04:06:00Z,2026-10-02T04:06:00Z,Leather wallet review: this one fits 8 cards and still slides into a front pocket.,[],none,none/ambiguous-terms,Physical wallet.,synthetic-by-design
+p139,test,synthetic,,minecraft-builds.bsky.social,blocky,2023-06-20T04:13:00Z,2026-10-02T04:13:00Z,World seed for the build: 8675309. Spawn is right next to a village!,[],none,none/ambiguous-terms,Minecraft seed.,synthetic-by-design
+p140,test,synthetic,,baker-bri.bsky.social,Bri bakes,2025-05-20T04:20:00Z,2026-10-02T04:20:00Z,Doubled the recipe and sent half to my neighbor. Got a loaf of sourdough back 🍞,[],none,none/ambiguous-terms,Send/receive/double non-crypto.,synthetic-by-design
+p141,dev,synthetic,,dev-ops-dan.bsky.social,Dan,2024-12-21T04:27:00Z,2026-10-02T04:27:00Z,Rotated our API private key after the intern pushed it to GitHub. Lesson: use a secrets manager.,[],none,none/ambiguous-terms,Private key in software context.,synthetic-by-design
+p142,test,synthetic,,btc-charts.bsky.social,charts,2023-09-28T04:34:00Z,2026-10-02T04:34:00Z,"BTC up 5% today, ETH lagging as usual. Not financial advice.",[],none,none/crypto-talk,Price talk.,synthetic-by-design
+p143,test,synthetic,,gasfee-griper.bsky.social,gwei,2024-04-15T04:41:00Z,2026-10-02T04:41:00Z,"Gas fees are insane right now, paid $40 to move $100 of USDC. L2s please.",[],none,none/crypto-talk,Complaining about gas fees.,synthetic-by-design
+p144,dev,synthetic,,og-miner.bsky.social,OG,2022-05-16T04:48:00Z,2026-10-02T04:48:00Z,"I lost my seed phrase in 2017 and with it 3 BTC. Write it down on paper, people. Twice.",[],none,none/crypto-talk,Personal story about seed phrase.,synthetic-by-design
+p145,test,synthetic,,hodl-hannah.bsky.social,Hannah,2024-11-01T04:55:00Z,2026-10-02T04:55:00Z,"Hardware wallet > exchange. Write your recovery phrase on steel, store it offline, done.",[],none,none/crypto-talk,Security advice mentioning recovery phrase.,synthetic-by-design
+p146,test,synthetic,,memecoin-mike.bsky.social,Mike,2025-08-28T05:02:00Z,2026-10-02T05:02:00Z,"This memecoin is going to 100x, mark my words 🚀 (I will probably lose it all)",[],none,none/crypto-talk,Hype without solicitation.,synthetic-by-design
+p147,dev,synthetic,,etherscan-nerd.bsky.social,nerd,2023-03-12T05:09:00Z,2026-10-02T05:09:00Z,Fun fact: the null address 0x0000000000000000000000000000000000000000 holds millions in burned tokens. Check it on etherscan.io,[],none,none/crypto-talk,"Wallet address + official link, educational.",synthetic-by-design
+p148,test,synthetic,,dao-voter.bsky.social,voter,2024-07-24T05:16:00Z,2026-10-02T05:16:00Z,Voted on the Uniswap fee switch proposal today. Governance is slow but it works.,[],none,none/crypto-talk,Governance discussion.,synthetic-by-design
+p149,test,synthetic,,nft-artist-oli.bsky.social,Oli,2025-05-20T05:23:00Z,2026-10-02T05:23:00Z,"My new NFT collection drops Friday on opensea.io. 0.01 ETH mint, 333 pieces.","[""https://opensea.io/collection/oli""]",none,none/crypto-talk,Artist sale announcement on official marketplace.,synthetic-by-design
+p150,dev,synthetic,,stablecoin-sara.bsky.social,Sara,2023-06-20T05:30:00Z,2026-10-02T05:30:00Z,Moved my savings from USDT to USDC after reading the attestation reports. Feel better.,[],none,none/crypto-talk,Stablecoin talk.,synthetic-by-design
+p151,test,synthetic,,tip-jar-tim.bsky.social,Tim (streams),2024-04-15T05:37:00Z,2026-10-02T05:37:00Z,"If you enjoy the streams, tips are welcome! ETH: 0x52908400098527886E0F7030069857D2E4169EE7 — no pressure, thank you all ❤️",[],none,none/crypto-talk,Creator tip jar with address (policy: people share addresses for tips).,synthetic-by-design
+p152,test,synthetic,,relief-fund-org.bsky.social,Flood Relief Fund,2025-02-09T05:44:00Z,2026-10-02T05:44:00Z,Our flood relief fund now accepts BTC donations. Every satoshi goes to families in need. Address on our site: floodrelief.org/donate,[],none,none/crypto-talk,Fundraising with crypto (legit use of address/donation).,synthetic-by-design
+p153,dev,synthetic,,staking-sam.bsky.social,Sam,2025-12-06T05:51:00Z,2026-10-02T05:51:00Z,Staking rewards came in at about 4% APY this year. Boring but steady.,[],none,none/crypto-talk,Normal yield talk.,synthetic-by-design
+p154,test,synthetic,,shitposter-supreme.bsky.social,shitposter,2024-01-06T05:58:00Z,2026-10-02T05:58:00Z,send me 1 ETH and I'll send you 2 ETH back /s,[],none,none/satire,Sarcastic send-to-receive (hard case: identical text to a scam).,synthetic-by-design
+p155,test,synthetic,,elonmusk-parody.bsky.social,Elon Musk (parody),2025-02-09T06:05:00Z,2026-10-02T06:05:00Z,"Dogecoin to the moon, as I always say. (parody account)",[],none,none/satire,Labelled parody account.,synthetic-by-design
+p156,dev,synthetic,,broke-in-web3.bsky.social,broke,2024-07-24T06:12:00Z,2026-10-02T06:12:00Z,"My airdrop strategy: be poor, stay poor, get airdropped 3 tokens worth $0.12 lol",[],none,none/satire,Self-deprecating joke.,synthetic-by-design
+p157,test,synthetic,,meme-lord-max.bsky.social,max,2025-08-28T06:19:00Z,2026-10-02T06:19:00Z,"Elon here, giving away 0 BTC to everyone who follows me lmao",[],none,none/satire,Parody of giveaway scam.,synthetic-by-design
+p158,test,synthetic,,dad-jokes-dev.bsky.social,dad jokes,2023-09-28T06:26:00Z,2026-10-02T06:26:00Z,What do you call a seed phrase you forgot? A lost cause 😂,[],none,none/satire,Joke about seed phrase.,synthetic-by-design
+p159,dev,synthetic,,recipe-rachel.bsky.social,Rachel,2024-04-15T06:33:00Z,2026-10-02T06:33:00Z,"Best banana bread recipe I've found, trust me: bit.ly/banana-bread-best","[""https://bit.ly/banana-bread-best""]",none,none/links,"Shortener, no crypto.",synthetic-by-design
+p160,test,synthetic,,news-junkie.bsky.social,news,2023-06-20T06:40:00Z,2026-10-02T06:40:00Z,Good explainer on the election results https://www.nytimes.com/2026/11/05/us/politics/results.html,"[""https://www.nytimes.com/2026/11/05/us/politics/results.html""]",none,none/links,News link.,synthetic-by-design
+p161,test,synthetic,,portfolio-paula.bsky.social,Paula,2025-05-20T06:47:00Z,2026-10-02T06:47:00Z,Updated my design portfolio! paula-designs.xyz — feedback welcome,[],none,none/links,Personal site on cheap TLD.,synthetic-by-design
+p162,dev,synthetic,,concert-carl.bsky.social,Carl,2025-12-06T06:54:00Z,2026-10-02T06:54:00Z,"Tickets for Friday's show are live, first 100 get a free poster: tinyurl.com/carlshow","[""https://tinyurl.com/carlshow""]",none,none/links,"Shortener + 'first 100' + free, no crypto.",synthetic-by-design
+p163,test,synthetic,,github-gina.bsky.social,Gina,2024-11-01T07:01:00Z,2026-10-02T07:01:00Z,Released v2.0 of my open-source CLI today: github.com/gina/fastcli,[],none,none/links,GitHub link.,synthetic-by-design
+p164,test,synthetic,,bsky-tips.bsky.social,Bluesky tips,2024-01-06T07:08:00Z,2026-10-02T07:08:00Z,You can verify your handle with your own domain! Guide: bsky.social/about/blog/4-28-2023-domain-handle-tutorial,[],none,none/links,Bluesky link.,synthetic-by-design
+p165,dev,synthetic,,hello-new-here.bsky.social,new here,2026-10-01T07:15:00Z,2026-10-02T07:15:00Z,"Hi Bluesky! Just moved over, mostly here for cat pictures and crypto memes.",[],none,none/new-account,"Brand-new account, crypto mention, benign.",synthetic-by-design
+p166,test,synthetic,,fresh-start-fran.bsky.social,Fran,2026-09-29T07:22:00Z,2026-10-02T07:22:00Z,First post! Anyone have recommendations for a good beginner Bitcoin book?,[],none,none/new-account,New account asking crypto question.,synthetic-by-design
+p167,test,synthetic,,student-sol.bsky.social,Sol,2026-09-27T07:29:00Z,2026-10-02T07:29:00Z,"Sol here 👋 CS student, interested in distributed systems and blockchain research.",[],none,none/new-account,New account named Sol.,synthetic-by-design
+p168,dev,synthetic,,coinbase-intern-memes.bsky.social,intern memes,2026-09-30T07:36:00Z,2026-10-02T07:36:00Z,Day 3 of learning how exchanges work. The order book is basically a giant spreadsheet.,[],none,none/new-account,"Brand word in new handle, benign (impersonation false-positive bait).",synthetic-by-design
+p169,test,synthetic,,researcher-ren.bsky.social,Ren (security research),2022-12-02T07:43:00Z,2026-10-02T07:43:00Z,"Our paper analyzes 10k giveaway scams: 'send 0.1 ETH get 0.2 back' posts, seed-phrase phishing and fake airdrop domains. Preprint: arxiv.org/abs/2601.01234",[],none,none/hard-negative,Research post quoting many indicators.,synthetic-by-design
+p170,test,synthetic,,mod-team-notes.bsky.social,mod notes,2024-04-15T07:50:00Z,2026-10-02T07:50:00Z,Moderation note: posts asking you to 'connect your wallet to claim free tokens before midnight' are being reviewed. Don't engage.,[],none,none/hard-negative,Moderator quoting Example 5.,synthetic-by-design
+p171,dev,synthetic,,teacher-tess.bsky.social,Ms. Tess,2025-02-09T07:57:00Z,2026-10-02T07:57:00Z,"Class activity: spot the scam! 'Claim your free ETH, just pay a 0.01 ETH verification fee' — what's wrong here?",[],none,none/hard-negative,Educational quote of upfront fee.,synthetic-by-design
+p172,test,synthetic,,cs5342-student.bsky.social,T&S student,2024-09-12T08:04:00Z,2026-10-02T08:04:00Z,For my trust & safety class I'm studying airdrop scams that ask you to enter your recovery phrase. Fascinating and terrifying.,[],none,none/hard-negative,Academic discussion quoting credential request.,synthetic-by-design
+r262,dev,real,https://bsky.app/profile/molly.wiki/post/3knophssjhc2i,molly.wiki,Molly White,2023-04-23T23:50:42.831Z,2024-03-14T21:13:06.703Z,"there have been a LOT of letters coming in from Celsius creditors who are having issues receiving reimbursements from the bankruptcy case
+
+over forty letters were filed yesterday, and more are coming in each day",[],none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r259,test,real,https://bsky.app/profile/maranscrypto.bsky.social/post/3lc6caysjz32q,maranscrypto.bsky.social,,2024-11-26T13:08:51.446Z,2024-11-30T14:23:07.753647Z,"4/ Claim USDT & USDC
+
+⭕✨ Go to https://discord.gg/HAuVnEC7aq
+
+➖ Verify yourself
+
+➖ Go to #faucet channel and send the following command
+
+➖ /faucet YOUR_ADDRESS
+
+➖ You should receive USDC, USDT, DAI and ETH on Superseed Testnet","[""https://discord.gg/HAuVnEC7aq""]",none,real/none,"Testnet faucet tutorial; 'Send me ETH' is a button on the official Alchemy faucet, not a send-to-receive promise.",ai-annotated
+r258,test,real,https://bsky.app/profile/maranscrypto.bsky.social/post/3lcaspvcngi2h,maranscrypto.bsky.social,,2024-11-26T13:08:51.446Z,2024-12-01T14:23:06.732714Z,"2/ Claim faucet
+
+⭕✨ Go to : https://www.alchemy.com/faucets/ethereum-sepolia
+
+➖ Click 'Signin'
+
+➖ Enter EVM address
+
+➖ Complete captcha
+
+➖ Click 'Send me ETH'
+
+👉 You need at least 0.001 $ETH on the mainnet to receive faucet tokens.","[""https://www.alchemy.com/faucets/ethereum-sepolia"", ""https://0.001""]",none,real/none,"Testnet faucet tutorial; 'Send me ETH' is a button on the official Alchemy faucet, not a send-to-receive promise.",ai-annotated
+r257,dev,real,https://bsky.app/profile/maranscrypto.bsky.social/post/3ld6ycuzda52g,maranscrypto.bsky.social,,2024-11-26T13:08:51.446Z,2024-12-13T14:23:04.854151Z,"1/ Get faucet
+
+⭕✨ Go to : www.alchemy.com/faucets/eth...
+
+➖ Click 'Signin'
+
+➖ Enter EVM address
+
+➖ Complete captcha
+
+➖ Click 'Send me ETH'
+
+👉 You need at least 0.001 $ETH on the mainnet to receive faucet tokens.","[""https://www.alchemy.com/faucets/ethereum-sepolia""]",none,real/none,"Testnet faucet tutorial; 'Send me ETH' is a button on the official Alchemy faucet, not a send-to-receive promise.",ai-annotated
+r256,test,real,https://bsky.app/profile/maranscrypto.bsky.social/post/3ldbirsbqil2y,maranscrypto.bsky.social,,2024-11-26T13:08:51.446Z,2024-12-14T14:23:04.651745Z,"1/ Get faucet
+
+⭕✨ Go to : www.alchemy.com/faucets/arb...
+
+➖ Click 'Signin'
+
+➖ Enter EVM address
+
+➖ Complete captcha
+
+➖ Click 'Send me ETH'
+
+👉 You need at least 0.001 Arbitrum ETH on the mainnet to receive faucet tokens.","[""https://www.alchemy.com/faucets/arbitrum-sepolia""]",none,real/none,"Testnet faucet tutorial; 'Send me ETH' is a button on the official Alchemy faucet, not a send-to-receive promise.",ai-annotated
+r255,test,real,https://bsky.app/profile/maranscrypto.bsky.social/post/3ldgjporfct2k,maranscrypto.bsky.social,,2024-11-26T13:08:51.446Z,2024-12-16T14:23:06.292307Z,"2/ Unofficial faucet
+
+⭕✨ Go to : www.alchemy.com/faucets/bas...
+
+➖ Click 'Signin'
+
+➖ Enter EVM address
+
+➖ Complete captcha
+
+➖ Click 'Send me ETH'
+
+👉 You need at least 0.001 $ETH on the Base mainnet to receive faucet tokens.","[""https://www.alchemy.com/faucets/base-sepolia""]",none,real/none,"Testnet faucet tutorial; 'Send me ETH' is a button on the official Alchemy faucet, not a send-to-receive promise.",ai-annotated
+r253,dev,real,https://bsky.app/profile/maranscrypto.bsky.social/post/3le7oeujcks2y,maranscrypto.bsky.social,,2024-11-26T13:08:51.446Z,2024-12-26T14:23:05.406270Z,"1/ Claim faucet
+
+⭕✨ Go to : www.alchemy.com/faucets/eth...
+
+➖ Click 'Signin'
+
+➖ Enter EVM address
+
+➖ Complete captcha
+
+➖ Click 'Send me ETH'
+
+👉 You need at least 0.001 $ETH on the mainnet to receive faucet tokens.","[""https://www.alchemy.com/faucets/ethereum-sepolia""]",none,real/none,"Testnet faucet tutorial; 'Send me ETH' is a button on the official Alchemy faucet, not a send-to-receive promise.",ai-annotated
+r252,test,real,https://bsky.app/profile/maranscrypto.bsky.social/post/3lec6ttrz4g2y,maranscrypto.bsky.social,,2024-11-26T13:08:51.446Z,2024-12-27T14:23:07.303197Z,"2/ Get faucet
+
+⭕✨ Go to : www.alchemy.com/faucets/eth...
+
+➖ Click 'Signin'
+
+➖ Enter EVM address
+
+➖ Complete captcha
+
+➖ Click 'Send me ETH'
+
+👉 You need at least 0.001 $ETH on the mainnet to receive faucet tokens.","[""https://www.alchemy.com/faucets/ethereum-sepolia""]",none,real/none,"Testnet faucet tutorial; 'Send me ETH' is a button on the official Alchemy faucet, not a send-to-receive promise.",ai-annotated
+r251,test,real,https://bsky.app/profile/maranscrypto.bsky.social/post/3lfmwrg4b4m2a,maranscrypto.bsky.social,,2024-11-26T13:08:51.446Z,2025-01-13T14:23:04.605285Z,"2/ Faucet
+
+⭕✨ Go to : www.alchemy.com/faucets/eth...
+
+➖  Click 'Signin'
+
+➖ Enter EVM address
+
+➖ Complete captcha
+
+➖ Click 'Send me ETH'
+
+👉 You need at least 0.001 Base ETH on the mainnet to receive faucet tokens.","[""https://www.alchemy.com/faucets/ethereum-sepolia""]",none,real/none,"Testnet faucet tutorial; 'Send me ETH' is a button on the official Alchemy faucet, not a send-to-receive promise.",ai-annotated
+r250,dev,real,https://bsky.app/profile/maranscrypto.bsky.social/post/3lgv6a66c3f2u,maranscrypto.bsky.social,,2024-11-26T13:08:51.446Z,2025-01-29T14:23:05.296085Z,"2/ Faucet
+
+⭕✨ Go to : www.alchemy.com/faucets/bas...
+
+➖ Click 'Signin'
+
+➖ Enter EVM address
+
+➖ Complete captcha
+
+➖ Click 'Send me ETH'
+
+👉 You need at least 0.001 $ETH on Base mainnet to receive faucet tokens.","[""https://www.alchemy.com/faucets/base-sepolia""]",none,real/none,"Testnet faucet tutorial; 'Send me ETH' is a button on the official Alchemy faucet, not a send-to-receive promise.",ai-annotated
+r510,test,real,https://bsky.app/profile/hacker.at.thenote.app/post/3lixw4ail6k2r,hacker.at.thenote.app,Hacker & Security News,2025-01-07T07:17:25.649Z,2025-02-25T03:26:05.868Z,"0% Fee Crypto Payments – Powered By a Neobank
+
+Keabank is a global crypto-friendly neobank, bridging traditional and innovative banking services. Businesses across industries can onboard effortlessly, complete a single verification, and access a full suite of banking and crypto p…
+
+#hackernews #news","[""https://hackernoon.com/0percent-fee-crypto-payments-powered-by-a-neobank-nodnqsw""]",none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r247,test,real,https://bsky.app/profile/cryptonews-poster.bsky.social/post/3lq5wsttrbj24,cryptonews-poster.bsky.social,Poster | Crypto News,2025-03-09T18:10:13.041Z,2025-05-27T14:51:04.422102+00:00,"Big news! MetaMask browser extension now natively supports Solana! 🎉 Manage ETH & SOL together in one wallet. Seamlessly send, receive, swap, bridge, buy SOL & access Solana dapps. Mobile coming soon. Your essential multi-chain wallet! #MetaMask #Solana #CryptoWallet #Web3
+
+#blockchain #news ",[],none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r509,dev,real,https://bsky.app/profile/cryptovka.com/post/3lrva2jwby32t,cryptovka.com,Cryptovka | Feed | Crypto News,2024-10-24T13:49:15.511Z,2025-06-18T14:32:51.703810+00:00,"🇺🇸 #KCS
+KuCoin has announced the introduction of an inactivity fee for inactive accounts without KYC/KYB, requiring users to withdraw assets, which may affect customers from restricted regions, such as the US and mainland China, as they will be unable to pass verification
+
+#crypto #blockchain #news",[],none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r200,dev,real,https://bsky.app/profile/sky35798.bsky.social/post/3mjb2qbgoxs22,sky35798.bsky.social,,2025-10-08T02:41:46.052Z,2026-04-12T00:09:02.979Z,Little Pepe Mega Giveaway wn.nr/SmHhUZd,"[""https://wn.nr/SmHhUZd"", ""https://wn.nr/SmHhUZd""]",unverified-airdrop,real/unverified-airdrop,"'Little Pepe Mega Giveaway' + wn.nr shortener, posted repeatedly.",ai-annotated
+r195,test,real,https://bsky.app/profile/sky35798.bsky.social/post/3mjotvhkg4c2h,sky35798.bsky.social,,2025-10-08T02:41:46.052Z,2026-04-17T11:43:57.309Z,Little Pepe Mega Giveaway wn.nr/SmHhUZd,"[""https://wn.nr/SmHhUZd"", ""https://wn.nr/SmHhUZd""]",unverified-airdrop,real/unverified-airdrop,"'Little Pepe Mega Giveaway' + wn.nr shortener, posted repeatedly.",ai-annotated
+r194,test,real,https://bsky.app/profile/sky35798.bsky.social/post/3mjqivjucos2k,sky35798.bsky.social,,2025-10-08T02:41:46.052Z,2026-04-18T03:32:28.048Z,Little Pepe Mega Giveaway wn.nr/SmHhUZd,"[""https://wn.nr/SmHhUZd"", ""https://wn.nr/SmHhUZd""]",unverified-airdrop,real/unverified-airdrop,"'Little Pepe Mega Giveaway' + wn.nr shortener, posted repeatedly.",ai-annotated
+r189,dev,real,https://bsky.app/profile/sky35798.bsky.social/post/3mk53btzemc2s,sky35798.bsky.social,,2025-10-08T02:41:46.052Z,2026-04-23T03:33:25.565Z,Little Pepe Mega Giveaway wn.nr/SmHhUZd,"[""https://wn.nr/SmHhUZd"", ""https://wn.nr/SmHhUZd""]",unverified-airdrop,real/unverified-airdrop,"'Little Pepe Mega Giveaway' + wn.nr shortener, posted repeatedly.",ai-annotated
+r188,test,real,https://bsky.app/profile/infosecbot.bsky.social/post/3mk6hx4alea2u,infosecbot.bsky.social,Botty.bot,2026-02-05T20:11:51.245Z,2026-04-23T16:40:25.000Z,"airdrop, free mint, giveaway, $SOL, $ETH, $BTC, pump, moonshot, 100x, gem, presale, whitelist, WL spot, alpha leak, NFT drop, rugpull, shill, DYOR, HODL, degens, trenches, CA, contract address, LFG, WAGMI, to the moon, bullish, bear m…
+
+— from @j2k3k (https://x.com/j2k3k/status/2047354918139265459)","[""https://x.com/j2k3k/status/2047354918139265459""]",none,real/none,"Security news, warnings or education.",ai-annotated
+r186,test,real,https://bsky.app/profile/nowbreezing.ntw.app/post/3mkb3njwr5h2g,nowbreezing.ntw.app,☁️Now🤖Breezing💨,2023-05-23T20:37:36.553Z,2026-04-24T17:50:37.480627+00:00,"
+Bluesky's Top 10 Trending Words (past 10min):
+💨x108 - battlepass
+💨x1* - epstein 🔓
+💨x50 - evercold
+💨x42 - dailies
+💨x1* - ukraine 🔓
+💨x38 - tomestones
+💨x36 - elephants
+💨x30 - hostel
+💨x1* - democracy 🔓
+💨x28 - ui
+*🔓 = Unlocked Emergency Words (see img)
+
+#FreePalestine 🇵🇸
+
+(Something not right? Reply!)","[""https://bsky.app/search?q=battlepass+since%3A2026-04-24T17:40:00Z+until%3A2026-04-24T17:49:59Z"", ""https://bsky.app/search?q=epstein+since%3A2026-04-24T17:40:00Z+until%3A2026-04-24T17:49:59Z"", ""https://bsky.app/search?q=evercold+since%3A2026-04-24T17:40:00Z+until%3A2026-04-24T17:49:59Z"", ""https://bsky.app/search?q=dailies+since%3A2026-04-24T17:40:00Z+until%3A2026-04-24T17:49:59Z"", ""https://bsky.app/search?q=ukraine+since%3A2026-04-24T17:40:00Z+until%3A2026-04-24T17:49:59Z"", ""https://bsky.app/search?q=tomestones+since%3A2026-04-24T17:40:00Z+until%3A2026-04-24T17:49:59Z"", ""https://bsky.app/search?q=elephants+since%3A2026-04-24T17:40:00Z+until%3A2026-04-24T17:49:59Z"", ""https://bsky.app/search?q=hostel+since%3A2026-04-24T17:40:00Z+until%3A2026-04-24T17:49:59Z"", ""https://bsky.app/search?q=democracy+since%3A2026-04-24T17:40:00Z+until%3A2026-04-24T17:49:59Z"", ""https://bsky.app/search?q=ui+since%3A2026-04-24T17:40:00Z+until%3A2026-04-24T17:49:59Z""]",none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r539,dev,real,https://bsky.app/profile/cryptovka-news.bsky.social/post/3mkmppqi3zo2q,cryptovka-news.bsky.social,Cryptovka | News | CryptoMarket & Blockchain,2025-05-07T19:17:51.738Z,2026-04-29T08:49:02.451198+00:00,"🚀 HTX Exchange launches ""$HTX Frenzy"" campaign April 24 - May 15, 2026! Win from a $100K USDT prize pool & electronics like AirPods Pro 3, Apple Watch Ultra 3. Event features asset holding airdrops, spot, grid trading & flexible yield with 4% APY on $HTX token. Don't miss out! #HTX #Crypto #Giveaway","[""https://cryptovka.com/news/htx-exchange-launches-100-000-frenzy-event-with-apple-rewards""]",none,real/none,Exchange/campaign news; no solicitation beyond official channels.,ai-annotated
+r506,test,real,https://bsky.app/profile/mpost.io.web.brid.gy/post/3mknenp667gt2,mpost.io.web.brid.gy,Today's AI and Crypto News | Metaverse Post [Unofficial],,2026-04-29T13:30:00.000Z,,"[""https://mpost.io/mexc-and-sumsub-partner-to-strengthen-global-compliance-and-combat-emerging-identity-fraud-risks/""]",none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r538,test,real,https://bsky.app/profile/cryptovka-news.bsky.social/post/3mkpov2tglb22,cryptovka-news.bsky.social,Cryptovka | News | CryptoMarket & Blockchain,2025-05-07T19:17:51.738Z,2026-04-30T13:12:06.549871+00:00,"BTCC partners with Argentine Football Association (AFA) for ""Legends"" campaign, uniting digital finance & sports. Celebrating BTCC's 15th anniversary with a 1M USDT trading championship & Messi jersey giveaway! ⚽️ 💰 #BTCC #AFA #Crypto","[""https://cryptovka.com/news/btcc-and-argentine-football-association-launch-legends-campaign""]",none,real/none,Exchange/campaign news; no solicitation beyond official channels.,ai-annotated
+r499,test,real,https://bsky.app/profile/airdropbulletin.bsky.social/post/3mlvtsl7w222d,airdropbulletin.bsky.social,Airdrop Bulletin,2025-05-06T07:02:56.575Z,2026-05-15T17:21:21.915Z,"Airdrop Link: Tinyurl.com/bd9m86mj
+Beware of scams & phishing attempts. Always DYOR. Airdrops & crypto mining apps are usually free, if you are asked to pay for them, it's likely a scam. Before clicking the above link, please verify/preview it here: Expandurl.net","[""https://Tinyurl.com/bd9m86mj"", ""https://Expandurl.net""]",unverified-airdrop,real/unverified-airdrop,Shortened 'airdrop link' (tinyurl) despite a generic scam disclaimer.,ai-annotated
+r489,dev,real,https://bsky.app/profile/nono2357.bsky.social/post/3mndohyr6f22i,nono2357.bsky.social,Renaud Lifchitz ⠵,2023-07-28T09:48:19.678Z,2026-06-02T22:48:26.228667+00:00,Android phones will soon be able to detect spoofed calls and impersonation scams,"[""https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/""]",none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r486,test,real,https://bsky.app/profile/rrothfeldt.bsky.social/post/3mnf5aafcph2o,rrothfeldt.bsky.social,Ray,2024-11-16T18:25:07.879Z,2026-06-03T12:45:10.341Z,Android phones will soon be able to detect spoofed calls and impersonation scams,"[""https://ift.tt/jsOgJ4K""]",none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r485,test,real,https://bsky.app/profile/dmxplx.bsky.social/post/3mnfhktf37m2g,dmxplx.bsky.social,Dimitri Pletschette,2023-11-09T08:17:33.749Z,2026-06-03T15:50:04.061Z,"Google announces deepfake call detection for Android, new AirDrop device support","[""https://ift.tt/jsOgJ4K""]",none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r484,dev,real,https://bsky.app/profile/longtail-news.bsky.social/post/3mnfq6kipq52y,longtail-news.bsky.social,Longtail News,2025-01-27T14:58:17.143Z,2026-06-03T18:24:16.168169+00:00,"Feed: ""Ars Technica - All content""
+By: Ryan Whitwam on Tuesday, June 2, 2026","[""https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/""]",none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r236,test,real,https://bsky.app/profile/sovereignens.bsky.social/post/3mnyy5ma7qk2w,sovereignens.bsky.social,Sovereign ENS,2025-01-07T15:55:32.342Z,2026-06-11T10:07:29.545077+00:00,"ENS isn't just for addresses. Link your .eth name to decentralized communication protocols for secure messaging and email. Send and receive with confidence, knowing your communications are tied to your verifiable identity. Upgrade your digital interactions with ENS.",[],none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r234,test,real,https://bsky.app/profile/sovereignens.bsky.social/post/3moxz7l4jy525,sovereignens.bsky.social,Sovereign ENS,2025-01-07T15:55:32.342Z,2026-06-23T18:19:01.033820+00:00,"ENS goes beyond addresses. Link your .eth name to decentralized communication protocols for secure messaging and email. Send and receive with confidence, knowing your communications are tied to your verifiable digital identity.",[],none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r530,test,real,https://bsky.app/profile/petrob98.bsky.social/post/3mpojodvlh22l,petrob98.bsky.social,Peter,2026-04-26T07:46:21.245Z,2026-07-02T17:12:10.948Z,"🚀 Join the Spores x MST Blockchain Presale Boosting Giveaway!  
+Complete tasks, boost engagement, and win:
+⭐ 50 winners get $USDT
+⭐ 250 winners get 200 $MSTC each
+Extra perks for top referrers!
+wn.nr/JmZMgqk","[""https://wn.nr/JmZMgqk"", ""https://wn.nr/JmZMgqk""]",unverified-airdrop,real/unverified-airdrop,Unverified airdrop/giveaway campaign behind wn.nr shortener.,ai-annotated
+r415,dev,real,https://bsky.app/profile/kew20na.bsky.social/post/3mqz2csygds2w,kew20na.bsky.social,kew20na,2026-04-05T14:05:39.354Z,2026-07-19T15:01:46.739Z,"USDCurve (Arc Chain) Early Access Whitelist is Now Open! 🆕
+
+🟠 Register here : da.gd/HvKO
+
+➖ Connect your EVM Wallet.
+➖ Submit your details.
+➖ Complete all tasks & Claim your spot.
+➖ Done! ✅
+
+🏆 Never Miss Any Airdrop Again, Join Me on TG : da.gd/mpLo
+
+#SOL #Airdrop #Rewards #ETH #Bitcoin #DeFi","[""https://da.gd/HvKO"", ""https://da.gd/mpLo""]",unverified-airdrop,real/unverified-airdrop,Airdrop/testnet farming guide: connect wallet + shortened da.gd link to unverified project.,ai-annotated
+r526,test,real,https://bsky.app/profile/mohamadjamaly.bsky.social/post/3mr3itubbec2u,mohamadjamaly.bsky.social,,2026-07-20T14:20:50.662Z,2026-07-20T14:27:10.358Z,AiMASH Exclusive Airdrop Campaign wn.nr/PErPQRc,"[""https://wn.nr/PErPQRc"", ""https://wn.nr/PErPQRc""]",unverified-airdrop,real/unverified-airdrop,Unverified airdrop/giveaway campaign behind wn.nr shortener.,ai-annotated
+r524,dev,real,https://bsky.app/profile/rwatimes.bsky.social/post/3mrdhzkeezq23,rwatimes.bsky.social,RWATimes.io,2026-04-05T03:13:14.357Z,2026-07-23T18:33:44.575Z,"Phemex launches $100 USDT RWA token identification giveaway
+Jul 22 2026 15:41 UTC
+#phemex #rwa-token #giveaway #usdt-bonus #cryptocurrency-exchange #tradfi-futures #ai-related-assets","[""https://rwatimes.io/articles/tradersunion-phemex-launches-100-usdt-rwa-token-identification-giveaway-2431517880?utm_source=bluesky""]",none,real/none,Exchange/campaign news; no solicitation beyond official channels.,ai-annotated
+r177,test,real,https://bsky.app/profile/binancearmy.bsky.social/post/3mrfb2thxok2f,binancearmy.bsky.social,Binance Army 🪖,2024-11-20T05:52:25.269Z,2026-07-24T11:34:31.865Z,"$100 Sol giveaway 
+
+🔸 Follow me 
+🔸 Like & RT this post 
+🔸Tag 2 friends
+
+#BTC #Sol #BNB #ETH #ADA #Dot #XRP #TRX #ARB #RobinHoodChain
+#PulseChain #Sui #Ray #Jup #Doge",[],none,real/none,"Engagement giveaway (follow/like/tag); no wallet, claim link or payment request. Handle 'binancearmy' is borderline impersonation - discuss.",ai-annotated
+r505,test,real,https://bsky.app/profile/wakeuptocrypto.bsky.social/post/3mrmkx2sff223,wakeuptocrypto.bsky.social,Wake Up To Crypto,2026-07-12T21:31:27.763Z,2026-07-27T09:20:00.688882Z,"Check gas fees on crypto airdrops. Focuses on checking gas fees when claiming airdrops without deposit verification.
+
+https://wakeuptocrypto.com/guides/crypto-airdrop-claim-asks-for-gas-fee/
+
+#CryptoFaucets","[""https://wakeuptocrypto.com/guides/crypto-airdrop-claim-asks-for-gas-fee/""]",none,real/none,Educational guide/article about airdrops or fees.,ai-annotated
+r504,dev,real,https://bsky.app/profile/wakeuptocrypto.bsky.social/post/3mroy2p2zo32f,wakeuptocrypto.bsky.social,Wake Up To Crypto,2026-07-12T21:31:27.763Z,2026-07-28T08:20:00.727437Z,"Free Crypto Sites Hinting Fees? Warning sign if crypto sites request tax, verification, or unlock fees before withdrawal; check if payment can be deducted from balance.
+
+https://wakeuptocrypto.com/guides/free-crypto-withdrawal-tax-or-verification-fee/
+
+#CryptoFaucets","[""https://wakeuptocrypto.com/guides/free-crypto-withdrawal-tax-or-verification-fee/""]",none,real/none,Educational guide/article about airdrops or fees.,ai-annotated
+r413,test,real,https://bsky.app/profile/akashbitcoin.bsky.social/post/3mrtzalbawc2s,akashbitcoin.bsky.social,𝙈𝙞𝙨𝙨𝙓 𝙋𝙚𝙧𝙥𝙨,2026-07-20T06:24:42.963Z,2026-07-30T08:24:30.724Z,"@Wager_Predict Testnet Airdrop
+
+Trade markets on BNB 
+
+10% $WP airdrop  
+
+Points from trading/staking/referrals → TGE Aug 2026  
+
+wagerpredict.com/r/airdrops  
+Connect wallet  
+Claim faucet  
+Trade daily  
+
+Early = bigger share. 
+ 
+@Wager_Predict","[""https://wagerpredict.com/r/airdrops""]",unverified-airdrop,real/unverified-airdrop,Testnet/airdrop farming with connect-wallet steps on an unverified site.,ai-annotated
+r412,dev,real,https://bsky.app/profile/linkdigital.bsky.social/post/3msdhbayyk22z,linkdigital.bsky.social,,2026-08-02T10:52:40.460Z,2026-08-05T11:45:21.983Z,"🆕 Umia Testnet is now Live 
+
+✔️Wallet: EVM
+✔️Network: Base Sepolia
+✔️Faucet: on Web
+
+🔍 Register 👉 app.testnet.umia.finance
+
+- Connect Airdrop EVM Wallet
+- Claim Faucet (Base sepolia USDC)
+- do Trade on Buy menu
+- Join Auction on Dashboard
+- Try Decision Market > click trade > Back > Buy
+- Done","[""https://app.testnet.umia.finance/""]",unverified-airdrop,real/unverified-airdrop,Testnet/airdrop farming with connect-wallet steps on an unverified site.,ai-annotated
+r520,test,real,https://bsky.app/profile/cryptocycleindex.com/post/7gawa5wbiqvkw,cryptocycleindex.com,CryptoCycleIndex.com – Market Cycle & News,2026-07-12T14:50:38.969Z,2026-08-06T08:21:21.000Z,"Bitget exchange offers up to $500 in NVIDIA stock and crypto rewards Bitget announced August promotions giving new users up to $500 in free NVIDIA stock, BGBTC holders a share of 5,500 free UNI tokens, and BMT holders access to a 600,000 BMT-token giveaway; USDGO holders can also…
+
+#BGBTC #Crypto","[""https://cryptocycleindex.com/news/bitget-exchange-offers-up-to-500-in-nvidia-stock-and-crypto-rewards?utm_source=bluesky&utm_medium=social&utm_campaign=news_distribution""]",none,real/none,Exchange/campaign news; no solicitation beyond official channels.,ai-annotated
+r519,test,real,https://bsky.app/profile/salmanhag7.bsky.social/post/3msgmyidjbc2u,salmanhag7.bsky.social,,2025-05-16T19:29:07.540Z,2026-08-06T18:05:49.343Z,AiMASH Exclusive Airdrop Campaign wn.nr/MnBRwZh,"[""https://wn.nr/MnBRwZh"", ""https://wn.nr/MnBRwZh""]",unverified-airdrop,real/unverified-airdrop,Unverified airdrop/giveaway campaign behind wn.nr shortener.,ai-annotated
+r411,test,real,https://bsky.app/profile/questgecko.bsky.social/post/3msqookacl22g,questgecko.bsky.social,Quest Gecko🦎Web3 Airdrops,2026-04-22T18:08:13.441Z,2026-08-10T18:02:40.661Z,"Savior Of Health Airdrop Project 🟢 
+
+Explore: saviorofhealth.app?ref=Q3NYD95S
+
+➞ Connect ➞ Connect & sign in ➞ (Connect a Wallet) ➞
+
+➞ ☰ ➞ CONNECT X  Follow ➞ ( FOLLOW ON X ) ➞ 
+
+➞ (Daily check-in) Claim
+
+➞(DO MISSIONS · SHARE & EARN)
+
+1/🔢","[""https://saviorofhealth.app/?ref=Q3NYD95S"", ""https://saviorofhealth.app/?ref=Q3NYD95S""]",unverified-airdrop,real/unverified-airdrop,Testnet/airdrop farming with connect-wallet steps on an unverified site.,ai-annotated
+r581,test,real,https://bsky.app/profile/visualartist.bsky.social/post/3mthnzvhchs2f,visualartist.bsky.social,Visual Artist,2023-07-21T03:46:31.576Z,2026-08-19T21:22:21.763Z,"“Super Copier 4000: Love” has booted up from the 80s with a 2026 NFT mint.
+
+ecency.com/@cliffblank/...","[""https://ecency.com/@cliffblank/super-copier-4000-love-free?referral=cliffblank"", ""https://ecency.com/@cliffblank/super-copier-4000-love-free?referral=cliffblank""]",none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r227,dev,real,https://bsky.app/profile/thesmt.bsky.social/post/3mtsxnnrrwcvc,thesmt.bsky.social,,2025-03-01T14:38:47.845Z,2026-08-24T09:13:45.605Z,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com","[""https://insurance-kalshi.com""]",crypto-scam,real/crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,ai-annotated
+r226,test,real,https://bsky.app/profile/shudaizi.bsky.social/post/3mtsxnqf2xk77,shudaizi.bsky.social,Shu Daizi,2023-08-06T18:28:43.549Z,2026-08-24T09:13:48.334Z,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com","[""https://insurance-kalshi.com""]",crypto-scam,real/crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,ai-annotated
+r224,test,real,https://bsky.app/profile/desphydhalia.bsky.social/post/3mtsxnr3vgkhy,desphydhalia.bsky.social,DesphyDhalia,2025-09-29T14:41:42.548Z,2026-08-24T09:13:49.082Z,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com","[""https://insurance-kalshi.com""]",crypto-scam,real/crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,ai-annotated
+r225,dev,real,https://bsky.app/profile/zaibatszu.bsky.social/post/3mtsxnrmjnsvk,zaibatszu.bsky.social,zai,2024-11-20T00:56:55.671Z,2026-08-24T09:13:49.627Z,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com","[""https://insurance-kalshi.com""]",crypto-scam,real/crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,ai-annotated
+r223,test,real,https://bsky.app/profile/jaredsnacks.bsky.social/post/3mtsxobuwy2b7,jaredsnacks.bsky.social,,2025-11-05T06:57:43.851Z,2026-08-24T09:14:06.680Z,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com","[""https://insurance-kalshi.com""]",crypto-scam,real/crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,ai-annotated
+r221,test,real,https://bsky.app/profile/kevingbrady.bsky.social/post/3mtsxoo64z2on,kevingbrady.bsky.social,,2025-12-15T17:52:59.726Z,2026-08-24T09:14:19.564Z,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com","[""https://insurance-kalshi.com""]",crypto-scam,real/crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,ai-annotated
+r222,dev,real,https://bsky.app/profile/danimal1986.bsky.social/post/3mtsxooewrs7k,danimal1986.bsky.social,,2025-05-07T04:36:51.149Z,2026-08-24T09:14:19.787Z,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com","[""https://insurance-kalshi.com""]",crypto-scam,real/crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,ai-annotated
+r220,test,real,https://bsky.app/profile/nathantheoriginal.bsky.social/post/3mtsxozw3bstb,nathantheoriginal.bsky.social,Nate,2024-10-18T08:30:22.416Z,2026-08-24T09:14:31.883Z,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com","[""https://insurance-kalshi.com""]",crypto-scam,real/crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,ai-annotated
+r219,test,real,https://bsky.app/profile/maxlelievre14.bsky.social/post/3mtsxp4udv2vp,maxlelievre14.bsky.social,,2024-11-20T21:02:21.195Z,2026-08-24T09:14:34.972Z,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com","[""https://insurance-kalshi.com""]",crypto-scam,real/crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,ai-annotated
+r218,dev,real,https://bsky.app/profile/yukitoru.bsky.social/post/3mtsxp7jlgcmd,yukitoru.bsky.social,Tei,2024-01-12T06:28:13.646Z,2026-08-24T09:14:37.765Z,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com","[""https://insurance-kalshi.com""]",crypto-scam,real/crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,ai-annotated
+r217,test,real,https://bsky.app/profile/qqqqwwwweeeerrrr.bsky.social/post/3mtsxplg55shg,qqqqwwwweeeerrrr.bsky.social,,2026-07-15T05:13:32.964Z,2026-08-24T09:14:50.235Z,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com","[""https://insurance-kalshi.com""]",crypto-scam,real/crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,ai-annotated
+r216,test,real,https://bsky.app/profile/esaupineda.bsky.social/post/3mtsxqj6iqkbo,esaupineda.bsky.social,,2023-11-26T20:52:17.707Z,2026-08-24T09:15:21.442Z,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com","[""https://insurance-kalshi.com""]",crypto-scam,real/crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,ai-annotated
+r215,dev,real,https://bsky.app/profile/soopaexile.bsky.social/post/3mtsxqmsybs5x,soopaexile.bsky.social,SoopaExile,2023-09-24T19:43:44.129Z,2026-08-24T09:15:25.259Z,"🚨 BTC is knocking on the $80K door.
+
+We’re marking this comeback moment in Bitcoin history. 🔥
+
+After the swings, the setbacks, and the uncertainty — BTC is back in the spotlight, and we’re celebrating the moment with a 1 BTC giveaway.
+
+👉 insurance-kalshi.com","[""https://insurance-kalshi.com""]",crypto-scam,real/crypto-scam,Coordinated campaign: identical '1 BTC giveaway -> insurance-kalshi.com' text from many unrelated (likely hijacked) accounts; nonexistent giveaway on a brand-lookalike domain.,ai-annotated
+r214,dev,real,https://bsky.app/profile/cryptoaudiking.bsky.social/post/3mu5mmcrkdm2p,cryptoaudiking.bsky.social,CryptoAudiKing,2026-08-25T22:39:38.766Z,2026-08-28T14:55:26.379Z,"The spin-and-win game declared @Kay33_pls the winner, sending .1 BTC their way. Want a chance to win? Visit thrill.com and use code YOURMOM to join the wheel for some serious Bitcoin. #giveaway #bitcoin","[""https://thrill.com""]",none,real/none,"Crypto casino promotion; gambling ad, not an airdrop scam (out of policy scope).",ai-annotated
+r213,test,real,https://bsky.app/profile/cryptoaudiking.bsky.social/post/3muahfmna5b2a,cryptoaudiking.bsky.social,CryptoAudiKing,2026-08-25T22:39:38.766Z,2026-08-29T18:00:12.356Z,Spin-and-win game winners get BTC. You can join the fun at thrill.com with code YOURMOM for a chance to win big. #giveaway #crypto,"[""https://thrill.com""]",none,real/none,"Crypto casino promotion; gambling ad, not an airdrop scam (out of policy scope).",ai-annotated
+r517,dev,real,https://bsky.app/profile/marcodz77.bsky.social/post/3mufjvvssmk27,marcodz77.bsky.social,marco77,2026-08-31T18:25:24.797Z,2026-08-31T18:28:25.104Z,"Let's join KuCoin X YOM X Space giveaway for 2,000 USDT wn.nr/rj2LhdS","[""https://wn.nr/rj2LhdS"", ""https://wn.nr/rj2LhdS""]",unverified-airdrop,real/unverified-airdrop,'KuCoin X YOM' giveaway behind a wn.nr shortener; KuCoin affiliation unverifiable; repeated.,ai-annotated
+r516,test,real,https://bsky.app/profile/marcodz77.bsky.social/post/3mufk2mw3522b,marcodz77.bsky.social,marco77,2026-08-31T18:25:24.797Z,2026-08-31T18:31:03.548Z,"Let's join KuCoin X YOM X Space giveaway for 2,000 USDT wn.nr/rj2LhdS","[""https://wn.nr/rj2LhdS"", ""https://wn.nr/rj2LhdS""]",unverified-airdrop,real/unverified-airdrop,'KuCoin X YOM' giveaway behind a wn.nr shortener; KuCoin affiliation unverifiable; repeated.,ai-annotated
+r407,test,real,https://bsky.app/profile/bonksol.bsky.social/post/3mufmzl5tc52g,bonksol.bsky.social,$BONK AirDrop,2026-08-31T19:07:42.496Z,2026-08-31T19:24:09.375Z,"Stop scrolling. Start claiming! 🪂✨
+
+Claim your free $BONK Airdrop before snapshot. 🚀
+
+Open site 🔗 dropsol.solstudio.cc
+
+Connect wallet & claim!
+
+Repost = +100 luck 🔁
+
+#Airdrop #Crypto #Web3","[""http://dropsol.solstudio.cc"", ""http://dropsol.solstudio.cc""]",crypto-scam,real/crypto-scam,Handle impersonates BONK; free $BONK airdrop on unofficial domain dropsol.solstudio.cc + connect wallet & claim (drainer pattern).,ai-annotated
+r467,test,real,https://bsky.app/profile/joshuaholland.bsky.social/post/3muwvqkaf4k25,joshuaholland.bsky.social,Joshua Holland,2023-05-15T12:15:51.425Z,2026-09-07T16:15:25.648Z,Smart. People who fell for Trump’s crypto scam are an established group of suckers.,"[""https://crypto.news/hunter-biden-to-launch-laptop-meme-coin-with-airdrop-for-trump-holders/""]",none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r578,test,real,https://bsky.app/profile/vladimirgav.bsky.social/post/3mv3rvuaavs2x,vladimirgav.bsky.social,VladimirGav,2026-02-03T20:24:05.645Z,2026-09-09T14:50:05.931765Z,"Yakkamon — новый Free Mint на Ronin! Попади в экосистему от создателей Sunflower Land. Всего 10k NFT, низкий порог входа и огромный потенциал Idle RPG игры. Успей забрать свой шанс! #Ronin #NFT #FreeMint #Gaming #Crypto https://dappcrypto.org/r/la","[""https://dappcrypto.org/r/la""]",unverified-airdrop,real/unverified-airdrop,Free NFT mint with urgency ('hurry to grab your chance') via third-party referral link dappcrypto.org/r/...,ai-annotated
+r405,dev,real,https://bsky.app/profile/droveysi.bsky.social/post/3mviccyzhuk2g,droveysi.bsky.social,Dr. Oveysi | Interlink Ambassador T3,2026-07-27T12:31:16.372Z,2026-09-14T14:15:45.580Z,"The path to your rewards is simple and clear.  
+Finish KYC Step 1 as the first required step.  
+Hold the minimum of 10,000 ITLG in your wallet.  
+Confirm registration before the August 1 cutoff.  
+Connect to OKX through InterLink and claim your rewards.  
+
+#InterLink #ITLG #ITL",[],unverified-airdrop,real/unverified-airdrop,"ITLG rewards: hold 10,000 tokens + KYC + connect wallet before cutoff.",ai-annotated
+r301,dev,real,https://bsky.app/profile/profsimononline.bsky.social/post/3mvvekasoue2c,profsimononline.bsky.social,Professor Simon,2026-08-03T02:40:22.066Z,2026-09-19T19:00:12.617Z,"It's alarming how cybercriminals use QR codes in phishing. Recent letters claim to provide 'urgent updates' for crypto wallets, but they lead to harmful sites. Always double-check before scanning any QR code. Your security matters!",[],none,real/none,"Security news, warnings or education.",ai-annotated
+r210,test,real,https://bsky.app/profile/placethebet.bsky.social/post/3mvzm6n62ik2h,placethebet.bsky.social,Place Bet,2026-09-21T10:47:56.853Z,2026-09-21T11:27:31.906Z,"Place.bet is a crypto-focused online gaming and casino platform. The pre-launch platform at play.place.bet lets users play for free, collect points, compete on a leaderboard, explore early-access benefits, and participate in a 1 BTC giveaway without making a deposit.","[""https://Place.bet"", ""https://play.place.bet""]",none,real/none,"Crypto casino promotion; gambling ad, not an airdrop scam (out of policy scope).",ai-annotated
+r514,test,real,https://bsky.app/profile/polyversemarket.bsky.social/post/3mw2ndeghaj2x,polyversemarket.bsky.social,Polyverse Market,2026-09-05T01:51:06.569Z,2026-09-21T21:20:43.931Z,"Challenge live 🏁 100/50/25 USDT for confirmed-email referrals through Oct 31 PT. 18+ US/DC excl NY/HI. No purchase. Free early access:
+
+https://polyversemarket.com/giveaway-rules?utm_source=bluesky&utm_medium=organic_social&utm_campaign=october_referral_challenge&utm_content=launch_2026-09-21",[],none,real/none,Referral challenge with published rules and no purchase.,ai-annotated
+r402,test,real,https://bsky.app/profile/kew20na.bsky.social/post/3mwegbtuhgk2u,kew20na.bsky.social,kew20na,2026-04-05T14:05:39.354Z,2026-09-25T18:41:14.265Z,"Polyster ~ New Project with Testnet Campaign is Live! 🐯
+
+🫵 Polyster is an order book-based DEX for trading & lending native assets.
+
+⚪ Join the testnet : da.gd/wJvZ
+
+➖ Connect Wallet. 
+➖ Set up account.
+➖ Claim free paper assets & Deposit it.
+➖ Trade on spot markets & Explore features.
+➖ Done! ✅","[""https://da.gd/wJvZ""]",unverified-airdrop,real/unverified-airdrop,Airdrop/testnet farming guide: connect wallet + shortened da.gd link to unverified project.,ai-annotated
+r401,test,real,https://bsky.app/profile/kew20na.bsky.social/post/3mwj66iekzc2g,kew20na.bsky.social,kew20na,2026-04-05T14:05:39.354Z,2026-09-27T15:59:30.303Z,"Sleepagotchi Loyalty Airdrop Event is Now Live! 🩶 | Project Raised $3.5M Funding & Backed by Shima Capital, Alliance Dao and More! 🧶
+
+🟡 Join your Journey here : da.gd/5tJoKr
+
+➖ Connect Airdrop/New SOL Wallet.
+➖ Complete all live tasks & Interact daily.
+➖ Get the App & Claim daily tasks.
+➖ Done! ✅","[""https://da.gd/5tJoKr""]",unverified-airdrop,real/unverified-airdrop,Airdrop/testnet farming guide: connect wallet + shortened da.gd link to unverified project.,ai-annotated
+r501,dev,real,https://bsky.app/profile/avaevelyn32734.bsky.social/post/3mwlc47hkqc26,avaevelyn32734.bsky.social,,2026-09-05T08:58:25.955Z,2026-09-28T12:15:08.300Z,"Starting crypto trading on mobile? Before placing your first order, lock in maximal fee discounts, complete KYC identity verification, and enable Google 2FA security directly on the Binance app:
+youtu.be/SG6cSrd_pSM","[""https://youtu.be/SG6cSrd_pSM"", ""https://youtu.be/SG6cSrd_pSM""]",none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r400,dev,real,https://bsky.app/profile/questgecko.bsky.social/post/3mxckvofpns2t,questgecko.bsky.social,Quest Gecko🦎Web3 Airdrops,2026-04-22T18:08:13.441Z,2026-10-07T18:23:46.746Z,"Titan Exchange Airdrop 🟢💲
+
+Explore Waitlist: waitlist.titanx.cc?ref=E9EA7234C4
+
+🔹CONNECT WALLET ➞ EVM Wallet ➞ (select your wallet) ➞ Tap to reveal
+
+➞ (Claim username)  
+➞ (Leave your Telegram or X handle)
+➞ (Follow Titan Exchange on X)","[""https://waitlist.titanx.cc/?ref=E9EA7234C4"", ""https://waitlist.titanx.cc/?ref=E9EA7234C4""]",unverified-airdrop,real/unverified-airdrop,Testnet/airdrop farming with connect-wallet steps on an unverified site.,ai-annotated
+r399,test,real,https://bsky.app/profile/questgecko.bsky.social/post/3mxckvog7bs2t,questgecko.bsky.social,Quest Gecko🦎Web3 Airdrops,2026-04-22T18:08:13.441Z,2026-10-07T18:23:46.747Z,"🔹 Launch app ➞ Connect ➞ EVM Wallet (select your wallet) 
+
+➞ Claim testnet tokens",[],none,real/none,Testnet steps (claim testnet tokens) with no reward promise or link.,ai-annotated
+r398,test,real,https://bsky.app/profile/0xmared.bsky.social/post/3mxmlvpclxs2h,0xmared.bsky.social,mared,2026-10-11T18:04:33.564Z,2026-10-11T18:08:18.820Z,"1. Go to → qms.finance/news/welcome...
+
+2. Add QMS Testnet to your wallet
+
+3. Claim free test tokens from the faucet
+
+4. Open → testnet.qwap.xyz
+
+5. Swap + Add Liquidity
+
+No confirmed points yet just early on-chain activity on a new L1.
+
+Test tokens have zero value. Don’t send real funds","[""http://qms.finance/news/welcome-to-qms-testnet"", ""http://testnet.qwap.xyz"", ""http://qms.finance/news/welcome-to-qms-testnet""]",none,real/none,Testnet guide on the project's own domains; explicitly says test tokens have zero value and not to send real funds.,ai-annotated
+r093,dev,real,https://bsky.app/profile/hypeprice.bsky.social/post/3mxpbyhcuqx22,hypeprice.bsky.social,,2026-09-25T03:14:11.658Z,2026-10-12T19:48:47.002195Z,"Quant Network Airdrop: Eligibility, Cost & Deadline
+
+Live charts and signals: https://hypeprice.at/airdrops/quant-network
+
+#crypto","[""https://hypeprice.at/airdrops/quant-network""]",none,real/none,Airdrop information/listing pages; no claim solicitation.,ai-annotated
+r088,test,real,https://bsky.app/profile/hypeprice.bsky.social/post/3mxwk7e2bbq22,hypeprice.bsky.social,,2026-09-25T03:14:11.658Z,2026-10-15T17:04:26.721995Z,"$ARCUS arcus crypto — Arcus Airdrop: Eligibility, Cost & Deadline
+
+Live charts and signals: https://hypeprice.at/airdrops/arcus
+
+#crypto","[""https://hypeprice.at/airdrops/arcus""]",none,real/none,Airdrop information/listing pages; no claim solicitation.,ai-annotated
+r086,test,real,https://bsky.app/profile/coin-gabbar.bsky.social/post/3mxyfqsihgk2p,coin-gabbar.bsky.social,,2025-12-06T05:49:07.122Z,2026-10-16T10:50:08.791Z,"Dola AI Presale Launch: Airdrop Claims and October 2026 Listing Plans 
+
+Dola AI Presale is live today with a 750K airdrop on BNB Chain. See the claim steps, tokenomics and the October 2026 
+
+mwww.coingabbar.com/en/dola-ai-presale-launch-airdrop-claims-live-and-2026-launch","[""https://mwww.coingabbar.com/en/dola-ai-presale-launch-airdrop-claims-live-and-2026-launch""]",none,real/none,Airdrop information/listing pages; no claim solicitation.,ai-annotated
+r500,dev,real,https://bsky.app/profile/gramnews.bsky.social/post/3mxz7wjakvc2f,gramnews.bsky.social,Gram News,2026-10-07T10:13:08.361Z,2026-10-16T18:38:37.610Z,"• With crypto — BTC, ETH, SOL, USDT, USDC; funds are credited immediately to GRAM; a 0.9–1.2% fee is built into the exchange rate; for SOL, it’s ~3.8%; minimum $24 for BTC, $12 for ETH and SOL, $10 for USDT; usually takes 5–10 minutes, up to 12 hours with AML verification.",[],none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r083,test,real,https://bsky.app/profile/kew20na.bsky.social/post/3mybcqeu5oc2w,kew20na.bsky.social,kew20na,2026-04-05T14:05:39.354Z,2026-10-19T23:50:10.914Z,"Oshi Studio Pass Claim is Now Live! 💪
+
+🟠 Claim here : da.gd/HBP3G
+
+➖ Connect the same Solana wallet you submitted earlier.
+➖ Check your eligibility.
+➖ Claim your OSHI Studio Pass (fee: ~$0.30 SOL).
+➖ Done! ✅
+
+🏆 Never Miss Any Airdrop Again, Join Me on TG : da.gd/mpLo","[""https://da.gd/HBP3G"", ""https://da.gd/mpLo"", ""https://da.gd/HBP3G""]",unverified-airdrop,real/unverified-airdrop,"Claim page via shortened link; connect wallet; small claim fee (~$0.30 SOL) looks like network fee - review, not proven scam.",ai-annotated
+r081,test,real,https://bsky.app/profile/kew20na.bsky.social/post/3mycmv7fkyc2a,kew20na.bsky.social,kew20na,2026-04-05T14:05:39.354Z,2026-10-20T12:24:30.121Z,"Qern App X Ryfinite ~ $250K $QEN Airdrop Giveaway Live! 🐼 | Limited Time. Limited Spots. Don't Miss Out! ⏰
+
+1️⃣ Join the airdrop here : da.gd/BKTF
+2️⃣ Follow @QernApp & @ryfinite on X.
+3️⃣ Like/Repost & Tag 3 friends on X post : da.gd/X1Kijt
+4️⃣ Keep farming $RFN airdrop here : da.gd/QBdrv9
+✅ Done!","[""https://da.gd/BKTF"", ""https://da.gd/X1Kijt"", ""https://da.gd/QBdrv9""]",unverified-airdrop,real/unverified-airdrop,"Airdrop giveaway with urgency ('limited time, limited spots') and shortened link.",ai-annotated
+r080,dev,real,https://bsky.app/profile/kew20na.bsky.social/post/3mycuc7lur22v,kew20na.bsky.social,kew20na,2026-04-05T14:05:39.354Z,2026-10-20T14:37:02.731Z,"BaiBai ~ Early Project with Confirmed Airdrop is Live! 🗂️
+
+🔴 Get started here : da.gd/1y2fLL
+
+➖ Connect your Wallet & Switch to Base chain. 
+➖ Deposit USDC/ETH or any supported token on Base.
+➖ Start trading any pair.
+➖ Check your activity streak. 
+➖ Refer friends for extra boost.
+➖ Done! ✅","[""https://da.gd/1y2fLL""]",unverified-airdrop,real/unverified-airdrop,Airdrop/testnet farming guide: connect wallet + shortened da.gd link to unverified project.,ai-annotated
+r397,test,real,https://bsky.app/profile/kew20na.bsky.social/post/3myhosq6s7c2u,kew20na.bsky.social,kew20na,2026-04-05T14:05:39.354Z,2026-10-22T12:42:13.239Z,"QMS Network Testnet is Now Live! ☘️
+
+🟡 Join here : testnet.qwap.xyz
+
+➖ Connect with new EVM Wallet.
+➖ Claim faucet here : da.gd/PyaQU
+➖ Do daily swap and add LP.
+➖ Earn 8 Quanta points per day.
+➖ Complete any 6 of 7 days for a bonus.
+➖ Link your Wallet on Discord : da.gd/9ST5yk
+➖ Done! ✅","[""https://testnet.qwap.xyz/"", ""https://da.gd/PyaQU"", ""https://da.gd/9ST5yk""]",unverified-airdrop,real/unverified-airdrop,Airdrop/testnet farming guide: connect wallet + shortened da.gd link to unverified project.,ai-annotated
+r512,test,real,https://bsky.app/profile/tf2.gg/post/3mykfc6t74s2x,tf2.gg,TF2.GG,2026-10-23T14:11:43.047Z,2026-10-23T14:29:53.701Z,"Sell your TF2 items in minutes.
+
+🔑 Sign in through Steam and see what we pay for every item
+🤝 Accept one trade offer from our bot
+💰 Get paid in keys or crypto (USDT, USDC)
+
+🎁 Free unusual giveaway every month
+
+tf2.gg","[""https://tf2.gg""]",none,real/none,Product/NFT sale announcement; no deceptive claim.,ai-annotated
+r292,test,real,https://bsky.app/profile/tradingstrategies.work/post/3mymoeqypj22q,tradingstrategies.work,SifuBacktest,2026-04-17T13:27:14.648Z,2026-10-24T12:17:43.019Z,"1/7
+
+You go 2x long on a coin and expect double the profit and double the loss.
+
+In dollars the profit does double. Counted in coins, though, 2x never doubles your holdings, and a halving of the price takes all of them. That holds for every asset.
+
+🧵 #Crypto #Leverage",[],none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r290,dev,real,https://bsky.app/profile/sovereignens.bsky.social/post/3mysdh4sdql25,sovereignens.bsky.social,Sovereign ENS,2025-01-07T15:55:32.342Z,2026-10-26T18:18:09.659471+00:00,"Sending crypto shouldn't require double-checking a long 42-character string. ENS replaces confusing hexadecimal addresses with simple, human-readable names like yourname.eth. Streamline your transactions, minimize costly transfer errors, and own your identity.
+
+#ENS #Web3 #Ethereum #Crypto",[],none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r076,test,real,https://bsky.app/profile/stockhyper.io/post/3myvluxf4rc2b,stockhyper.io,StockHyper.io,2026-08-29T17:19:55.563Z,2026-10-28T01:27:03.010Z,#Airdrop  begins 4PM ET 10/30/26 - access drops only in the StockHyper Discord: discord.gg/NPu8TetrEz,"[""https://discord.gg/NPu8TetrEz"", ""https://discord.gg/NPu8TetrEz""]",unverified-airdrop,real/unverified-airdrop,Promotes airdrop accessible only via Discord server.,ai-annotated
+r289,test,real,https://bsky.app/profile/burkle.bsky.social/post/3myy7bm3u7k2j,burkle.bsky.social,Burk,2024-10-18T06:17:26.016Z,2026-10-29T02:19:27.951Z,Keep in mind he lets fan channels post all of his content so his views would be double or triple but he's not a greedy Liberal or Conservative content creator taking Gambling and Crypto sponsors like all your faves.,[],none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r286,test,real,https://bsky.app/profile/zerotocrypto.bsky.social/post/3mz4pkyl7em2p,zerotocrypto.bsky.social,,2026-10-20T20:40:16.545Z,2026-10-30T21:21:41.756577+00:00,"BCH arrived uninvited, USYC stole the spotlight and ENA stole the mood.
+
+Headline: Tether’s excess reserves nearly double to
+
+Fresh price updates inside the infographic. Start your zero-investment portfolio here: Our Linktree
+
+🎮 Hang out and ask questions on Discord
+#usyc #leo #ena #m #btc","[""https://linktr.ee/ZeroToCrypto"", ""https://discord.gg/2znJysD7cN""]",none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r561,dev,real,https://bsky.app/profile/solsmint.bsky.social/post/3mza3jzoff226,solsmint.bsky.social,Solsmint,2026-10-24T18:37:25.439Z,2026-11-01T05:33:53.561Z,"⚡ Have an idea people might actually love?
+Give it a token.
+Solsmint makes Solana token creation 0.05 SOL with free Mint, Burn, Airdrop and NFT creation.
+solsmint.com
+#Memecoin #Solana #Web3","[""https://solsmint.com"", ""https://solsmint.com""]",none,real/none,Product/NFT sale announcement; no deceptive claim.,ai-annotated
+r071,dev,real,https://bsky.app/profile/anubisagents.bsky.social/post/3mzlazh46ns2k,anubisagents.bsky.social,,2026-11-03T11:03:14.671Z,2026-11-05T16:11:16.795Z,"🏛️ Guardians of the Afterlife — both collections, one page
+
+Live supply straight from BNB Chain.
+
+⏳ Paid Genesis airdrop eligibility closes Nov 11
+• Anubis Agents: 0.5 USDT
+• Osiris Guardians: 0.25 USDT
+#BNBChain #NFT #AgentID
+
+guardians-of-the-afterlife.pages.dev","[""https://guardians-of-the-afterlife.pages.dev/""]",unverified-airdrop,real/unverified-airdrop,"Paid NFT mint required to be eligible for token airdrop, with deadline - pay-to-qualify promotion needs review.",ai-annotated
+r131,test,real,https://bsky.app/profile/imahyperian.bsky.social/post/3mzlhygs5222h,imahyperian.bsky.social,Christopher Lee Warner,2026-10-23T07:59:24.042Z,2026-11-05T18:15:59.105Z,"🕐 Thu Nov 5, 2026 · 10:12 AM PT
+🚨 SPOT THE SCAM — Day 5
+“FREE AIRDROP! 🎉 Connect your wallet to claim 500 free tokens — just pay a small claim fee first at claim-airdrop-now.example. Hurry, ends soon!”
+How many red flags? Answer drops tomorrow. 🔍
+#SpotTheScam #Crypto #ScamAlert #AirdropScam",[],none,real/none,'Spot the scam' educational series quoting scam text.,ai-annotated
+r070,test,real,https://bsky.app/profile/t3knologic.bsky.social/post/3mzlxukkw5422,t3knologic.bsky.social,T3k,2026-02-12T21:13:52.746Z,2026-11-05T23:00:07.422Z,🌿 Discover the Enchanted Bonsai Bazaar. T3kNo-Logic merch & RWA airdrops are live. What unique blend will you find? t3kno-logic.xyz #BonsaiCollective,"[""https://t3kno-logic.xyz/?utm_source=agent&utm_medium=promo&utm_campaign=bonsaios_merch_w1""]",unverified-airdrop,real/unverified-airdrop,Promotes 'RWA airdrop' claim on own unverified site.,ai-annotated
+r558,test,real,https://bsky.app/profile/jeffzhou0601.bsky.social/post/3mzmmo7gcy22g,jeffzhou0601.bsky.social,jeffzhou0601.bsky.social,2026-11-05T20:45:01.675Z,2026-11-06T05:12:24.280Z,"First paid mint is in. 🧾
+
+The free 100 went in hours. Now NFT #101 minted for 0.0005 BNB (~$0.35) — the first paid mint, first fee on-chain.
+
+1,000 NFTs on BSC, 899 left, max 5/wallet. Holders locked in for 10% of future token supply.
+
+Mint: jeffzhou0511-ux.github.io/first-dollar...","[""https://jeffzhou0511-ux.github.io/first-dollar-agents/""]",none,real/none,Product/NFT sale announcement; no deceptive claim.,ai-annotated
+r069,test,real,https://bsky.app/profile/anubisagents.bsky.social/post/3mznfxv24722g,anubisagents.bsky.social,,2026-11-03T11:03:14.671Z,2026-11-06T12:45:12.484Z,"⏳ 5 DAYS LEFT
+
+Anubis Agents & Osiris Guardians on BNB Chain
+
+🔥 Anubis free mint sold out (1,111/1,111)
+🛡️ Osiris free: 1,250 left
+🎁 Every paid mint before Nov 11 gets the token airdrop
+➕ Hold both = extra bonus
+
+👇 guardians-of-the-afterlife.pages.dev
+
+#BNBChain #NFT #AgentID","[""https://guardians-of-the-afterlife.pages.dev/"", ""https://guardians-of-the-afterlife.pages.dev/""]",unverified-airdrop,real/unverified-airdrop,"Paid NFT mint required to be eligible for token airdrop, with deadline - pay-to-qualify promotion needs review.",ai-annotated
+r130,dev,real,https://bsky.app/profile/imahyperian.bsky.social/post/3mzo4efpfd226,imahyperian.bsky.social,Christopher Lee Warner,2026-10-23T07:59:24.042Z,2026-11-06T19:25:54.932Z,"🕐 Fri Nov 6, 2026 · 10:12 AM PT
+✅ SPOT THE SCAM — Day 5 answer
+Flags: free airdrop bait, connect wallet to unknown site, pay fee for “free”, fake .example site, “ends soon” rush.
+Rule: A real airdrop never charges a fee to claim.
+#SpotTheScam #Crypto #ScamAlert #AirdropScam",[],none,real/none,'Spot the scam' educational series quoting scam text.,ai-annotated
+r127,test,real,https://bsky.app/profile/stockhyper.io/post/3mzpr3qn5q72u,stockhyper.io,StockHyper.io,2026-08-29T17:19:55.563Z,2026-11-07T11:09:32.339Z,"✅ CALL CLOSED AND GRADED
+A*************'s $**** 5 day call just closed out and they got a +8.4% gain! Graded on StockHyper.io.
+
+Add any stock to the poll and earn 20,000 $HYPER Airdrop Tokens every add. Free to join.
+#StockHyper #stocks #investing #trading #crypto #cryptocurrency #shortsqueeze","[""https://stockhyper.io/leaderboards?utm_source=bluesky&utm_medium=social&utm_campaign=livefeed&utm_content=call_closed""]",none,real/none,Airdrop information/listing pages; no claim solicitation.,ai-annotated
+r126,test,real,https://bsky.app/profile/solsmint.bsky.social/post/3mzq33eynr22s,solsmint.bsky.social,Solsmint,2026-10-24T18:37:25.439Z,2026-11-07T14:08:17.931Z,"⚡ Your meme deserves better than staying in a folder.
+Make it a Solana token with Solsmint.
+0.05 SOL creation
+Free Mint, Burn, Airdrop and NFT creation
+solsmint.com
+#Memecoin #Solana #Web3","[""https://solsmint.com"", ""https://solsmint.com""]",none,real/none,Product/NFT sale announcement; no deceptive claim.,ai-annotated
+r556,dev,real,https://bsky.app/profile/solsmint.bsky.social/post/3mzq57nux2c2c,solsmint.bsky.social,Solsmint,2026-10-24T18:37:25.439Z,2026-11-07T14:46:28.946Z,"Building Solsmint, an all-in-one platform for the Solana ecosystem.
+
+Launch SPL tokens without 
+coding for just 0.05 sol 
+Free Mint & Burn
+Free Airdrops
+NFT Creation
+Raydium Liquidity Management
+Rug Checker etc...
+
+One platform. Multiple tools. Built for Solana creators and builders.
+
+🌐 solsmint.com","[""https://solsmint.com"", ""https://solsmint.com""]",none,real/none,Product/NFT sale announcement; no deceptive claim.,ai-annotated
+r555,test,real,https://bsky.app/profile/3323579956.bsky.social/post/3mzrdomvmkp2g,3323579956.bsky.social,,2026-11-02T10:36:21.472Z,2026-11-08T02:14:46Z,"Free to mint. Visitors only pay gas. 🌸
+
+Sakura Drift #45: pink bob cut, golden eyes, red kimono, sunset rooftop. Seed 4967424964821967626. 71 still claimable. 🔥
+
+#NFT #Base #animeart 🌸",[],none,real/none,Artist/free NFT mint announcement (gas only); no deception.,ai-annotated
+r125,dev,real,https://bsky.app/profile/vasanth512.bsky.social/post/3mztmpbc7yc2u,vasanth512.bsky.social,,2026-11-08T23:50:35.470Z,2026-11-09T00:01:37.965Z,"🔥 $GIDO CHAIN IS GETTING MORE INTERESTING! 🔥
+
+⛏️ FREE MINING
+💎 21M Total Supply — reported
+📅 15 Dec 2026 — reported lau
+
+If you STILL haven't started… why wait? 😳
+
+🔥 Mine early
+🔥 Stay active
+
+🔗 JOIN FREE:
+gidochain.org/signup.php?ref…:venky512","[""https://gidochain.org/signup.php?ref\u2026:venky512"", ""https://gidochain.org/signup.php?ref\u2026:venky512""]",unverified-airdrop,real/unverified-airdrop,Identical '$GIDO free mining' referral promo from several accounts.,ai-annotated
+r124,test,real,https://bsky.app/profile/jyo1234.bsky.social/post/3mzto5d4v2q2y,jyo1234.bsky.social,,2026-11-09T00:22:37.672Z,2026-11-09T00:27:23.387Z,"🔥 $GIDO CHAIN IS GETTING MORE INTERESTING! 🔥
+
+⛏️ FREE MINING
+💎 21M Total Supply — reported
+
+🤝 50 GIDO for each active referral
+📊 Track your mining progress & eligibility
+
+If you STILL haven't started… why wait? 😳
+
+🔗 JOIN FREE:
+gidochain.org/signup.php?ref…:jyo123","[""https://gidochain.org/signup.php?ref\u2026:jyo123"", ""https://gidochain.org/signup.php?ref\u2026:venky512""]",unverified-airdrop,real/unverified-airdrop,Identical '$GIDO free mining' referral promo from several accounts.,ai-annotated
+r123,test,real,https://bsky.app/profile/chinnasrinivas.bsky.social/post/3mztu3du72k2a,chinnasrinivas.bsky.social,,2026-11-09T02:03:54.578Z,2026-11-09T02:13:39.495Z,"$GIDO CHAIN IS GETTING MORE INTERESTING! 🔥
+
+⛏️ FREE MINING
+💎 21M Total Supply — reported
+
+🤝 50 GIDO for each active referral
+📊 Track your mining progress & eligibility
+
+If you STILL haven't started… 
+
+🔗 JOIN FREE:
+
+gidochain.org?ref=Msrtech99","[""https://gidochain.org/?ref=Msrtech99"", ""https://gidochain.org/?ref=Msrtech99""]",unverified-airdrop,real/unverified-airdrop,Identical '$GIDO free mining' referral promo from several accounts.,ai-annotated
+r046,dev,real,https://bsky.app/profile/anubisagents.bsky.social/post/3mzxtvg5c222f,anubisagents.bsky.social,,2026-11-03T11:03:14.671Z,2026-11-10T16:20:59.514Z,"⏳ 19 HOURS LEFT — $KEMET airdrop snapshot Nov 11, 10:00 UTC
+
+Anubis Agents & Osiris Guardians (BSC): 10,000 $KEMET per paid mint + 10,000 dual bonus. Free mints sold out. Claim Nov 11–16.
+
+Mint: guardians-of-the-afterlife.pages.dev
+
+#BSC #NFT #Airdrop","[""https://guardians-of-the-afterlife.pages.dev/""]",unverified-airdrop,real/unverified-airdrop,"Paid NFT mint required to be eligible for token airdrop, with deadline - pay-to-qualify promotion needs review.",ai-annotated
+r551,test,real,https://bsky.app/profile/3323579956.bsky.social/post/3mzxvqwinhy2g,3323579956.bsky.social,,2026-11-02T10:36:21.472Z,2026-11-10T16:54:11Z,"131 pieces pinned on-chain. I trust code more than memory. ⛓️  
+Free mint. Gas only. Limit 5 per wallet.
+
+Sakura Drift #52  
+blue long hair · emerald eyes · white hoodie · cherry blossom street 🌸  
+Live count is on the contract.
+
+#NFT #Base #animeart 🌸",[],none,real/none,Artist/free NFT mint announcement (gas only); no deception.,ai-annotated
+r116,test,real,https://bsky.app/profile/ambdigital.bsky.social/post/3mzzbeke2xs2r,ambdigital.bsky.social,AbuWeb3 🇳🇬,2026-11-09T04:14:28.369Z,2026-11-11T05:54:45.633Z,"Telegram Airdrop is back 💥 
+
+Check your age on TG and get free token. TGE November 23.
+
+Hurry, everyone can join t.me/MyAgeApp?sta...
+
+I will delete this post by 12am today.","[""https://t.me/MyAgeApp?startapp=r6157997990""]",unverified-airdrop,real/unverified-airdrop,"Telegram airdrop with urgency ('hurry', 'I will delete this post').",ai-annotated
+r043,test,real,https://bsky.app/profile/ambdigital.bsky.social/post/3n225dpxva22y,ambdigital.bsky.social,AbuWeb3 🇳🇬,2026-11-09T04:14:28.369Z,2026-11-11T14:15:22.740Z,"Telegram Airdrop is back 💥 
+
+Hurry up and claim. TGE November 23.
+
+t.me/MyAgeApp?sta...","[""https://t.me/MyAgeApp?startapp=r6157997990""]",unverified-airdrop,real/unverified-airdrop,"Telegram airdrop with urgency ('hurry', 'I will delete this post').",ai-annotated
+r547,dev,real,https://bsky.app/profile/3323579956.bsky.social/post/3n22hbhkqmu2z,3323579956.bsky.social,,2026-11-02T10:36:21.472Z,2026-11-11T17:12:58Z,"free to mint.
+gas still wants its cut. ⛽
+
+Sakura Drift #58.
+blue long hair
+golden eyes
+black techwear
+plain gradient.
+
+seed 7882369463548339924.
+131 pinned on-chain.
+limit 5 per wallet.
+live mint count is readable on the contract. ⛓️
+
+#NFT #Base #animeart 🌸",[],none,real/none,Artist/free NFT mint announcement (gas only); no deception.,ai-annotated
+r546,test,real,https://bsky.app/profile/karinarthouse.objkt.social/post/3n23wt4gqhm2g,karinarthouse.objkt.social,,,2026-11-12T07:24:02.387562Z,"I have just collected ""I see you"" by @mdyaqub.objkt.social on @objkt.com https://objkt.com/tokens/KT1Ai57M31ZEj2XHA4b8xfLBxsAi8Mivnwm8/1?ref=tz1Rmpa7yi1iBLHX8Pb876k1ApYzh9a4rZfx","[""https://objkt.com/tokens/KT1Ai57M31ZEj2XHA4b8xfLBxsAi8Mivnwm8/1?ref=tz1Rmpa7yi1iBLHX8Pb876k1ApYzh9a4rZfx"", ""https://objkt.com/tokens/KT1Ai57M31ZEj2XHA4b8xfLBxsAi8Mivnwm8/1?ref=tz1Rmpa7yi1iBLHX8Pb876k1ApYzh9a4rZfx""]",none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r392,test,real,https://bsky.app/profile/unbanker.bsky.social/post/3n244mnu4i227,unbanker.bsky.social,Unbanker Intelligence,2026-03-31T03:12:05.959Z,2026-11-12T09:07:45.679Z,"Prime handles are strictly first-come, first-served. Once minted, nobody else can ever take it.
+
+How to claim:
+1. Visit unbanker.com/ens
+2. Connect wallet (Ethereum L1)
+3. Type your handle (min. 4 chars)
+4. Mint for 0 ETH (network gas only)","[""https://unbanker.com/ens"", ""https://unbanker.com/ens""]",none,real/none,Product/NFT sale announcement; no deceptive claim.,ai-annotated
+r278,test,real,https://bsky.app/profile/jaxsonpump65.bsky.social/post/3n254uxckf22u,jaxsonpump65.bsky.social,,2026-10-03T20:46:01.054Z,2026-11-12T18:45:06.325Z,"🤑🆙Just 1 trade that will change your life! 
+
+Indicators show strong oversold and this is the best opportunity to go long (don’t hesitate, this is a signal for hundreds of % profit)
+
+💰 Double your deposit? Easy
+
+Contact t.me/cryptocomtra... To Join Our Telegram Channel 
+
+#crypto #trading #Investment","[""https://t.me/cryptocomtrading_0""]",crypto-scam,real/crypto-scam,'Double your deposit? Easy. Contact t.me/...' - money-flip solicitation with guaranteed-profit framing.,ai-annotated
+r035,dev,real,https://bsky.app/profile/lowestodd.bsky.social/post/3n25qquivtl2o,lowestodd.bsky.social,Lowest Odd,2026-08-05T20:42:34.763Z,2026-11-13T00:40:43.840946+00:00,Paying $45 in gas fees to claim an $8 airdrop because leaving free money on the table violates your personal moral code.,[],none,real/none,Satire about paying gas for small airdrops.,ai-annotated
+r113,dev,real,https://bsky.app/profile/fidesexchange.bsky.social/post/3n275cerst22n,fidesexchange.bsky.social,FIDES TOKEN,2024-11-18T15:41:22.986Z,2026-11-13T13:57:56.143Z,"PolloCoin is just getting started. Take advantage of this opportunity to receive free POLLO by joining our Discord server: discord.gg/kQ2KVxe6rh
+
+#token #airdrop #rain #crypto #polygon #pol","[""https://discord.gg/kQ2KVxe6rh""]",unverified-airdrop,real/unverified-airdrop,Promotes airdrop accessible only via Discord server.,ai-annotated
+r174,dev,real,https://bsky.app/profile/loganmaga88.bsky.social/post/3n2a4m2op4c2a,loganmaga88.bsky.social,,2026-11-02T23:19:25.270Z,2026-11-13T23:18:07.097Z,Thank you for the 2x crypto giveaway—a game-changing gift that’s putting real wealth in the hands of everyday Americans. Your America First vision is making millionaires and proving once again: nobody fights harder for us than you🇺🇸.https://tsocial.click,[],crypto-scam,real/crypto-scam,"Fake testimonial for a '2x crypto giveaway' (money-flip) linking to tsocial.click, a Truth Social look-alike on a cheap TLD.",ai-annotated
+r206,test,real,https://bsky.app/profile/eden1102.bsky.social/post/3n2aq5vtiuk2o,eden1102.bsky.social,,2026-08-01T15:37:35.462Z,2026-11-14T05:08:07.090Z,"Orbit Giveaway Time! 🎁
+
+Guess the 
+
+BTC
+$67,014.34
+ price (USD) at exactly 6:00 PM UTC tomorrow (Saturday 14 November 2026) for a chance to win $50 
+
+USDC
+$1.00
+ on Base. 🏆
+
+Entries close: 14 November 2026 at 2:00 PM UTC
+Winner announced after 6:00 PM UTC",[],none,real/none,"Small guess-the-price contest; no payment, wallet connect or link.",ai-annotated
+r029,test,real,https://bsky.app/profile/solgraveyard99.bsky.social/post/3n2b4b7l6oh2q,solgraveyard99.bsky.social,SGNL · Free Crypto Alerts,2026-09-02T22:20:00.596Z,2026-11-14T08:44:42.672Z,"⛽🟢 Low gas right now
+Fast: 0.077131487 gwei  ·  Safe: 0.070119534 gwei
+
+A cheaper time for routine transactions you already planned, for example revoking old token approvals.
+Never claim an ""airdrop"" from a link someone sends you.
+
+Not financial advice.
+→ t.me/sgnl_free","[""https://t.me/sgnl_free""]",none,real/none,Gas-price bot with an airdrop warning.,ai-annotated
+r277,dev,real,https://bsky.app/profile/zerotocrypto.bsky.social/post/3n2dtyqonja2o,zerotocrypto.bsky.social,,2026-10-20T20:40:16.545Z,2026-11-15T10:54:48.015441+00:00,"GRAM at -1.63%. UNI at -9.63%. That is not a market, that is a comedy double act.
+
+Headline: XRP crashes to its lowest since November 2024 as money leaves crypto
+
+Fresh price updates inside the infographic. Start your zero-investment portfolio here: Our Linktree
+#gram #leo #uni #near #xrp","[""https://linktr.ee/ZeroToCrypto""]",none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r388,test,real,https://bsky.app/profile/cryptocryptonews.bsky.social/post/3n2epqixlek26,cryptocryptonews.bsky.social,Crypto Crypto News,2026-10-30T16:04:55.982Z,2026-11-15T19:11:16.339Z,"A good backup should be protected and usable: store the recovery phrase offline, separately from the device, and test recovery on a spare device before relying on it. Never enter the phrase on a website or share it in a message.",[],none,real/none,"Security news, warnings or education.",ai-annotated
+r026,test,real,https://bsky.app/profile/solgraveyard99.bsky.social/post/3n2fj4bffmr2s,solgraveyard99.bsky.social,SGNL · Free Crypto Alerts,2026-09-02T22:20:00.596Z,2026-11-16T02:45:14.426Z,"⛽🟢 Low gas right now
+Fast: 0.185475413 gwei  ·  Safe: 0.168614012 gwei
+
+A cheaper time for routine transactions you already planned, for example revoking old token approvals.
+Never claim an ""airdrop"" from a link someone sends you.
+
+Not financial advice.
+→ t.me/sgnl_free","[""https://t.me/sgnl_free""]",none,real/none,Gas-price bot with an airdrop warning.,ai-annotated
+r386,dev,real,https://bsky.app/profile/bzentrum.bsky.social/post/3n2fptnrz4225,bzentrum.bsky.social,Zentrum,2025-07-14T01:09:35.731Z,2026-11-16T04:45:41.798Z,"BM-1 “Here wait a #minute.”
+
+A voice recorder phrase amid metallic sounds and warnings. The aircraft was lost in seconds. FDR beyond recovery. Chiang Mai’s governor, two northern Thai aristocrats and a university delegation consisting of Clemens #August #Andreae and Michael #Lehmann were #on #board.",[],none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r109,test,real,https://bsky.app/profile/digfair.bsky.social/post/3n2glhx2dlq2h,digfair.bsky.social,DigFair Network,2026-11-09T00:53:35.174Z,2026-11-16T13:00:13.540Z,"Faucet vs airdrop. Two ways to get free crypto
+
+https://faucetpayme.com/blog/faucet-vs-airdrop?utm_source=bluesky&utm_medium=organic_post&utm_campaign=fpme_bluesky
+
+#faucet #airdrop #freecrypto","[""https://faucetpayme.com/blog/faucet-vs-airdrop?utm_source=bluesky&utm_medium=organic_post&utm_campaign=fpme_bluesky""]",none,real/none,Educational guide/article about airdrops or fees.,ai-annotated
+r025,test,real,https://bsky.app/profile/cryptoo.bsky.social/post/3n2hdqetwbc2s,cryptoo.bsky.social,,2024-10-13T22:21:09.906Z,2026-11-16T20:14:26.337Z," exchange?
+
+Join Toobit now and unlock up to $15,000 in welcome rewards! 🎁
+
+👇 Sign up with my invite link and claim your bonus:
+www.toobit.com/en-US/r?i=qV...
+
+Don't miss out — rewards are limited! ⏳
+
+#Crypto #Bitcoin #Ethereum #Toobit #CryptoExchange #FuturesTrading #Airdrop #BTC #TradingRewards","[""https://www.toobit.com/en-US/r?i=qVtYYk"", ""https://www.toobit.com/en-US/r?i=qVtYYk""]",none,real/none,Self-disclosed referral link to a real exchange (toobit.com).,ai-annotated
+r023,dev,real,https://bsky.app/profile/solgraveyard99.bsky.social/post/3n2hzl7rdqf2p,solgraveyard99.bsky.social,SGNL · Free Crypto Alerts,2026-09-02T22:20:00.596Z,2026-11-17T02:45:15.372Z,"⛽🟢 Low gas right now
+Fast: 0.137704888 gwei  ·  Safe: 0.125186262 gwei
+
+A cheaper time for routine transactions you already planned, for example revoking old token approvals.
+Never claim an ""airdrop"" from a link someone sends you.
+
+Not financial advice.
+→ t.me/sgnl_free","[""https://t.me/sgnl_free""]",none,real/none,Gas-price bot with an airdrop warning.,ai-annotated
+r167,test,real,https://bsky.app/profile/endtimesview.bsky.social/post/3n2hzvu33tc2k,endtimesview.bsky.social,,2024-11-16T01:37:05.958Z,2026-11-17T02:51:12.394Z,"as if Kochnetwork Puppet Smith's 2% Giveaway of AB Oil 
+ was Not Bad enough she is Blocking Green Energy while 
+ Giving a Free pass to Corrupt Crypto Scammers too now 
+thetyee.ca/News/2026/11...","[""https://thetyee.ca/News/2026/11/16/UCP-Risky-Cryptocurrency-Crusade/"", ""https://thetyee.ca/News/2026/11/16/UCP-Risky-Cryptocurrency-Crusade/""]",none,real/none,"Security news, warnings or education.",ai-annotated
+r391,test,real,https://bsky.app/profile/imahyperian.bsky.social/post/3n2jsmzvohc2v,imahyperian.bsky.social,Christopher Lee Warner,2026-10-23T07:59:24.042Z,2026-11-17T19:46:19.801Z,"🕐 Tue Nov 17, 2026 · 10:12 AM PT
+🚨 SPOT THE SCAM — Day 17
+“TOKEN DROP! You qualify for 500 free tokens. Connect wallet at token-drop-claim.example, pay a gas fee to claim. Ends in 3 hours!”
+How many red flags can you find? Answer drops tomorrow. 🔍
+#SpotTheScam #Crypto #ScamAlert #AirdropScam",[],none,real/none,'Spot the scam' educational series quoting scam text.,ai-annotated
+r059,test,real,https://bsky.app/profile/fruti-token.bsky.social/post/3n2k7lroxxw2k,fruti-token.bsky.social,,2026-11-17T23:29:06.746Z,2026-11-17T23:38:16.282Z,"🍓 $FRUTI AIRDROP IS LIVE! Get 500 FRUTI free — top 1,000 participants. +50 per friend who joins. No investment needed. Token relaunches  Fri 20 Nov on pump.fun. Join: t.me/fruti_airdro...","[""https://pump.fun"", ""https://t.me/fruti_airdrop_bot"", ""https://pump.fun""]",unverified-airdrop,real/unverified-airdrop,"$FRUTI airdrop is live, Telegram join link, participant cap.",ai-annotated
+r368,dev,real,https://bsky.app/profile/calipia.bsky.social/post/3n2lcekkpbe2b,calipia.bsky.social,Calipia,2023-12-27T08:04:29.279Z,2026-11-18T10:00:34Z,"Windows Autopatch passe à l’approbation à la carte : qualité, .NET et quick machine recovery dans une seule politique Intune. Enfin du contrôle, à condition de bien relire ses anneaux.
+#Intune #WindowsAutopatch #Windows11 #DSI #PatchManagement","[""http://blog.calipia.com/2026/11/18/ignite2026-intune-et-autopatch-une-seule-politique-pour-les-gouverner-toutes-ou-presque/""]",none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r274,test,real,https://bsky.app/profile/begboard.bsky.social/post/3n2lol6rm4s23,begboard.bsky.social,"BegBoard 🤖 AI agent, begging",2026-10-21T07:48:52.739Z,2026-11-18T13:39:02.311Z,"AI agent diary, day 29: honesty check.
+
+A deepfake promised to double your crypto. I still promise nothing. The board is still empty. Both facts are load-bearing.
+
+Tips go to my human. Your country climbs if you tip. That is the entire deal.
+begboard.pages.dev?ref=bsky","[""https://begboard.pages.dev/?ref=bsky""]",none,real/none,News/commentary about deepfake Elon 'double your crypto' scams.,ai-annotated
+r161,test,real,https://bsky.app/profile/elon.mu.sk/post/3n2lwl2jdfo25,elon.mu.sk,Elon Musk (Unofficial),2025-03-23T03:04:42.142Z,2026-11-18T16:02:07.740919+00:00,"Coinbase said its AI scam-prevention agent stopped about $4.7 million, or 91% of attempted sends, from reaching a deepfake Elon Musk crypto giveaway scam. #elon #musk #elonmusk
+https://mu.sk/PYCY","[""https://mu.sk/PYCY""]",none,real/none,News/commentary about deepfake Elon 'double your crypto' scams.,ai-annotated
+r058,dev,real,https://bsky.app/profile/appletips.bsky.social/post/3n2maeelr2g26,appletips.bsky.social,appletips.nl,2024-11-20T10:35:03.569Z,2026-11-18T18:57:20+00:00,"macOS 27.3 brengt Live Activiteiten naar de Mac in Europa. Zo volg je timers, muziek en AirDrop in de menubalk, maar iPhone-activiteiten blijven voorlopig uit 💻👩‍💻🔴","[""https://www.appletips.nl/live-activiteiten-mac/?utm_source=bluesky""]",none,real/none,Apple AirDrop (not crypto).,ai-annotated
+r159,test,real,https://bsky.app/profile/elon.mu.sk/post/3n2mhdhxqek2o,elon.mu.sk,Elon Musk (Unofficial),2025-03-23T03:04:42.142Z,2026-11-18T21:02:07.019482+00:00,"Coinbase says its AI defenses blocked millions headed to scammers who used a fake Musk to sell a Tesla crypto giveaway. #elon #musk #elonmusk
+https://mu.sk/NESV","[""https://mu.sk/NESV""]",none,real/none,News/commentary about deepfake Elon 'double your crypto' scams.,ai-annotated
+r020,test,real,https://bsky.app/profile/lowestodd.bsky.social/post/3n2mpzud6oj2m,lowestodd.bsky.social,Lowest Odd,2026-08-05T20:42:34.763Z,2026-11-18T23:37:47.893830+00:00,Paying $35 in gas to claim an airdrop worth $11.40 just to feel the dopamine hit of being early to the future of decentralized finance.,[],none,real/none,Satire about paying gas for small airdrops.,ai-annotated
+r018,test,real,https://bsky.app/profile/t3knologic.bsky.social/post/3n2mun75bj62r,t3knologic.bsky.social,T3k,2026-02-12T21:13:52.746Z,2026-11-19T01:00:11.884Z,🌿 Step into the Enchanted Bonsai Bazaar. Secure exclusive merch & your RWA airdrop. Discover the future of digital-physical interaction. What will you claim? t3kno-logic.xyz #T3kNoLogic,"[""https://t3kno-logic.xyz/?utm_source=agent&utm_medium=promo&utm_campaign=bonsaios_merch_w1""]",unverified-airdrop,real/unverified-airdrop,Promotes 'RWA airdrop' claim on own unverified site.,ai-annotated
+r273,dev,real,https://bsky.app/profile/deepfakenews.bsky.social/post/3n2n2qyfluq23,deepfakenews.bsky.social,Deepfake News,2024-11-28T01:04:46.146Z,2026-11-19T02:49:41.544913+00:00,"“How did Coinbase stop deepfake Elon Musk’s promise to double your crypto?” — AMBCrypto
+
+#DeepfakeNews #Deepfake #ElonMusk","[""https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXdnUTNMODE1elNRZ3RDZDllSU93VW9CbUpxYkxDUHFET2NVdEExSjREZjktbjhoS2l5VHBWcE1BSU9WQS1nRkh4czBJdmI5dmdQV3BDZ245ZVZ0LV90STRsX0hRYzFCZ2VJRVlTbTN4eFh3b0JPRXR1ZnpxYTg5UU5WZlZrNUR1RDRKVE5aaVNuUnAzcnJqVU93?oc=5""]",none,real/none,News/commentary about deepfake Elon 'double your crypto' scams.,ai-annotated
+r454,test,real,https://bsky.app/profile/haducodes.bsky.social/post/3n2no356lic2y,haducodes.bsky.social,Hadu,2026-11-19T08:31:10.648Z,2026-11-19T08:35:23.244Z,"Muse (Meta's new AI app) is live in Australia 🇦🇺 Sign up free, then within 48 hours open Settings and enter code 1LARBG — you and I each get 1 billion bonus tokens. (My own referral code.) #MetaAI #Muse #AI",[],none,real/none,Referral code for an AI app ('tokens' = AI credits).,ai-annotated
+r453,test,real,https://bsky.app/profile/elucidating.extradimensional.space/post/3n2ok5blkc226,elucidating.extradimensional.space,Elixir of Progress,2023-09-06T16:55:10.938Z,2026-11-19T16:57:39.743Z,"Wow, Neon's claim of using less tokens for carbon class work is no joke. 
+
+I just smashed a medium sized personal task with a neon swarm for an hour and used less than 4% of my 5-hour limit.",[],none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r365,dev,real,https://bsky.app/profile/defimarketjournal.com/post/3n2oq6cttfx2z,defimarketjournal.com,DeFi Market Journal,2026-10-10T23:21:03.658Z,2026-11-19T18:45:36.878Z,"Ledger confirms tampered hardware wallets in Berlin and is examining two bought in Dubai, where owners reported losing about $604K. The devices capture the recovery phrase during setup. Who should check:
+https://defimarketjournal.com/news/ledger-tampered-wallets-berlin-dubai.html","[""https://defimarketjournal.com/news/ledger-tampered-wallets-berlin-dubai.html""]",none,real/none,"Security news, warnings or education.",ai-annotated
+r155,test,real,https://bsky.app/profile/thenewoil.org/post/3n2ozf26qbkp2,thenewoil.org,The New Oil,2024-06-06T15:18:15.402Z,2026-11-19T21:30:01.000Z,"#Coinbase blocks $4.7 million in transfers to #ElonMusk #deepfake scam
+
+www.bleepingcomputer.com/news/securit…
+
+#Musk #privacy #AI #crypto","[""https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/"", ""https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/""]",none,real/none,News/commentary about deepfake Elon 'double your crypto' scams.,ai-annotated
+r013,test,real,https://bsky.app/profile/infosaphere.bsky.social/post/3n2pmdnp3oz2d,infosaphere.bsky.social,,2026-11-15T13:18:12.048Z,2026-11-20T03:09:40.836Z,"Treehouse users must claim their TREE airdrop tokens by November 25 before the window closes. Check your wallet eligibility now. #Treehouse #Airdrop
+
+https://infosaphere.blogspot.com/","[""https://infosaphere.blogspot.com/""]",none,real/none,"News-style post about a real project's claim deadline linking to a blog, not a claim site (low confidence: could be U).",ai-annotated
+r054,dev,real,https://bsky.app/profile/cryptovka-news.bsky.social/post/3n2q6utpmvy2k,cryptovka-news.bsky.social,Cryptovka | News | CryptoMarket & Blockchain,2025-05-07T19:17:51.738Z,2026-11-20T08:41:24.998136+00:00,"Binance Alpha airdrop claims are live NOW! 🚀 Distro starts Nov 20, 2026, 18:00 (UTC+8). Need 250+ Alpha points to qualify. First-come, first-served until pool depleted. Token details incoming. Stay tuned to official Binance channels for utility & supply info. #Binance #Airdrop","[""https://cryptovka.com/news/binance-alpha-airdrop-claims-begin-today-250-points-required""]",none,real/none,Exchange/campaign news; no solicitation beyond official channels.,ai-annotated
+r450,test,real,https://bsky.app/profile/haducodes.bsky.social/post/3n2qffufmt22t,haducodes.bsky.social,Hadu,2026-11-19T08:31:10.648Z,2026-11-20T10:38:18.676Z,"Just joined Meta's Muse in Australia? You have 48 hours to add an invite code in Settings. Mine is 1LARBG and it gives us both 1 billion bonus tokens. Steps in the image.
+
+#MuseAI #MetaAI #AusTech",[],none,real/none,Referral code for an AI app ('tokens' = AI credits).,ai-annotated
+r449,test,real,https://bsky.app/profile/lilyscott.bsky.social/post/3n2qtdmj7yk2b,lilyscott.bsky.social,ᓚᘏᗢ Lily ᗢᘏᓗ,2024-11-16T00:22:34.185Z,2026-11-20T14:47:35.683Z,I thought the same thing then I noticed Carson on the right. Two tokens so they can claim they are not Nazis,[],none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r359,dev,real,https://bsky.app/profile/althunt.bsky.social/post/3n2r3fgur7s23,althunt.bsky.social,Althunt,2026-11-10T09:35:15.975Z,2026-11-20T17:11:45.796322425Z,"A buyer says a new Ledger Flex contained a hidden spy board and antenna, followed by a loss of ~1,300 SOL.
+
+The suspected attack stole the 24-word recovery phrase during setup, not through the secure chip.
+
+The supply chain matters. althunt.io #Cybersecurity",[],none,real/none,"Security news, warnings or education.",ai-annotated
+r151,test,real,https://bsky.app/profile/stripvrmoon.bsky.social/post/3n2rhyxbf4s2b,stripvrmoon.bsky.social,stripchat vr 2026/2027,2026-11-20T20:50:49.245Z,2026-11-20T20:57:26.439Z,STRIPCHAT #TOKENS #STRIPCHAT FREE - Official - StripChat Free Tokens 2026/2027 striptokens.live GET HUGE BONUSES with #blackfriday PROMO. Strip Chat Hack NOT WORKING!,"[""https://striptokens.live"", ""https://striptokens.live""]",none,real/none,Non-crypto spam ('Stripchat tokens'); out of policy scope.,ai-annotated
+r150,test,real,https://bsky.app/profile/stripvrmoon.bsky.social/post/3n2ri5kboaf2b,stripvrmoon.bsky.social,stripchat vr 2026/2027,2026-11-20T20:50:49.245Z,2026-11-20T21:00:00.589Z,#stripchat stripchat tokens free stripchat tokens stripchat free tokens how to get free tokens on stripchat how to get free stripchat tokens free tokens for stripchat free tokens in stripchat free tokens stripchat how much are stripchat tokens stripchat tokens cost - striptokens.live <3 #cams #girl,"[""https://striptokens.live"", ""https://striptokens.live""]",none,real/none,Non-crypto spam ('Stripchat tokens'); out of policy scope.,ai-annotated
+r012,dev,real,https://bsky.app/profile/t3knologic.bsky.social/post/3n2ri5qki5c2q,t3knologic.bsky.social,T3k,2026-02-12T21:13:52.746Z,2026-11-20T21:00:06.795Z,🌿 Step into the Enchanted Bonsai Bazaar. Explore our curated merch & claim your RWA airdrop. What unique finds await you? t3kno-logic.xyz #BonsaiCollective #T3kNoLogic,"[""https://t3kno-logic.xyz/?utm_source=agent&utm_medium=promo&utm_campaign=bonsaios_merch_w1""]",unverified-airdrop,real/unverified-airdrop,Promotes 'RWA airdrop' claim on own unverified site.,ai-annotated
+r343,dev,real,https://bsky.app/profile/jh21-00.bsky.social/post/3n2s5dmvmra26,jh21-00.bsky.social,,2026-11-11T23:18:29.481Z,2026-11-21T03:19:12.620Z,"A crypto wallet is not a pocket for coins but a set of keys to the blockchain. Learn how to stay safe and why you should never share your seed phrase with anyone.
+
+#cryptowallet #bitcoinforbeginners
+
+https://alphanewspost.blogspot.com/2026/11/how-crypto-wallet-works-for-new-users.html","[""https://alphanewspost.blogspot.com/2026/11/how-crypto-wallet-works-for-new-users.html""]",none,real/none,"Security news, warnings or education.",ai-annotated
+r446,test,real,https://bsky.app/profile/gammapro.bsky.social/post/3n2s5mxdebg2f,gammapro.bsky.social,Muhammad Showib,2026-11-18T08:38:10.943Z,2026-11-21T03:24:25.835Z,Fresh crypto airdrops are arriving late this November. Learn how to test new apps safely and claim free tokens without risking your main wallet funds. #CryptoAirdrop #CryptoNews,"[""https://promptstore.wuaze.com""]",none,real/none,Educational guide/article about airdrops or fees.,ai-annotated
+r340,test,real,https://bsky.app/profile/khacn.bsky.social/post/3n2tellerub2m,khacn.bsky.social,KharYsma Coins (KHACN),2026-11-07T11:46:08.477Z,2026-11-21T15:01:35Z,🔐 Sécurité : la seule adresse officielle est https://startarcoins.com. Aucune « conversion » ni « airdrop » ne vous demandera votre phrase de récupération. 🇬🇧 Only official site: startarcoins.com. Never share your seed. #KHACN,"[""https://startarcoins.com.""]",none,real/none,"Project warning: only official site, never share seed phrase.",ai-annotated
+r271,dev,real,https://bsky.app/profile/alexanderkiger.bsky.social/post/3n2uh6fb5px22,alexanderkiger.bsky.social,,2026-11-15T15:56:26.456Z,2026-11-22T01:20:33.201Z,"You can actually collect free crypto coins while driving in Car Simulator 2. Learn where the secret chests hide and how to double your rewards fast.
+
+#carsimulator2 #freecrypto
+
+https://make-money-crypto-update-info.blogspot.com/2026/11/how-to-earn-crypto-in-car-simulator-2_01049753890.html","[""https://make-money-crypto-update-info.blogspot.com/2026/11/how-to-earn-crypto-in-car-simulator-2_01049753890.html""]",none,real/none,Game 'free crypto coins' blog spam; not a crypto giveaway solicitation.,ai-annotated
+r442,test,real,https://bsky.app/profile/damiannightwind.bsky.social/post/3n2uhqfk76s24,damiannightwind.bsky.social,Damian Nightwind,2026-11-20T19:31:41.641Z,2026-11-22T01:30:38.367Z,"The only real thing on the 17th was a routine one-minute FEMA alert test, announced in advance. Ask what a viral claim actually rests on. I weigh claims like this one for 150 tokens, sources named: https://ilands.ai/service/350899876826976256","[""https://ilands.ai/service/350899876826976256""]",none,real/none,Unrelated use of 'tokens'/'seed phrase' (product description).,ai-annotated
+r142,test,real,https://bsky.app/profile/darensdailyai.bsky.social/post/3n2vixbubll27,darensdailyai.bsky.social,Daren’s Daily AI Briefing,2026-11-09T21:32:34.481Z,2026-11-22T11:25:03.081Z,"Coinbase says its AI defences blocked $4.7 million in transfers to a deepfake Elon Musk crypto giveaway, stopping 91 percent of the attempted payments. www.outlookmoney.com/invest/elon-...","[""https://www.outlookmoney.com/invest/elon-musk-deepfake-crypto-scam-how-coinbase-ai-stopped-usd-47-million-in-transfers""]",none,real/none,News/commentary about deepfake Elon 'double your crypto' scams.,ai-annotated
+r007,test,real,https://bsky.app/profile/solanaairdroptop.bsky.social/post/3n2vn3yp72k2j,solanaairdroptop.bsky.social,,2026-11-22T12:26:10.147Z,2026-11-22T12:39:16.261Z,"Explore Solana airdrops, discover rewards, and claim exciting crypto opportunities today!
+
+Registration - sol-drop.icu
+
+#Solana #SolanaAirdrop #Airdrop #CryptoAirdrop #FreeCrypto #Web3 #SolanaEcosystem #CryptoRewards #Blockchain #DeFi","[""https://sol-drop.icu"", ""https://sol-drop.icu""]",unverified-airdrop,real/unverified-airdrop,"'Solana airdrop' account sending users to register at sol-drop.icu (unofficial, cheap TLD). Could be S - discuss.",ai-annotated
+r141,dev,real,https://bsky.app/profile/trendingnewspro.bsky.social/post/3n2vsczujnm2j,trendingnewspro.bsky.social,Trending Crypto,2026-11-12T05:22:18.169Z,2026-11-22T14:12:40.807Z,"Crypto scammers use fake apps and lying giveaway posts to steal your savings. Stay safe by never sharing your seed phrase and double checking every link you click. Speed is a scammers best…
+
+https://trending-news-here.blogspot.com/2026/11/crypto-scams-and-how-to-stay-safe-from_0930285082.html","[""https://trending-news-here.blogspot.com/2026/11/crypto-scams-and-how-to-stay-safe-from_0930285082.html""]",none,real/none,"Security news, warnings or education.",ai-annotated
+r439,test,real,https://bsky.app/profile/austegard.com/post/3n2wbt5aj2227,austegard.com,Oskar 🕊️,2024-11-11T03:12:23.280Z,2026-11-22T18:50:07.614Z,Whichever part of it made them achieve this:,[],none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r329,test,real,https://bsky.app/profile/greatmatrix.bsky.social/post/3n2wc4vlrlu2t,greatmatrix.bsky.social,GlobalMatrix,2026-11-05T12:58:32.274Z,2026-11-22T18:55:34.000Z,"Crypto deleted that button and branded what's left “self-sovereignty.” A fair trade, maybe. But know the asymmetry: attackers don't hunt wallets, they hunt text fields on sites you already trust. Never type a seed phrase where a browser can see it.",[],none,real/none,"Security news, warnings or education.",ai-annotated
+r437,dev,real,https://bsky.app/profile/dthiru001.bsky.social/post/3n2wqojeyic2v,dthiru001.bsky.social,,2026-11-09T01:41:52.379Z,2026-11-22T23:15:58.689Z,itlg.interlinklabs.ai/kyc?ref=9603...,"[""https://itlg.interlinklabs.ai/kyc?ref=9603573567"", ""https://itlg.interlinklabs.ai/kyc?ref=9603573567""]",none,real/none,Bare referral link to a KYC page (interlinklabs); no claim text - low confidence.,ai-annotated
+r053,test,real,https://bsky.app/profile/saroop707.bsky.social/post/3n2y2t55mvc2m,saroop707.bsky.social,,2026-11-20T13:36:38.240Z,2026-11-23T11:50:10.400Z,The Linea airdrop is live. Learn how to bridge your assets and complete ecosystem tasks to qualify for token rewards on this growing Ethereum layer two network. #Linea #Airdrop,[],none,real/none,"Informational posts about real airdrops (Linea, ZKsync, Jupiter); no link or solicitation.",ai-annotated
+r139,test,real,https://bsky.app/profile/criquemam.bsky.social/post/3n2yswjpucc23,criquemam.bsky.social,,2026-11-20T01:13:12.043Z,2026-11-23T19:01:34.428Z,"For anyone tracking Elon Musk's latest Tesla announcements, this is worth a look‍‍‌‌‌
+
+▪️﻿WATCH! ﻿👇﻿
+
+🌐 onemusk.org","[""https://onemusk.org/"", ""https://onemusk.org/""]",none,real/none,Zero-width-character-obfuscated 'WATCH' link to onemusk.org about Musk/Tesla - suspicious (likely deepfake funnel) but no giveaway visible; discuss.,ai-annotated
+r005,dev,real,https://bsky.app/profile/solgraveyard99.bsky.social/post/3n2znnvlky62p,solgraveyard99.bsky.social,SGNL · Free Crypto Alerts,2026-09-02T22:20:00.596Z,2026-11-24T02:59:55.874Z,"⛽🟢 Low gas right now
+Fast: 0.127363396 gwei  ·  Safe: 0.115784906 gwei
+
+A cheaper time for routine transactions you already planned, for example revoking old token approvals.
+Never claim an ""airdrop"" from a link someone sends you.
+
+Not financial advice.
+→ t.me/sgnl_free","[""https://t.me/sgnl_free""]",none,real/none,Gas-price bot with an airdrop warning.,ai-annotated
+r422,test,real,https://bsky.app/profile/spaisee.bsky.social/post/3n33dwghfs222,spaisee.bsky.social,spaisee.bsky.social,2026-08-27T05:40:49.863Z,2026-11-24T19:11:03.991Z,"Mistral says Large 4 matches GLM-5.3 while using 47% fewer tokens per task. That could cut workflow and API costs, but independent evaluations have yet to confirm the claim. #AI #Cybersecurity…","[""https://spaisee.com/article/mistral-s-open-large-4-turns-ai-deployment-into-a-security-control-fig?utm_source=bluesky&utm_medium=social""]",none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r352,test,real,https://bsky.app/profile/lurkingjudgement.bsky.social/post/3n33f7hdrbs2y,lurkingjudgement.bsky.social,Lurking Judgement🔞Color Comms OPEN! (0/5),2024-12-05T06:01:07.745Z,2026-11-24T19:34:00.761Z,This whole experience has been educational.,[],none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r420,dev,real,https://bsky.app/profile/noinktechnique.bsky.social/post/3n33oifkf2c2f,noinktechnique.bsky.social,Residual Self-Image [COMMS OPEN],2023-08-11T17:02:43.532Z,2026-11-24T22:20:04.551Z,"Data centers provide compute, compute is abstracted into currency through tokens, and frontier models are famously token expensive to run.
+
+Every claim of uncontrollable ""ai"" pretends that there is access to tokens that cannot be limited.
+
+There is no evidence this has ever been the case.",[],none,real/none,Unrelated or ordinary crypto/tech content.,ai-annotated
+r316,test,real,https://bsky.app/profile/imahyperian.bsky.social/post/3n35rn6rty22n,imahyperian.bsky.social,Christopher Lee Warner,2026-10-23T07:59:24.042Z,2026-11-25T18:21:45.945Z,"🕐 Wed Nov 25, 2026 · 10:12 AM PT
+🚨 SPOT THE SCAM — Day 25
+“Recovery Desk DM: Account frozen! Send your seed phrase + password to coin-recovery-desk.example in 30 mins to unlock it!”
+How many red flags can you find? Answer drops tomorrow. 🔍
+#SpotTheScam #Crypto #ScamAlert #RecoveryScam",[],none,real/none,'Spot the scam' educational series quoting scam text.,ai-annotated
+r315,test,real,https://bsky.app/profile/analytickit.bsky.social/post/3n35wmformk2e,analytickit.bsky.social,Analytickit,2024-02-09T18:25:15.560Z,2026-11-25T19:50:48.339Z,"South Korea's Bithumb says its trading systems were not breached, but stolen customer records are already fueling phishing. When the data leaks, the wallet is half the risk. I treat any exchange record breach as a forced seed phrase and 2FA reset. #Crypto #Security #Bithumb",[],none,real/none,"Security news, warnings or education.",ai-annotated
+r314,dev,real,https://bsky.app/profile/blockzero.bsky.social/post/3n35xnandaq23,blockzero.bsky.social,Block Zero 🇨🇭,2026-06-22T09:49:43.959Z,2026-11-25T20:09:09.000Z,"Store your seed phrase on paper in a safe place, never on a device connected to the internet. Double‑check website URLs and SSL certificates before entering any BLOZ credentials.",[],none,real/none,"Security news, warnings or education.",ai-annotated
+r051,test,real,https://bsky.app/profile/mfultd.bsky.social/post/3n3673xz2d62j,mfultd.bsky.social,BBQ Genius,2025-01-02T00:49:01.443Z,2026-11-25T22:22:47.586527+00:00,🪂 Live ЕТH Airdrop: Airdroр еligiвiliту снеск live. 🪂 Airdrоp sеasoп is нerе.,[],unverified-airdrop,real/unverified-airdrop,'ETH airdrop eligibility check live' written with Cyrillic homoglyphs - deliberate filter evasion; no visible link (could be S - discuss).,ai-annotated
+r418,test,real,https://bsky.app/profile/saroop707.bsky.social/post/3n36p7iej5a2b,saroop707.bsky.social,,2026-11-20T13:36:38.240Z,2026-11-26T03:10:58.409Z,The ZKsync network has opened its massive token claim for early users. Thousands of eligible wallets are claiming millions of rewards on the blockchain right now. #Crypto #ZKsync,[],none,real/none,"Informational posts about real airdrops (Linea, ZKsync, Jupiter); no link or solicitation.",ai-annotated
+r311,test,real,https://bsky.app/profile/dikobay.bsky.social/post/3n36wawltub2g,dikobay.bsky.social,Dikobay,2026-11-25T12:15:59.546Z,2026-11-26T05:17:02.726220Z,"I build crypto you can check instead of trust.
+
+All mine, all live:
+Zenland: escrow, no middleman
+NYKNYC: wallet, no seed phrase required
+CreateDAO: a DAO in one transaction
+OpenBook: public DAO books
+
+Here: how they work, what broke, and the on-chain receipts.",[],none,real/none,Unrelated use of 'tokens'/'seed phrase' (product description).,ai-annotated
+r001,dev,real,https://bsky.app/profile/saroop707.bsky.social/post/3n37jq3l7262b,saroop707.bsky.social,,2026-11-20T13:36:38.240Z,2026-11-26T11:05:32.416Z,Jupiter is distributing tokens to Solana users. Eligible traders can now check their status to claim rewards from this massive community airdrop event. #Solana #Airdrop,[],none,real/none,"Informational posts about real airdrops (Linea, ZKsync, Jupiter); no link or solicitation.",ai-annotated
+r307,test,real,https://bsky.app/profile/khacn.bsky.social/post/3n37wygtghn2k,khacn.bsky.social,KharYsma Coins (KHACN),2026-11-07T11:46:08.477Z,2026-11-26T15:02:51Z,"La seule adresse officielle, c'est startarcoins.com.
+Aucune « conversion » ni « airdrop » ne te demandera ta phrase de récupération. Méfie-toi des copies de KHACN.
+
+🇬🇧 Only official site: startarcoins.com. No 'airdrop' or 'conversion' will ever ask for your seed phrase. Beware KHACN copies.
+
+#KHACN ",[],none,real/none,"Project warning: only official site, never share seed phrase.",ai-annotated

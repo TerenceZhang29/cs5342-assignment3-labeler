@@ -1,0 +1,10 @@
+.env
+*.pyc
+*dictionary*.txt
+.DS_Store
+.vscode
+__pycache__/
+.pytest_cache/
+.venv/
+/review_queue.jsonl
+candidates.csv

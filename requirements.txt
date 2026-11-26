@@ -1,0 +1,5 @@
+atproto>=0.0.55
+python-dotenv>=1.0
+pandas>=2.0
+requests>=2.31
+pytest>=8.0
