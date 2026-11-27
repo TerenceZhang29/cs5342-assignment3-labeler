@@ -1,0 +1,1163 @@
+{
+ "composition": {
+  "real|dev": {
+   "crypto-scam": 6,
+   "none": 38,
+   "unverified-airdrop": 13
+  },
+  "real|test": {
+   "crypto-scam": 10,
+   "none": 75,
+   "unverified-airdrop": 26
+  },
+  "synthetic|dev": {
+   "crypto-scam": 16,
+   "none": 31,
+   "unverified-airdrop": 12
+  },
+  "synthetic|test": {
+   "crypto-scam": 30,
+   "none": 61,
+   "unverified-airdrop": 22
+  }
+ },
+ "synthetic_categories": {
+  "none/airdrop-discussion": 12,
+  "none/ambiguous-terms": 12,
+  "none/crypto-talk": 12,
+  "none/disclosed-promo": 2,
+  "none/hard-negative": 4,
+  "none/legit-airdrop": 6,
+  "none/links": 6,
+  "none/new-account": 4,
+  "none/non-crypto-giveaway": 10,
+  "none/satire": 5,
+  "none/victim-question": 4,
+  "none/warning": 15,
+  "review/claim-no-link": 1,
+  "review/connect-urgency": 13,
+  "review/coordinated": 5,
+  "review/dm-claim": 1,
+  "review/evasion-leet": 1,
+  "review/giveaway-link": 2,
+  "review/high-return": 1,
+  "review/new-account-giveaway": 2,
+  "review/shortener": 2,
+  "review/telegram": 1,
+  "review/unofficial-claim": 4,
+  "review/wallet-farming": 1,
+  "scam/blocklisted-domain": 5,
+  "scam/credential": 7,
+  "scam/evasion-homoglyph": 2,
+  "scam/evasion-leet": 1,
+  "scam/evasion-obfuscated-link": 1,
+  "scam/evasion-paraphrase": 2,
+  "scam/evasion-spacing": 1,
+  "scam/image-only": 1,
+  "scam/impersonation": 7,
+  "scam/lookalike-domain": 4,
+  "scam/send-to-receive": 8,
+  "scam/upfront-fee": 7
+ },
+ "n_candidates": 584,
+ "slices": {
+  "synthetic_dev": {
+   "n": 59,
+   "full": {
+    "accuracy": 0.9661016949152542,
+    "macro_f1": 0.9591534391534392,
+    "scam_p": 1.0,
+    "scam_r": 0.875,
+    "review_p": 0.9230769230769231,
+    "review_r": 1.0,
+    "flag_p": 1.0,
+    "flag_r": 0.9642857142857143,
+    "flag_f1": 0.9818181818181818
+   },
+   "baseline": {
+    "accuracy": 0.5084745762711864,
+    "macro_f1": 0.37116858237547895,
+    "scam_p": 0.34375,
+    "scam_r": 0.6875,
+    "review_p": 0.0,
+    "review_r": 0.0,
+    "flag_p": 0.625,
+    "flag_r": 0.7142857142857143,
+    "flag_f1": 0.6666666666666666
+   },
+   "ablations": {
+    "text only": {
+     "accuracy": 0.7627118644067796,
+     "macro_f1": 0.7172054998141955,
+     "scam_p": 0.8,
+     "scam_r": 0.5,
+     "review_p": 0.7272727272727273,
+     "review_r": 0.6666666666666666,
+     "flag_p": 0.9047619047619048,
+     "flag_r": 0.6785714285714286,
+     "flag_f1": 0.7755102040816326
+    },
+    "text + counter": {
+     "accuracy": 0.7966101694915254,
+     "macro_f1": 0.7451860923998095,
+     "scam_p": 1.0,
+     "scam_r": 0.5,
+     "review_p": 0.7272727272727273,
+     "review_r": 0.6666666666666666,
+     "flag_p": 1.0,
+     "flag_r": 0.6785714285714286,
+     "flag_f1": 0.8085106382978724
+    },
+    "text + counter + link": {
+     "accuracy": 0.9322033898305084,
+     "macro_f1": 0.9151005747126436,
+     "scam_p": 1.0,
+     "scam_r": 0.8125,
+     "review_p": 0.8461538461538461,
+     "review_r": 0.9166666666666666,
+     "flag_p": 1.0,
+     "flag_r": 0.9285714285714286,
+     "flag_f1": 0.962962962962963
+    },
+    "+ account": {
+     "accuracy": 0.9661016949152542,
+     "macro_f1": 0.9591534391534392,
+     "scam_p": 1.0,
+     "scam_r": 0.875,
+     "review_p": 0.9230769230769231,
+     "review_r": 1.0,
+     "flag_p": 1.0,
+     "flag_r": 0.9642857142857143,
+     "flag_f1": 0.9818181818181818
+    },
+    "full (+ behavior)": {
+     "accuracy": 0.9661016949152542,
+     "macro_f1": 0.9591534391534392,
+     "scam_p": 1.0,
+     "scam_r": 0.875,
+     "review_p": 0.9230769230769231,
+     "review_r": 1.0,
+     "flag_p": 1.0,
+     "flag_r": 0.9642857142857143,
+     "flag_f1": 0.9818181818181818
+    }
+   },
+   "confusion": {
+    "crypto-scam": {
+     "crypto-scam": 14,
+     "unverified-airdrop": 1,
+     "none": 1
+    },
+    "unverified-airdrop": {
+     "crypto-scam": 0,
+     "unverified-airdrop": 12,
+     "none": 0
+    },
+    "none": {
+     "crypto-scam": 0,
+     "unverified-airdrop": 0,
+     "none": 31
+    }
+   }
+  },
+  "synthetic_test": {
+   "n": 113,
+   "full": {
+    "accuracy": 0.9380530973451328,
+    "macro_f1": 0.9359436907438984,
+    "scam_p": 1.0,
+    "scam_r": 0.8666666666666667,
+    "review_p": 0.88,
+    "review_r": 1.0,
+    "flag_p": 0.9411764705882353,
+    "flag_r": 0.9230769230769231,
+    "flag_f1": 0.9320388349514563
+   },
+   "baseline": {
+    "accuracy": 0.5132743362831859,
+    "macro_f1": 0.37213523939187654,
+    "scam_p": 0.3442622950819672,
+    "scam_r": 0.7,
+    "review_p": 0.0,
+    "review_r": 0.0,
+    "flag_p": 0.6065573770491803,
+    "flag_r": 0.7115384615384616,
+    "flag_f1": 0.654867256637168
+   },
+   "ablations": {
+    "text only": {
+     "accuracy": 0.7345132743362832,
+     "macro_f1": 0.6997821350762526,
+     "scam_p": 0.7142857142857143,
+     "scam_r": 0.5,
+     "review_p": 0.6956521739130435,
+     "review_r": 0.7272727272727273,
+     "flag_p": 0.7954545454545454,
+     "flag_r": 0.6730769230769231,
+     "flag_f1": 0.7291666666666666
+    },
+    "text + counter": {
+     "accuracy": 0.7876106194690266,
+     "macro_f1": 0.7435729847494553,
+     "scam_p": 1.0,
+     "scam_r": 0.5,
+     "review_p": 0.6956521739130435,
+     "review_r": 0.7272727272727273,
+     "flag_p": 0.9210526315789473,
+     "flag_r": 0.6730769230769231,
+     "flag_f1": 0.7777777777777778
+    },
+    "text + counter + link": {
+     "accuracy": 0.8938053097345132,
+     "macro_f1": 0.87641928721174,
+     "scam_p": 1.0,
+     "scam_r": 0.7666666666666667,
+     "review_p": 0.7692307692307693,
+     "review_r": 0.9090909090909091,
+     "flag_p": 0.9387755102040817,
+     "flag_r": 0.8846153846153846,
+     "flag_f1": 0.9108910891089108
+    },
+    "+ account": {
+     "accuracy": 0.9380530973451328,
+     "macro_f1": 0.9359436907438984,
+     "scam_p": 1.0,
+     "scam_r": 0.8666666666666667,
+     "review_p": 0.88,
+     "review_r": 1.0,
+     "flag_p": 0.9411764705882353,
+     "flag_r": 0.9230769230769231,
+     "flag_f1": 0.9320388349514563
+    },
+    "full (+ behavior)": {
+     "accuracy": 0.9380530973451328,
+     "macro_f1": 0.9359436907438984,
+     "scam_p": 1.0,
+     "scam_r": 0.8666666666666667,
+     "review_p": 0.88,
+     "review_r": 1.0,
+     "flag_p": 0.9411764705882353,
+     "flag_r": 0.9230769230769231,
+     "flag_f1": 0.9320388349514563
+    }
+   },
+   "confusion": {
+    "crypto-scam": {
+     "crypto-scam": 26,
+     "unverified-airdrop": 0,
+     "none": 4
+    },
+    "unverified-airdrop": {
+     "crypto-scam": 0,
+     "unverified-airdrop": 22,
+     "none": 0
+    },
+    "none": {
+     "crypto-scam": 0,
+     "unverified-airdrop": 3,
+     "none": 58
+    }
+   }
+  },
+  "real_dev": {
+   "n": 57,
+   "full": {
+    "accuracy": 0.8245614035087719,
+    "macro_f1": 0.8359073359073359,
+    "scam_p": 1.0,
+    "scam_r": 1.0,
+    "review_p": 0.6,
+    "review_r": 0.6923076923076923,
+    "flag_p": 0.7142857142857143,
+    "flag_r": 0.7894736842105263,
+    "flag_f1": 0.7500000000000001
+   },
+   "baseline": {
+    "accuracy": 0.3684210526315789,
+    "macro_f1": 0.2702915681639086,
+    "scam_p": 0.14634146341463414,
+    "scam_r": 1.0,
+    "review_p": 0.0,
+    "review_r": 0.0,
+    "flag_p": 0.43902439024390244,
+    "flag_r": 0.9473684210526315,
+    "flag_f1": 0.6
+   },
+   "ablations": {
+    "text only": {
+     "accuracy": 0.5964912280701754,
+     "macro_f1": 0.4033570178148491,
+     "scam_p": 0.14285714285714285,
+     "scam_r": 0.16666666666666666,
+     "review_p": 0.6,
+     "review_r": 0.23076923076923078,
+     "flag_p": 0.3333333333333333,
+     "flag_r": 0.21052631578947367,
+     "flag_f1": 0.2580645161290323
+    },
+    "text + counter": {
+     "accuracy": 0.7192982456140351,
+     "macro_f1": 0.48695922813569875,
+     "scam_p": 1.0,
+     "scam_r": 0.16666666666666666,
+     "review_p": 0.75,
+     "review_r": 0.23076923076923078,
+     "flag_p": 0.8,
+     "flag_r": 0.21052631578947367,
+     "flag_f1": 0.3333333333333333
+    },
+    "text + counter + link": {
+     "accuracy": 0.8245614035087719,
+     "macro_f1": 0.8359073359073359,
+     "scam_p": 1.0,
+     "scam_r": 1.0,
+     "review_p": 0.6,
+     "review_r": 0.6923076923076923,
+     "flag_p": 0.7142857142857143,
+     "flag_r": 0.7894736842105263,
+     "flag_f1": 0.7500000000000001
+    },
+    "+ account": {
+     "accuracy": 0.8245614035087719,
+     "macro_f1": 0.8359073359073359,
+     "scam_p": 1.0,
+     "scam_r": 1.0,
+     "review_p": 0.6,
+     "review_r": 0.6923076923076923,
+     "flag_p": 0.7142857142857143,
+     "flag_r": 0.7894736842105263,
+     "flag_f1": 0.7500000000000001
+    },
+    "full (+ behavior)": {
+     "accuracy": 0.8245614035087719,
+     "macro_f1": 0.8359073359073359,
+     "scam_p": 1.0,
+     "scam_r": 1.0,
+     "review_p": 0.6,
+     "review_r": 0.6923076923076923,
+     "flag_p": 0.7142857142857143,
+     "flag_r": 0.7894736842105263,
+     "flag_f1": 0.7500000000000001
+    }
+   },
+   "confusion": {
+    "crypto-scam": {
+     "crypto-scam": 6,
+     "unverified-airdrop": 0,
+     "none": 0
+    },
+    "unverified-airdrop": {
+     "crypto-scam": 0,
+     "unverified-airdrop": 9,
+     "none": 4
+    },
+    "none": {
+     "crypto-scam": 0,
+     "unverified-airdrop": 6,
+     "none": 32
+    }
+   }
+  },
+  "real_test": {
+   "n": 111,
+   "full": {
+    "accuracy": 0.7207207207207207,
+    "macro_f1": 0.7524511933727263,
+    "scam_p": 0.9090909090909091,
+    "scam_r": 1.0,
+    "review_p": 0.4473684210526316,
+    "review_r": 0.6538461538461539,
+    "flag_p": 0.5510204081632653,
+    "flag_r": 0.75,
+    "flag_f1": 0.6352941176470588
+   },
+   "baseline": {
+    "accuracy": 0.32432432432432434,
+    "macro_f1": 0.23833943833943833,
+    "scam_p": 0.12345679012345678,
+    "scam_r": 1.0,
+    "review_p": 0.0,
+    "review_r": 0.0,
+    "flag_p": 0.3950617283950617,
+    "flag_r": 0.8888888888888888,
+    "flag_f1": 0.547008547008547
+   },
+   "ablations": {
+    "text only": {
+     "accuracy": 0.6396396396396397,
+     "macro_f1": 0.40063416710123295,
+     "scam_p": 0.125,
+     "scam_r": 0.1,
+     "review_p": 0.5454545454545454,
+     "review_r": 0.23076923076923078,
+     "flag_p": 0.42105263157894735,
+     "flag_r": 0.2222222222222222,
+     "flag_f1": 0.2909090909090909
+    },
+    "text + counter": {
+     "accuracy": 0.7117117117117117,
+     "macro_f1": 0.44412698412698415,
+     "scam_p": 0.5,
+     "scam_r": 0.1,
+     "review_p": 0.6666666666666666,
+     "review_r": 0.23076923076923078,
+     "flag_p": 0.7272727272727273,
+     "flag_r": 0.2222222222222222,
+     "flag_f1": 0.3404255319148936
+    },
+    "text + counter + link": {
+     "accuracy": 0.7387387387387387,
+     "macro_f1": 0.7640449852099886,
+     "scam_p": 0.9090909090909091,
+     "scam_r": 1.0,
+     "review_p": 0.4722222222222222,
+     "review_r": 0.6538461538461539,
+     "flag_p": 0.574468085106383,
+     "flag_r": 0.75,
+     "flag_f1": 0.6506024096385542
+    },
+    "+ account": {
+     "accuracy": 0.7207207207207207,
+     "macro_f1": 0.7524511933727263,
+     "scam_p": 0.9090909090909091,
+     "scam_r": 1.0,
+     "review_p": 0.4473684210526316,
+     "review_r": 0.6538461538461539,
+     "flag_p": 0.5510204081632653,
+     "flag_r": 0.75,
+     "flag_f1": 0.6352941176470588
+    },
+    "full (+ behavior)": {
+     "accuracy": 0.7207207207207207,
+     "macro_f1": 0.7524511933727263,
+     "scam_p": 0.9090909090909091,
+     "scam_r": 1.0,
+     "review_p": 0.4473684210526316,
+     "review_r": 0.6538461538461539,
+     "flag_p": 0.5510204081632653,
+     "flag_r": 0.75,
+     "flag_f1": 0.6352941176470588
+    }
+   },
+   "confusion": {
+    "crypto-scam": {
+     "crypto-scam": 10,
+     "unverified-airdrop": 0,
+     "none": 0
+    },
+    "unverified-airdrop": {
+     "crypto-scam": 0,
+     "unverified-airdrop": 17,
+     "none": 9
+    },
+    "none": {
+     "crypto-scam": 1,
+     "unverified-airdrop": 21,
+     "none": 53
+    }
+   }
+  }
+ },
+ "real_test_excl_kalshi": {
+  "n": 103,
+  "accuracy": 0.6990291262135923,
+  "macro_f1": 0.7016575425790754,
+  "scam_p": 0.6666666666666666,
+  "scam_r": 1.0,
+  "review_p": 0.4473684210526316,
+  "review_r": 0.6538461538461539,
+  "flag_p": 0.4634146341463415,
+  "flag_r": 0.6785714285714286,
+  "flag_f1": 0.5507246376811594
+ },
+ "kalshi_posts": 13,
+ "sweep": {
+  "synthetic": {
+   "1.5": {
+    "accuracy": 0.9491525423728814,
+    "macro_f1": 0.9413840639647091,
+    "scam_p": 1.0,
+    "scam_r": 0.875,
+    "review_p": 0.8571428571428571,
+    "review_r": 1.0,
+    "flag_p": 0.9642857142857143,
+    "flag_r": 0.9642857142857143,
+    "flag_f1": 0.9642857142857143
+   },
+   "2.0": {
+    "accuracy": 0.9661016949152542,
+    "macro_f1": 0.9591534391534392,
+    "scam_p": 1.0,
+    "scam_r": 0.875,
+    "review_p": 0.9230769230769231,
+    "review_r": 1.0,
+    "flag_p": 1.0,
+    "flag_r": 0.9642857142857143,
+    "flag_f1": 0.9818181818181818
+   },
+   "2.5": {
+    "accuracy": 0.9491525423728814,
+    "macro_f1": 0.9395833333333333,
+    "scam_p": 1.0,
+    "scam_r": 0.875,
+    "review_p": 0.9166666666666666,
+    "review_r": 0.9166666666666666,
+    "flag_p": 1.0,
+    "flag_r": 0.9285714285714286,
+    "flag_f1": 0.962962962962963
+   },
+   "3.0": {
+    "accuracy": 0.8813559322033898,
+    "macro_f1": 0.8483660130718955,
+    "scam_p": 1.0,
+    "scam_r": 0.875,
+    "review_p": 0.875,
+    "review_r": 0.5833333333333334,
+    "flag_p": 1.0,
+    "flag_r": 0.7857142857142857,
+    "flag_f1": 0.88
+   },
+   "3.5": {
+    "accuracy": 0.8813559322033898,
+    "macro_f1": 0.8483660130718955,
+    "scam_p": 1.0,
+    "scam_r": 0.875,
+    "review_p": 0.875,
+    "review_r": 0.5833333333333334,
+    "flag_p": 1.0,
+    "flag_r": 0.7857142857142857,
+    "flag_f1": 0.88
+   }
+  },
+  "real": {
+   "1.5": {
+    "accuracy": 0.7543859649122807,
+    "macro_f1": 0.7875,
+    "scam_p": 1.0,
+    "scam_r": 1.0,
+    "review_p": 0.47368421052631576,
+    "review_r": 0.6923076923076923,
+    "flag_p": 0.6,
+    "flag_r": 0.7894736842105263,
+    "flag_f1": 0.6818181818181819
+   },
+   "2.0": {
+    "accuracy": 0.8245614035087719,
+    "macro_f1": 0.8359073359073359,
+    "scam_p": 1.0,
+    "scam_r": 1.0,
+    "review_p": 0.6,
+    "review_r": 0.6923076923076923,
+    "flag_p": 0.7142857142857143,
+    "flag_r": 0.7894736842105263,
+    "flag_f1": 0.7500000000000001
+   },
+   "2.5": {
+    "accuracy": 0.7894736842105263,
+    "macro_f1": 0.7935222672064777,
+    "scam_p": 1.0,
+    "scam_r": 1.0,
+    "review_p": 0.5384615384615384,
+    "review_r": 0.5384615384615384,
+    "flag_p": 0.6842105263157895,
+    "flag_r": 0.6842105263157895,
+    "flag_f1": 0.6842105263157895
+   },
+   "3.0": {
+    "accuracy": 0.8070175438596491,
+    "macro_f1": 0.7411764705882353,
+    "scam_p": 1.0,
+    "scam_r": 1.0,
+    "review_p": 0.75,
+    "review_r": 0.23076923076923078,
+    "flag_p": 0.9,
+    "flag_r": 0.47368421052631576,
+    "flag_f1": 0.6206896551724138
+   },
+   "3.5": {
+    "accuracy": 0.8070175438596491,
+    "macro_f1": 0.7411764705882353,
+    "scam_p": 1.0,
+    "scam_r": 1.0,
+    "review_p": 0.75,
+    "review_r": 0.23076923076923078,
+    "flag_p": 0.9,
+    "flag_r": 0.47368421052631576,
+    "flag_f1": 0.6206896551724138
+   }
+  }
+ },
+ "latency_ms": {
+  "mean": 0.7984491405830554,
+  "median": 0.6452294765040278,
+  "p95": 1.7081249970942736,
+  "max": 3.64137499127537
+ },
+ "stats": {
+  "load_seconds": 0.3015,
+  "load_peak_bytes": 20025936,
+  "run_peak_bytes": 12418165,
+  "network_calls": 0,
+  "behavior_blocklist": [
+   "eth-drop.claims/go"
+  ]
+ },
+ "prefilter_dropped": 60,
+ "test_errors": [
+  {
+   "id": "r195",
+   "source": "real",
+   "gold": "unverified-airdrop",
+   "pred": "none",
+   "score": 1.0,
+   "text": "Little Pepe Mega Giveaway wn.nr/SmHhUZd",
+   "reasons": "unverified_airdrop_link (\"wn.nr\")"
+  },
+  {
+   "id": "r194",
+   "source": "real",
+   "gold": "unverified-airdrop",
+   "pred": "none",
+   "score": 1.0,
+   "text": "Little Pepe Mega Giveaway wn.nr/SmHhUZd",
+   "reasons": "unverified_airdrop_link (\"wn.nr\")"
+  },
+  {
+   "id": "r188",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 2.5,
+   "text": "airdrop, free mint, giveaway, $SOL, $ETH, $BTC, pump, moonshot, 100x, gem, presale, whitelist, WL spot, alpha leak, NFT drop, rugpull, shill, DYOR, HO",
+   "reasons": "giveaway_offer (\"airdrop, free mint, giveaway, $sol\") | unverified_airdrop_link (\"x.com\")"
+  },
+  {
+   "id": "r538",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 2.5,
+   "text": "BTCC partners with Argentine Football Association (AFA) for \"Legends\" campaign, uniting digital finance & sports. Celebrating BTCC's 15th anniversary ",
+   "reasons": "giveaway_offer (\"giveaway! ⚽️ 💰 #btcc #afa #crypto\") | unverified_airdrop_link (\"cryptovka.com\")"
+  },
+  {
+   "id": "r499",
+   "source": "real",
+   "gold": "unverified-airdrop",
+   "pred": "none",
+   "score": -2.0,
+   "text": "Airdrop Link: Tinyurl.com/bd9m86mj Beware of scams & phishing attempts. Always DYOR. Airdrops & crypto mining apps are usually free, if you are asked ",
+   "reasons": "scam_warning (\"beware\") | shortened_link (\"tinyurl.com\") | unverified_airdrop_link (\"tinyurl.com\")"
+  },
+  {
+   "id": "r526",
+   "source": "real",
+   "gold": "unverified-airdrop",
+   "pred": "none",
+   "score": 1.0,
+   "text": "AiMASH Exclusive Airdrop Campaign wn.nr/PErPQRc",
+   "reasons": "unverified_airdrop_link (\"wn.nr\")"
+  },
+  {
+   "id": "r177",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 3.5,
+   "text": "$100 Sol giveaway   🔸 Follow me  🔸 Like & RT this post  🔸Tag 2 friends  #BTC #Sol #BNB #ETH #ADA #Dot #XRP #TRX #ARB #RobinHoodChain #PulseChain #Sui ",
+   "reasons": "giveaway_offer (\"$100 sol giveaway\") | impersonation_handle (\"@binancearmy.bsky.social ~ Binance\")"
+  },
+  {
+   "id": "r505",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 2.5,
+   "text": "Check gas fees on crypto airdrops. Focuses on checking gas fees when claiming airdrops without deposit verification.  https://wakeuptocrypto.com/guide",
+   "reasons": "giveaway_offer (\"claiming airdrops\") | unverified_airdrop_link (\"wakeuptocrypto.com\")"
+  },
+  {
+   "id": "r519",
+   "source": "real",
+   "gold": "unverified-airdrop",
+   "pred": "none",
+   "score": 1.0,
+   "text": "AiMASH Exclusive Airdrop Campaign wn.nr/MnBRwZh",
+   "reasons": "unverified_airdrop_link (\"wn.nr\")"
+  },
+  {
+   "id": "r213",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 2.5,
+   "text": "Spin-and-win game winners get BTC. You can join the fun at thrill.com with code YOURMOM for a chance to win big. #giveaway #crypto",
+   "reasons": "giveaway_offer (\"win game winners get btc\") | unverified_airdrop_link (\"thrill.com\")"
+  },
+  {
+   "id": "r578",
+   "source": "real",
+   "gold": "unverified-airdrop",
+   "pred": "none",
+   "score": 0.0,
+   "text": "Yakkamon — новый Free Mint на Ronin! Попади в экосистему от создателей Sunflower Land. Всего 10k NFT, низкий порог входа и огромный потенциал Idle RPG",
+   "reasons": ""
+  },
+  {
+   "id": "r210",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 2.5,
+   "text": "Place.bet is a crypto-focused online gaming and casino platform. The pre-launch platform at play.place.bet lets users play for free, collect points, c",
+   "reasons": "giveaway_offer (\"1 btc giveaway\") | unverified_airdrop_link (\"place.bet\")"
+  },
+  {
+   "id": "p005",
+   "source": "synthetic",
+   "gold": "crypto-scam",
+   "pred": "none",
+   "score": 1.5,
+   "text": "Send any amount of SOL to 7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU and receive 3x back. Not a scam, 100% legit!!",
+   "reasons": "legitimacy_assurance (\"not a scam\")"
+  },
+  {
+   "id": "p008",
+   "source": "synthetic",
+   "gold": "crypto-scam",
+   "pred": "none",
+   "score": 0.0,
+   "text": "Congrats, your wallet was selected! Send 0.05 ETH for gas and we'll send your 2 ETH prize right after.",
+   "reasons": ""
+  },
+  {
+   "id": "p009",
+   "source": "synthetic",
+   "gold": "crypto-scam",
+   "pred": "none",
+   "score": 0.0,
+   "text": "Got extra ETH sitting around? I'll flip it for you. You send 1, I send 2. Simple as that.",
+   "reasons": ""
+  },
+  {
+   "id": "p045",
+   "source": "synthetic",
+   "gold": "crypto-scam",
+   "pred": "none",
+   "score": 1.5,
+   "text": "🎁 see image for details 👇 #airdrop #eth #giveaway",
+   "reasons": "giveaway_offer (\"airdrop #eth\")"
+  },
+  {
+   "id": "p122",
+   "source": "synthetic",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 2.0,
+   "text": "Tote bag giveaway! Free shipping for the first 100 orders too. Link in bio.",
+   "reasons": "claim_cta (\"link in bio\") | urgency (\"first 100\")"
+  },
+  {
+   "id": "p127",
+   "source": "synthetic",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 2.0,
+   "text": "Loyalty card update: collect 10 stamps, claim your free latte. Limited time double-stamp days!",
+   "reasons": "claim_cta (\"claim your\") | urgency (\"limited time\")"
+  },
+  {
+   "id": "p170",
+   "source": "synthetic",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 5.0,
+   "text": "Moderation note: posts asking you to 'connect your wallet to claim free tokens before midnight' are being reviewed. Don't engage.",
+   "reasons": "giveaway_offer (\"claim free tokens\") | claim_cta (\"claim free\") | connect_wallet (\"connect your wallet\") | urgency (\"before midnight\")"
+  },
+  {
+   "id": "r398",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 6.0,
+   "text": "1. Go to → qms.finance/news/welcome...  2. Add QMS Testnet to your wallet  3. Claim free test tokens from the faucet  4. Open → testnet.qwap.xyz  5. S",
+   "reasons": "giveaway_offer (\"claim free test tokens\") | claim_cta (\"claim free\") | suspicious_tld (\"testnet.qwap.xyz\") | unverified_airdrop_link (\"qms.finance\") | very_new_account (\"0.0 days old\")"
+  },
+  {
+   "id": "r086",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 2.5,
+   "text": "Dola AI Presale Launch: Airdrop Claims and October 2026 Listing Plans   Dola AI Presale is live today with a 750K airdrop on BNB Chain. See the claim ",
+   "reasons": "giveaway_offer (\"750k airdrop\") | unverified_airdrop_link (\"mwww.coingabbar.com\")"
+  },
+  {
+   "id": "r512",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 2.5,
+   "text": "Sell your TF2 items in minutes.  🔑 Sign in through Steam and see what we pay for every item 🤝 Accept one trade offer from our bot 💰 Get paid in keys o",
+   "reasons": "giveaway_offer (\"get paid in keys or crypto\") | unverified_airdrop_link (\"tf2.gg\")"
+  },
+  {
+   "id": "r127",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 2.5,
+   "text": "✅ CALL CLOSED AND GRADED A*************'s $**** 5 day call just closed out and they got a +8.4% gain! Graded on StockHyper.io.  Add any stock to the p",
+   "reasons": "giveaway_offer (\"airdrop tokens\") | unverified_airdrop_link (\"stockhyper.io\")"
+  },
+  {
+   "id": "r126",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 2.5,
+   "text": "⚡ Your meme deserves better than staying in a folder. Make it a Solana token with Solsmint. 0.05 SOL creation Free Mint, Burn, Airdrop and NFT creatio",
+   "reasons": "giveaway_offer (\"free mint, burn, airdrop\") | unverified_airdrop_link (\"solsmint.com\")"
+  },
+  {
+   "id": "r124",
+   "source": "real",
+   "gold": "unverified-airdrop",
+   "pred": "none",
+   "score": 0.0,
+   "text": "🔥 $GIDO CHAIN IS GETTING MORE INTERESTING! 🔥  ⛏️ FREE MINING 💎 21M Total Supply — reported  🤝 50 GIDO for each active referral 📊 Track your mining pro",
+   "reasons": ""
+  },
+  {
+   "id": "r123",
+   "source": "real",
+   "gold": "unverified-airdrop",
+   "pred": "none",
+   "score": 0.0,
+   "text": "$GIDO CHAIN IS GETTING MORE INTERESTING! 🔥  ⛏️ FREE MINING 💎 21M Total Supply — reported  🤝 50 GIDO for each active referral 📊 Track your mining progr",
+   "reasons": ""
+  },
+  {
+   "id": "r392",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 2.5,
+   "text": "Prime handles are strictly first-come, first-served. Once minted, nobody else can ever take it.  How to claim: 1. Visit unbanker.com/ens 2. Connect wa",
+   "reasons": "connect_wallet (\"connect wallet\") | unverified_airdrop_link (\"unbanker.com\")"
+  },
+  {
+   "id": "r029",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 2.5,
+   "text": "⛽🟢 Low gas right now Fast: 0.077131487 gwei  ·  Safe: 0.070119534 gwei  A cheaper time for routine transactions you already planned, for example revok",
+   "reasons": "giveaway_offer (\"claim an \"airdrop\") | unverified_airdrop_link (\"t.me\")"
+  },
+  {
+   "id": "r026",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 2.5,
+   "text": "⛽🟢 Low gas right now Fast: 0.185475413 gwei  ·  Safe: 0.168614012 gwei  A cheaper time for routine transactions you already planned, for example revok",
+   "reasons": "giveaway_offer (\"claim an \"airdrop\") | unverified_airdrop_link (\"t.me\")"
+  },
+  {
+   "id": "r109",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 2.5,
+   "text": "Faucet vs airdrop. Two ways to get free crypto  https://faucetpayme.com/blog/faucet-vs-airdrop?utm_source=bluesky&utm_medium=organic_post&utm_campaign",
+   "reasons": "giveaway_offer (\"airdrop. two ways to get free crypto\") | unverified_airdrop_link (\"faucetpayme.com\")"
+  },
+  {
+   "id": "r025",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 4.5,
+   "text": " exchange?  Join Toobit now and unlock up to $15,000 in welcome rewards! 🎁  👇 Sign up with my invite link and claim your bonus: www.toobit.com/en-US/r",
+   "reasons": "giveaway_offer (\"rewards are limited! ⏳ #crypto\") | claim_cta (\"claim your\") | urgency (\"don't miss\") | unverified_airdrop_link (\"www.toobit.com\")"
+  },
+  {
+   "id": "r013",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 2.5,
+   "text": "Treehouse users must claim their TREE airdrop tokens by November 25 before the window closes. Check your wallet eligibility now. #Treehouse #Airdrop  ",
+   "reasons": "giveaway_offer (\"claim their tree airdrop\") | unverified_airdrop_link (\"infosaphere.blogspot.com\")"
+  },
+  {
+   "id": "r151",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 4.0,
+   "text": "STRIPCHAT #TOKENS #STRIPCHAT FREE - Official - StripChat Free Tokens 2026/2027 striptokens.live GET HUGE BONUSES with #blackfriday PROMO. Strip Chat H",
+   "reasons": "giveaway_offer (\"free - official - stripchat free tokens\") | suspicious_tld (\"striptokens.live\") | very_new_account (\"0.0 days old\")"
+  },
+  {
+   "id": "r150",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 4.0,
+   "text": "#stripchat stripchat tokens free stripchat tokens stripchat free tokens how to get free tokens on stripchat how to get free stripchat tokens free toke",
+   "reasons": "giveaway_offer (\"free stripchat tokens\") | suspicious_tld (\"striptokens.live\") | very_new_account (\"0.0 days old\")"
+  },
+  {
+   "id": "r446",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 3.0,
+   "text": "Fresh crypto airdrops are arriving late this November. Learn how to test new apps safely and claim free tokens without risking your main wallet funds.",
+   "reasons": "giveaway_offer (\"claim free tokens\") | claim_cta (\"claim free\") | news_framing (\"#cryptonews\") | unverified_airdrop_link (\"promptstore.wuaze.com\") | very_new_account (\"2.8 days old\")"
+  },
+  {
+   "id": "r340",
+   "source": "real",
+   "gold": "none",
+   "pred": "unverified-airdrop",
+   "score": 2.5,
+   "text": "🔐 Sécurité : la seule adresse officielle est https://startarcoins.com. Aucune « conversion » ni « airdrop » ne vous demandera votre phrase de récupéra",
+   "reasons": "legitimacy_assurance (\"only official site\") | unverified_airdrop_link (\"startarcoins.com\")"
+  },
+  {
+   "id": "r051",
+   "source": "real",
+   "gold": "unverified-airdrop",
+   "pred": "none",
+   "score": 1.5,
+   "text": "🪂 Live ЕТH Airdrop: Airdroр еligiвiliту снеск live. 🪂 Airdrоp sеasoп is нerе.",
+   "reasons": "giveaway_offer (\"eth airdrop\")"
+  },
+  {
+   "id": "r311",
+   "source": "real",
+   "gold": "none",
+   "pred": "crypto-scam",
+   "score": 5.0,
+   "text": "I build crypto you can check instead of trust.  All mine, all live: Zenland: escrow, no middleman NYKNYC: wallet, no seed phrase required CreateDAO: a",
+   "reasons": "credential_request (\"seed phrase required\")"
+  }
+ ],
+ "demos": [
+  {
+   "title": "Policy Ex. 1: send-to-receive",
+   "text": "Send 0.1 ETH to 0x52908400098527886E0F7030069857D2E4169EE7 and we return 0.2 ETH.",
+   "handle": "promo.bsky.social",
+   "age": 3,
+   "labels": [
+    "crypto-scam"
+   ],
+   "tier": "scam",
+   "score": 7.5,
+   "signals": [
+    "send_to_receive (+5, hard)",
+    "wallet_address (+1)",
+    "very_new_account (+1.5)"
+   ]
+  },
+  {
+   "title": "Policy Ex. 2: seed phrase",
+   "text": "Claim free tokens by entering your wallet recovery phrase.",
+   "handle": "promo.bsky.social",
+   "age": 3,
+   "labels": [
+    "crypto-scam"
+   ],
+   "tier": "scam",
+   "score": 9.0,
+   "signals": [
+    "credential_request (+5, hard)",
+    "giveaway_offer (+1.5)",
+    "claim_cta (+1)",
+    "very_new_account (+1.5)"
+   ]
+  },
+  {
+   "title": "Policy Ex. 3: impersonation + fee",
+   "text": "Elon is giving away 5,000 BTC! A small verification fee of 0.01 BTC is required.",
+   "handle": "elonmusk-official.bsky.social",
+   "age": 3,
+   "labels": [
+    "crypto-scam"
+   ],
+   "tier": "scam",
+   "score": 10.0,
+   "signals": [
+    "upfront_fee (+5, hard)",
+    "giveaway_offer (+1.5)",
+    "very_new_account (+1.5)",
+    "impersonation_handle (+2)"
+   ]
+  },
+  {
+   "title": "Policy Ex. 5: wallet connect + urgency",
+   "text": "Connect your wallet to claim free tokens before midnight!",
+   "handle": "promo.bsky.social",
+   "age": 30,
+   "labels": [
+    "unverified-airdrop"
+   ],
+   "tier": "review",
+   "score": 5.0,
+   "signals": [
+    "giveaway_offer (+1.5)",
+    "claim_cta (+1)",
+    "connect_wallet (+1.5)",
+    "urgency (+1)"
+   ]
+  },
+  {
+   "title": "Policy Ex. 6: nothing to claim",
+   "text": "Update: the 10M pot is an airdrop. Nothing to claim.",
+   "handle": "bunkyseal.bsky.social",
+   "age": 900,
+   "labels": [],
+   "tier": "none",
+   "score": -3.0,
+   "signals": [
+    "nothing_to_claim (-3)"
+   ]
+  },
+  {
+   "title": "Policy Ex. 7: scam warning",
+   "text": "Beware of scammers promising large airdrops if you send them crypto first.",
+   "handle": "dinosr.bsky.social",
+   "age": 900,
+   "labels": [],
+   "tier": "none",
+   "score": -7.0,
+   "signals": [
+    "scam_warning (-4)",
+    "reported_speech (-3)"
+   ]
+  },
+  {
+   "title": "Evasion: homoglyph + leetspeak",
+   "text": "S3nd 0.5 ЕТН, g3t 1 ЕТН b4ck! Limited time!",
+   "handle": "promo.bsky.social",
+   "age": 2,
+   "labels": [
+    "crypto-scam"
+   ],
+   "tier": "scam",
+   "score": 7.5,
+   "signals": [
+    "send_to_receive (+5, hard)",
+    "giveaway_offer (+1.5)",
+    "urgency (+1)"
+   ]
+  },
+  {
+   "title": "Look-alike domain",
+   "text": "Uniswap airdrop is live, claim at https://uniswaap-claim.org now",
+   "handle": "uni-drops.bsky.social",
+   "age": 5,
+   "labels": [
+    "unverified-airdrop"
+   ],
+   "tier": "review",
+   "score": 5.0,
+   "signals": [
+    "giveaway_offer (+1.5)",
+    "claim_cta (+1)",
+    "unverified_airdrop_link (+1)",
+    "very_new_account (+1.5)"
+   ]
+  },
+  {
+   "title": "Official project handle",
+   "text": "Our airdrop claim is open now at https://app.uniswap.org",
+   "handle": "uniswap.org",
+   "age": 900,
+   "labels": [],
+   "tier": "none",
+   "score": -4.0,
+   "signals": [
+    "giveaway_offer (+1.5)",
+    "claim_cta (+1)",
+    "official_links_only (-1.5)",
+    "verified_project_source (-5)"
+   ]
+  },
+  {
+   "title": "Real dev: faucet guide (v2 fix)",
+   "text": "Get faucet. Go to www.alchemy.com/faucets/ethereum-sepolia, enter EVM address, click 'Send me ETH'. You need at least 0.001 $ETH on mainnet to receive faucet tokens.",
+   "handle": "dev.bsky.social",
+   "age": 17,
+   "labels": [],
+   "tier": "none",
+   "score": 1.5,
+   "signals": [
+    "send_to_receive (+5, hard)",
+    "giveaway_offer (+1.5)",
+    "faucet_context (-2)"
+   ]
+  },
+  {
+   "title": "Real dev: Kalshi campaign (v2 fix)",
+   "text": "Celebrating with a 1 BTC giveaway 👉 insurance-kalshi.com",
+   "handle": "user.bsky.social",
+   "age": 700,
+   "labels": [
+    "crypto-scam"
+   ],
+   "tier": "scam",
+   "score": 4.5,
+   "signals": [
+    "giveaway_offer (+1.5)",
+    "brand_in_domain (+2)",
+    "unverified_airdrop_link (+1)",
+    "brand_domain_claim (+0, hard)"
+   ]
+  }
+ ],
+ "weights": {
+  "send_to_receive": 5.0,
+  "credential_request": 5.0,
+  "upfront_fee": 5.0,
+  "giveaway_offer": 1.5,
+  "claim_cta": 1.0,
+  "connect_wallet": 1.5,
+  "urgency": 1.0,
+  "wallet_address": 1.0,
+  "high_return_promise": 1.5,
+  "legitimacy_assurance": 1.5,
+  "unofficial_official_claim": 1.0,
+  "dm_to_claim": 1.0,
+  "blocklisted_domain": 5.0,
+  "lookalike_domain": 5.0,
+  "homoglyph_domain": 5.0,
+  "brand_in_domain": 2.0,
+  "shortened_link": 1.0,
+  "suspicious_tld": 1.0,
+  "punycode_domain": 2.0,
+  "unverified_airdrop_link": 1.0,
+  "very_new_account": 1.5,
+  "new_account": 1.0,
+  "impersonation_handle": 2.0,
+  "coordinated_link": 3.0,
+  "scam_warning": -4.0,
+  "credential_negation": -4.0,
+  "nothing_to_claim": -3.0,
+  "reported_speech": -3.0,
+  "satire": -1.5,
+  "faucet_context": -2.0,
+  "news_framing": -2.0,
+  "verified_project_source": -5.0,
+  "official_links_only": -1.5
+ },
+ "thresholds": {
+  "MEDIUM": 2.0,
+  "CONTESTED_BONUS": 3.0,
+  "DOWNGRADED_HARD": 2.0
+ }
+}
